@@ -1,5 +1,154 @@
 baseURL = 'https://tu4ever.fr/'
-languageCode = "fr-FR"
+languageCode = "fr-fr"
 defaultContentLanguage = "fr"
 title = 'TU4EVER'
 theme = 'spectral'
+
+
+[params]
+fancyTitle = "TU4EVER" # title for frontpage, may include image
+copyright = "TU4EVER"
+description = 'TU4EVER est une équipe composée de deux personnes qui a pour objectif la préparation et la participation à des raids en Peugeot 205.'
+body_is_markdown = true
+#custom_css = "foo.css"
+#images = ["path_to_social_image_for_link_previews.jpg"]
+
+[[params.menu.main]]
+url = '/'
+title = "Accueil"
+
+[[params.menu.main]]
+url = '/posts/'
+title = "Articles"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[params.one]
+enable = true
+title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+body = '''
+Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+'''
+
+[[params.one.icon]]
+icon = "fa-at"
+style = "1"
+label = "Lorem"
+
+[[params.one.icon]]
+icon = "fa-heart-o"
+style = "2"
+label = "Ipsum"
+
+[[params.one.icon]]
+icon = "fa-code"
+style = "3"
+label = "Dolor"
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+title = 'Magna primis lobortis<br />sed ullamcorper'
+body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+
+[[params.two.section]]
+img = "img/pic02.jpg"
+title = 'Tortor dolore feugiat<br />elementum magna'
+body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+
+[[params.two.section]]
+img = "img/pic03.jpg"
+title = 'Magna primis lobortis<br />sed ullamcorper'
+body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+
+[params.three]
+enable = true
+title = 'Accumsan mus tortor nunc aliquet'
+body = '''
+Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+'''
+
+[[params.three.feature]]
+icon = "fa-paper-plane-o"
+title = "Arcu accumsan"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[[params.three.feature]]
+icon = "fa-laptop"
+title = "Ac Augue Eget"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[[params.three.feature]]
+icon = "fa-code"
+title = "Foo bar"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[[params.three.feature]]
+icon = "fa-headphones"
+title = "Baz kram"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[[params.three.feature]]
+icon = "fa-heart-o"
+title = "Some latin text"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[[params.three.feature]]
+icon = "fa-flag-o"
+title = "Nothing important"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[params.cta]
+enable = true
+title = "Arcue ut vel commodo"
+body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+
+[[params.cta.link]]
+href = "#"
+text = "Activate"
+special = true
+
+[[params.cta.link]]
+href = "#"
+text = "Plus d'infos"
+special = false
+
+[params.contact]
+enable = true
+title = "Contact"
+body = "Leave us a message."
+phone = "+49 (0) 030 000 000"
+address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+email = "nospam@example.com"
+subject = "New Submission!"
+plain = false
+
+[params.social]
+twitter = ""
+facebook = ""
+instagram = ""
+dribble = ""
+
+# language specific options
+
+[languages]
+    [languages.fr]
+        weight = 0
+        languageName = "Français"
+
+    [languages.en]
+        weight = 10
+        languageName = "English"
+            [[languages.en.params.menu.main]]
+            url = '/'
+            title = "Home"
+            [[languages.en.params.menu.main]]
+            url = '/posts/'
+            title = "Posts"
