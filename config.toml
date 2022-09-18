@@ -4,9 +4,12 @@ defaultContentLanguage = "fr"
 title = 'TU4EVER'
 theme = 'spectral'
 
+[markup.goldmark.renderer]
+    unsafe = true
+
 
 [params]
-fancyTitle = '<img height="128" src="/images/logo.png" alt="Logo"/><br />TU4EVER'
+fancyTitle = '<img height="128" src="/images/logo.png" alt="Logo"/>'
 copyright = "TU4EVER"
 description = 'TU4EVER est une équipe composée de deux personnes qui a pour objectif la préparation et la participation à des raids en Peugeot 205.'
 body_is_markdown = true
@@ -29,26 +32,25 @@ title = "Articles"
 
 [params.one]
 enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+title = 'Que trouverez-vous sur ce site ?'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+Vous trouverez sur ce site différentes pages concernant notre projet de restauration, l'équipage, des articles, et autres.
 '''
 
 [[params.one.icon]]
 icon = "fa-at"
 style = "1"
-label = "Lorem"
+link = 'presentation'
 
 [[params.one.icon]]
-icon = "fa-heart-o"
+icon = "fa-book"
 style = "2"
-label = "Ipsum"
+link = "posts"
 
 [[params.one.icon]]
-icon = "fa-code"
+icon = "fa-dollar"
 style = "3"
-label = "Dolor"
+link = "partenariats"
 
 [params.two]
 enable = true
