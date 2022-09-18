@@ -124,16 +124,15 @@ special = false
 enable = true
 title = "Contact"
 body = "Leave us a message."
-phone = "+49 (0) 030 000 000"
 address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
+email = "contact@tu4ever.fr"
 subject = "New Submission!"
 plain = false
 
 [params.social]
-twitter = ""
+twitter = "tu4ever_205"
 facebook = ""
-instagram = ""
+instagram = "tu4ever_205"
 dribble = ""
 
 # language specific options
