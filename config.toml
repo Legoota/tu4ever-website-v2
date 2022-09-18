@@ -1,0 +1,5 @@
+baseURL = 'https://tu4ever.fr/'
+languageCode = "fr-FR"
+defaultContentLanguage = "fr"
+title = 'TU4EVER'
+theme = 'spectral'
