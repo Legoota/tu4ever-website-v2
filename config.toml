@@ -31,7 +31,7 @@ title = "Articles"
     series = "series"
 
 [params.one]
-enable = true
+enable = false
 title = 'Que trouverez-vous sur ce site ?'
 body = '''
 Vous trouverez sur ce site différentes pages concernant notre projet de restauration, l'équipage, des articles, et autres.
@@ -56,22 +56,22 @@ link = "partenariats"
 enable = true
 
 [[params.two.section]]
-img = "img/pic01.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
+img = "images/one.png"
+title = 'Présentation'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [[params.two.section]]
-img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
+img = "images/two.png"
+title = 'Équipage'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [[params.two.section]]
-img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
+img = "images/three.png"
+title = 'Partenariats'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [params.three]
-enable = true
+enable = false
 title = 'Accumsan mus tortor nunc aliquet'
 body = '''
 Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  

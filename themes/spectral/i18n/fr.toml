@@ -5,28 +5,28 @@ other = "Menu"
 other = "Plus d'infos"
 
 [name]
-other = "Name"
+other = "Nom"
 
 [email]
 other = "E-Mail"
 
 [phone]
-other = "Telefon"
+other = "Téléphone"
 
 [address]
 other = "Adresse"
 
 [yourmessage]
-other = "Ihre Nachricht"
+other = "Votre message"
 
 [send]
-other = "senden"
+other = "Envoyer"
 
 [reset]
-other = "zurücksetzen"
+other = "Réinitialiser"
 
 [allarticles]
-other = "Alle Artikel"
+other = "Tous les articles"
 
 [readmore]
-other = "Weiterlesen…"
+other = "Plus d'infos"

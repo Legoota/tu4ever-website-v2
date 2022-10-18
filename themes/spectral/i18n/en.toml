@@ -20,13 +20,13 @@ other = "Address"
 other = "Your Message"
 
 [send]
-other = "send"
+other = "Send"
 
 [reset]
-other = "reset"
+other = "Reset"
 
 [allarticles]
-other = "all articles"
+other = "All articles"
 
 [readmore]
 other = "Read more…"
