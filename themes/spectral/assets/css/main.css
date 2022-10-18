@@ -2741,7 +2741,7 @@ input, select, textarea {
 			-webkit-order: 2;
 			-ms-order: 2;
 			order: 2;
-			max-width: 48em;
+			max-width: 68em;
 			width: 60%;
 		}
 
@@ -4047,3 +4047,10 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+
+/* OWN */
+
+.email-highlights {
+	color: var(--accent-color);
+}
