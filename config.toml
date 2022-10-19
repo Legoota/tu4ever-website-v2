@@ -25,6 +25,10 @@ title = "Accueil"
 url = '/posts/'
 title = "Articles"
 
+[[params.menu.main]]
+url = '/alpinaraid22/'
+title = "Alpinaraid 2022"
+
 [taxonomies]
     tag = "tags"
     category = "categories"

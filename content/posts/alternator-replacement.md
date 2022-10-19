@@ -1,8 +1,8 @@
 +++
 author = "Hugo Authors"
-title = "Placeholder Text"
-date = "2019-03-09"
-description = "Lorem Ipsum Dolor Si Amet"
+title = "Changement de l'alternateur"
+date = "2019-23-09"
+description = "Afin d'éviter les pannes fréquentes lors des raid, nous avons effectué le remplacement de notre alternateur ainsi que la courroie d'accessoires. Nous avons également installé une batterie neuve, des prises allume-cigare et USB supplémentaires et un voltmètre pour surveiller la tension de la batterie."
 tags = [
     "markdown",
     "text",
