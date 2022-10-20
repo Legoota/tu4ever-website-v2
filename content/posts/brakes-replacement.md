@@ -1,148 +1,94 @@
 +++
 author = "Hugo Authors"
-title = "Markdown Syntax Guide"
+title = "Remplacement des freins"
 date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+description = "Nous avons enfin remplacé les freins avant et arrières de notre Peugeot 205. Il était temps..."
 tags = [
-    "markdown",
-    "css",
-    "html",
+    "brakes",
+    "freins",
 ]
-categories = [
-    "themes",
-    "syntax",
-]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
-+++
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-<!--more-->
+Nous avons enfin effectué le remplacement des freins avant et arrière de notre Peugeot 205. Nous vous présentons dans cet article un aperçu des travaux. Lors du premier essai de notre voiture, nous avons tout de suite senti que les freins n'étaient pas dans leur meilleure forme et nous savions qu'il allait falloir les changer très vite. Nous avons commandé les pièces et décidé de faire le remplacment à la maison et sans outils spéciaux.
 
-## Headings
+## Les tambours arrières
+### Étape 1 : Ouverture
+Après avoir posé la voiture sur chandelles, ôté les roues arrières et désseré le frein à main, nous avons retiré le cache du moyeu. Nous avons enuite pu défreiner l'écrou à l'aide d'un marteau et d'un burin.
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Nous avons ensuite, à l'aide du marteau et du burin d'un côté et d'une cale de bois de l'autre, retiré le tambour. Nous avons longuement martellé la pièce et pulverisé du dégripant pour la désolidariser de l'ensemble.
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+<figure>
+    <img src="/images/brakes-replacement/1.jpg" alt="Initial brake">
+    <figcaption>Dépose de  l'écrou freiné</figcaption>
+</figure>
 
-## Paragraph
+<figure>
+  <img src="/images/brakes-replacement/2.jpg" alt="Initial brake">
+  <figcaption>Aperçu de profil du tambour de frein avant ouverture</figcaption>
+</figure>
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+### Étape 2 : Dépose de l'ancien kit
+Une fois le tambour déposé, nous avons accès à la machoire et aux segments garnis. Avant de démonter l'ancien kit de frein, nous avons vérifié que le nouveau était identique. Nous avons enlevé les deux ressorts de maintien et retiré le câble de frein à main à l'aide de deux pinces.
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+A cette étape, il faudrait normalement remplacer le cylindre de frein, chose que nous avons décidé de ne pas faire car l'arrivée du circuit de liquide de frein était tellement soudée par la rouille que nous ne voulions pas casser la pièce. Nous remplacerons cette pièce dans le futur lorsque nous changerons l'intégralité des tuyaux du circuit de frein. Nous avons également protégé les roulements pour appliquer un peu de convertisseur de rouille sur la flasque afin de lui redonner un état plus rassurant.
 
-## Blockquotes
+<figure>
+    <img src="/images/brakes-replacement/3.jpg" alt="Old brake kit">
+    <figcaption>Aperçu de l'ancien kit de frein</figcaption>
+</figure>
+<figure>
+  <img src="/images/brakes-replacement/4.jpg" alt="Brake fluid arrival">
+  <figcaption>Raccordement rouillé du circuit de freinage</figcaption>
+</figure>
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+### Étape 3 : Nettoyage, graissage et remontage
+Nous avons ensuite bien nettoyé avec du nettoyant frein la flasque, la bande roulement du tambour, et le roulement à rouleaux coniques. Puis nous avons séché le tout avec un chiffon propre. Nous avons ensuite appliqué la graisse haute température fournie dans le kit sur les emplacements où reposent les nouvelles machoires de frein et de la graisse solide adaptée sur les roulements.
 
-#### Blockquote without attribution
+Nous sommes ensuite passés au remontage. Tout d'abord, nous avons reconnecté le câble de frein à main, puis remis en place les mâchoires, bien alignées sur le cylindre et la butée. Nous avons ensuite remis les ressorts de maintien et enfin le tambour. Le tambour doit frotter très légèrement et uniformément quand on le tourne. Sur certaines voitures, nous pouvons agir sur le ressort de rattrapage automatique de jeu de frein. Ce n'est pas notre cas sur notre Peugeot 205.
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
+<figure>
+    <img src="/images/brakes-replacement/5.jpg" alt="Lubrication">
+    <figcaption>Graissage de la flasque et roulements avant remontage</figcaption>
+</figure>
 
-#### Blockquote with attribution
+Voici le résultat final avant remise en place du tambour.
+<figure>
+    <img src="/images/brakes-replacement/6.jpg" alt="New brake kit">
+    <figcaption>Nouveau kit de frein</figcaption>
+</figure>
 
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
+## Les disques et plaquettes avant
+### Étape 1 : Démontage
+Pour le démontage des freins avant, nous commençons par retirer le connecteur de témoin de frein et la clavette de maintien des plaquettes. Nous retirons également les parties métalliques de maintien, puis les plaquettes. Nous retirons ensuite les deux vis de maintien en position des disques puis nous déposons l'ancien disque de frein.
+<figure>
+    <img src="/images/brakes-replacement/7.jpg" alt="Old front brakes">
+    <figcaption>Apperçu de l'étrier de frein avant changement des pièces</figcaption>
+</figure>
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+### Étape 2 : Nettoyge
+Nous commençons par frotter l'étrier et la partie sur laquelle se pose le disque avec une brosse puis nous dégraissons les surfaces avec du nettoyant frein. Nous appliquons ensuite un spray antirouille pour la protection des pièces. Nous laissons sécher avant de passer au remontage.
+<figure>
+    <img src="/images/brakes-replacement/9.jpg" alt="Brake cleanning">
+    <figcaption>Nettoyage avant remontage</figcaption>
+</figure>
 
-## Tables
+### Étape 3 : Remontage
+Pour le remontage, il suffit de suivre la procédure inverse. Nous commençons par remonter le disque, puis les plaquettes de freins. Nous remmettons en place la clavette et les ressorts de maintien des disques. Nous terminons par reconnecter le temoin de frein.
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+Voici le résultat que nous obtenons.
+<figure>
+    <img src="/images/brakes-replacement/10.jpg" alt="New front brake Brembo">
+    <figcaption>Nouveau disque de frein rainuré Brembo</figcaption>
+</figure>
+<figure>
+    <img src="/images/brakes-replacement/11.jpg" alt="Old brake disk">
+    <figcaption>Nouvelles plaquettes de frein Brembo</figcaption>
+</figure>
+Attention
 
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
+Le remplacement du cylindre de frein arrière implique l'ouverture du circuit de freinage. Il faut donc impérativement faire une purge du liquide de frein avant de reprendre la route. Cette étape est délicate car la moindre bulle d'air dans le circuit de liquide de freinage peut être fatale. Nous conssacrerons donc un article entier pour cette manoeuvre que nous réaliserons dans les prochaines semaines.
 
-#### Inline Markdown within tables
+### Liste de pièces utilisées
 
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
-
-## Code Blocks
-
-#### Code block with backticks
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-
-#### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-* List item
-* Another item
-* And another item
-
-#### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+- Disque de frein Brembo, profil ventilé, gamme sport : <a target="_blank" href="https://www.bremboparts.com/europe/fr/catalogue/disc/08-2985-75">Disques de frein Brembo 08-2985-75</a>
+- Jeu de plaquettes Brembo pour système de freinage Bendix : <a target="_blank" href="https://www.bremboparts.com/europe/fr/catalogue/pad/P_68_010">Plaquettes de frein Brembo P_68_010
+- Kit de frein à tambours Bosch : <a target="_blank" href="https://www.oscaro.com/kit-de-freins-a-tambours-bosch-0-204-114-063-13051-3859-p#">Kit de frein à tambours Bosch (non-sponsorisé)
