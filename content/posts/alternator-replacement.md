@@ -3,43 +3,51 @@ author = "Hugo Authors"
 title = "Changement de l'alternateur"
 date = "2019-23-09"
 description = "Afin d'éviter les pannes fréquentes lors des raid, nous avons effectué le remplacement de notre alternateur ainsi que la courroie d'accessoires. Nous avons également installé une batterie neuve, des prises allume-cigare et USB supplémentaires et un voltmètre pour surveiller la tension de la batterie."
-tags = [
-    "markdown",
-    "text",
-]
+tags = [ "alternateur","alternator"]
 +++
 
-Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+Afin d'éviter les pannes fréquentes lors des raid, nous avons effectué le remplacement de notre alternateur ainsi que la courroie d'accessoires. Nous avons également installé une batterie neuve, des prises allume-cigare et USB supplémentaires et un voltmètre pour surveiller la tension de la batterie.
 
-1. Exierant elisi ambit vivere dedere
-2. Duce pollice
-3. Eris modo
-4. Spargitque ferrea quos palude
+## Remplacement de l'alternateur
 
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
+Le changement de l'alternateur est une étape assez simple à réaliser. Nous avons procédé comme ceci :
+1. Commencer par débrancher la cosse négative (-) de la batterie. Dans notre cas, nous avons un coupe-circuit rapide, ce qui nous permet de nous affranchir de clés pour cette étape.
+2. Débrancher les deux câbles connectés à l'ancien alternateur. Le câble de petite section du milieu sert pour le temoin de charge tandis que le plus gros rouge sert pour le chargement de la batterie.
+3. Déserrer les vis de fixation de l'alternateur pour lui pemettre le basculement.
+4. Dévisser la vis de tension jusqu'à ce que la courroie puisse être déposée.
+5. Déposer ensuite l'ancien alternateur.
 
-1. Comas hunc haec pietate fetum procerum dixit
-2. Post torum vates letum Tiresia
-3. Flumen querellas
-4. Arcanaque montibus omnes
-5. Quidem et
+Pour le remontage du nouvel alternateur, il suffit de procéder dans le sens inverse.
 
-# Vagus elidunt
+Conseil
 
-<svg class="canon" xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="373" width="496"><g fill="none"><path stroke="#000" stroke-width=".75" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"></path><path stroke="#ED1C24" stroke-width=".75" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"></path><path stroke="#000" stroke-width=".75" d="M.479.375h495v372h-495zM247.979.875v372"></path><ellipse cx="498.729" cy="177.625" rx=".75" ry="1.25"></ellipse><ellipse cx="247.229" cy="377.375" rx=".75" ry="1.25"></ellipse></g></svg>
+Dans notre cas, la préconisation constructeur pour la tension de la courroie est un déplacement d'environ 6mm lors de l'appui sur la partie supérieure.
 
-[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
+Voici quelques images du nouvel alternateur en place.
 
-## Mane refeci capiebant unda mulcebat
+<figure class="figure">
+    <img src="/images/alternator-replacement/alternator-replacement-1.jpg" alt="Alternator #1">
+    <figcaption class="figure-caption text-right text-light">Nouvel alternateur et courroie, vue du dessus.</figcaption>
+</figure>
 
-Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
+<figure class="figure">
+    <img src="/images/alternator_replacement/alternator-replacement-2.jpg" alt="Alternator #2">
+    <figcaption class="figure-caption text-right text-light">Nouvel alternateur et courroie, vue du dessous.</figcaption>
+</figure>
 
-Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.
+Lors du démontage du câble de charge, nous avons cassé la cosse avec manchon à sertir qui n'était pas en bon état et nous n'avions pas cette pièce sous la main. Dans ce cas, la solution est de pincer fort le brin de câble entre deux rondelles (visible sur la photo ci-dessus).
 
-Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel **mitis temploque** vocatus, inque alis, *oculos nomen* non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides **parte**.
+### Références de pièces instalées
+- Alternateur : HELLA - 8EL 012 430-101
+- Courroie d'accessoires : <a href="https://www.gates.com/fr/fr/search.p.8532-000000-000000.v.8532-16261.html" target="_blank">Courroie Gates 6261MC AVX10 x 713</a>
 
-{{< css.inline >}}
-<style>
-.canon { background: white; width: 100%; height: auto; }
-</style>
-{{< /css.inline >}}
+## Ajout des accessoires
+### Le voltmètre
+Nous avons câblé le voltmètre sur le +12V après contact. Il nous permet de connaitre l'état de charge de la batterie avant le démarage du moteur mais aussi de vérifier le bon rechargement de la batterie lorsqu'on roule et ce, même quand nous utiliserons les équipements électriques à bord.
+
+<img src="/images/alternator_replacement/alternator-replacement-4.jpg" alt="Voltmeter">
+
+### Les prises de rechargement
+Afin de pouvoir recharger tout au long de l'aventure tous nos équipements électriques comme le GPS, les smartphones, les lampes, le drone et les caméras, nous avons décider d'ajouter une deuxième prise allume-cigare en plus que celle d'origine. Nous avons également ajouté 2 prises USB en 5V, 2,1A.
+
+<img src="/images/alternator_replacement/alternator-replacement-3.jpg" alt="USB and cigarette lighter sockets">
