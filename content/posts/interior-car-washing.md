@@ -1,46 +1,36 @@
 +++
 author = "Hugo Authors"
-title = "toto"
+title = "Rénovation de l'intérieur de la voiture"
 date = "2022-23-03"
-description = "Nous avons restauré des jantes de 205 GTI 1.6 à la maison, et nous vous expliquons les différentes étapes."
+description = "Nous avons complètement nettoyé l'interieur de la voiture"
 tags = [
-    "emoji",
+    "lavage", "nettoyage", "interieur", "washing", "interior" 
 ]
 +++
 
-Emoji can be enabled in a Hugo project in a number of ways. 
-<!--more-->
-The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes). 
+Lorsque nous avons acheté notre Peugeot 205, un travail conséquent sur le nettoyage de l'intérieur nous attendait. En effet, les sièges étaient sales, voir tachés par endroits, la couleur d'origine des moquettes avant commençait à être discutable et l'odeur n'était pas forcément la plus agréable. Nous nous sommes donc mis au travail afin de nous sentir bien pour les nombreux kilomètres que nous allons passer à son bord.
 
-To enable emoji globally, set `enableEmoji` to `true` in your site's [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
+Voici les différentes étapes du nettoyage.
 
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
-<br>
+### Les tissus et les moquettes
+Pour nous faciliter la tâche, nous avons commencé par déposer les fauteuils et la banquette. De plus, sur ce modèle de 205, les fauteuils sont déhoussables ce qui facilite certaines tâches de nettoyage.
 
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
+Pour le nettoyage des moquettes, nous avons commencé par désincruster les salissures avec du vinaigre et du bicarbonate. La réaction produite commence par faire un premier nettoyage. Nous avons ensuite nettoyé les moquettes avec des cristaux de soude dilués dans de l'eau et de la lessive.
 
-***
+Enfin, après le séchage, nous avons utilisé de l'ammoniaque et une brosse sur les housses des sièges et la moquette pour raviver les couleurs d'origine. Attention l'ammoniaque peut être très dangereuse, portez des gants, des lunettes, un masque et mettez-vous dans un espace aéré.
 
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
+<img src="/images/interior-washing/1.jpg">
 
-{{< highlight html >}}
-.emoji {
-  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}
-{{< /highlight >}}
+<img src="/images/interior-washing/3.jpg">
 
-{{< css.inline >}}
-<style>
-.emojify {
-	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-	font-size: 2rem;
-	vertical-align: middle;
-}
-@media screen and (max-width:650px) {
-  .nowrap {
-    display: block;
-    margin: 25px 0;
-  }
-}
-</style>
-{{< /css.inline >}}
+### Les plastiques
+
+Pour les plastiques, nous avons d'abord fait un lavage à l'eau et au savon noir, puis un lustrage au rénovateur plastique.
+
+### Remontage et résultat
+
+<img src="/images/interior-washing/5.jpg">
+<img src="/images/interior-washing/6.jpg">
+<img src="/images/interior-washing/7.jpg">
+
+Nous constatons que les plastiques ont retrouvés leur brillance d'antant et les tissus leur couleur d'origine.
