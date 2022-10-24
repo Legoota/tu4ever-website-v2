@@ -1,49 +1,68 @@
----
-author: Hugo Authors
-title: Math Typesetting
-date: 2019-03-08
-description: A brief guide to setup KaTeX
-math: true
----
++++
+author = "Hugo Authors"
+title = "Fabrication des supports de parechocs"
+date = "2019-03-11"
+description = "Nous avons refabriqué à la maison des pièces de support des parechocs avant et arrière."
+tags = [
+    "bumper",
+    "supports",
+]
++++
 
-Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
-<!--more-->
+Durant la réfection des parechocs de notre Peugeot 205, nous avons remarqué que les supports qui les maintenaient à l'arrière étaient en mauvais état à cause de la rouille. De plus, comme nous avons remplacé la jupe avant d'origine par une jupe de Peugeot 205 GTI et que nous avons décidé d'y inclure les phares longue portée, nous avons dû reconcevoir des pièces de support.
 
-In this example we will be using [KaTeX](https://katex.org/)
+Bien sûr, ces pièces sont disponible à l'achat et pas forcément très onéreuses, mais nous voulions d'une part réduire le coup du projet, et de l'autre avoir la fierté des faire certaines de nos pièces à la maison. Nous vous expliquons dans cet article comment refaire ces pièces chez vous si vous souhaitez changer les vôtres.
 
-- Create a partial under `/layouts/partials/math.html`
-- Within this partial reference the [Auto-render Extension](https://katex.org/docs/autorender.html) or host these scripts locally.
-- Include the partial in your templates like so:  
+Pour fabriquer nos nouvelles pièces, nous avons choisi de prendre une baguette d'inox de 1.5mm d'épaisseur, par 20mm de largeur et 1000mm de longueur, découpable et pliable facilement.
 
-```bash
-{{ if or .Params.math .Site.Params.math }}
-{{ partial "math.html" . }}
-{{ end }}
-```
+## Supports arrière
+### Étape 1 : Conception
 
-- To enable KaTex globally set the parameter `math` to `true` in a project's configuration
-- To enable KaTex on a per page basis include the parameter `math: true` in content files
+Concernant les supports de la jupe arrière, nous avons démonté les deux supports rouillés déjà existants, pour ensuite prendre leurs mesures et ainsi pouvoir les refaire à neuf.
 
-**Note:** Use the online reference of [Supported TeX Functions](https://katex.org/docs/supported.html)
+<figure>
+    <img src="/images/bumper-supports/support-arriere-comparaison.png" alt="Comparaison ancienne nouvelle">
+    <figcaption>Comparaison de l'ancienne pièce à côté de la nouvelle</figcaption>
+</figure>
 
-{{< math.inline >}}
-{{ if or .Page.Params.math .Site.Params.math }}
-<!-- KaTeX -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
-{{ end }}
-{{</ math.inline >}}
+<figure>
+    <img src="/images/bumper-supports/mep-arr.png" alt="Mise en plan fixation arrière">
+    <figcaption>Mise en plan du support arrière</figcaption>
+</figure>
 
-### Examples
+### Étape 2 : Fabrication
+Nous avons donc découpé une partie de notre baguette d'inox, que nous avons ensuite percée aux deux extrémités, puis pliée dans un étau à l'aide de cales en bois.
 
-{{< math.inline >}}
-<p>
-Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
-</p>
-{{</ math.inline >}}
+Ensuite, nous l'avons fixée à l'aide de rivets, pour un bon maintien de la jupe arrière.
+<figure>
+    <img src="/images/bumper-supports/support-arriere.png" alt="Nouveau support arrière en place">
+    <figcaption>Nouveau support en place</figcaption>
+</figure>
 
-Block math:
-$$
- \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
-$$
+Nous réitérons l'opération pour réaliser une seconde pièce de support pour en mettre une de chaque côté, comme à l'origine.
+
+Attention Les pièces ont peut être besoin d'être adaptées à la forme exacte de votre carrosserie. Par exemple, nous avons légèrement meulé des arrondis plus prononcés pour les supports avant pour ne pas gêner la fixation, et nous avons également redressé l'angle droit pour que notre pièce épouse la forme du châssis.
+
+## Supports avant
+### Étape 1 : Conception
+
+Au sujet des supports de la jupe avant, nous avons dû prendre les mesures nous même étant donné que lors de notre achat de la jupe avant, nous n'avions pas les supports fournis.
+
+Concernant les trous, nous avions besoin de faire passer les vis larges des phares longue portée, donc les pièces comportent des trous plus larges que ceux sur les supports arrière.
+
+<figure>
+    <img src="/images/bumper-supports/mep-av.png" alt="Mise en plan fixation avant">
+    <figcaption>Mise en plan du support avant</figcaption>
+</figure>
+
+### Étape 2 : Fabrication
+Pour la fabrication, nous reprenons le même processus que dans la première partie sur les supports arrière : nous découpons une partie de la baguette d'inox à la longueur souhaitée, nous perçons puis nous plions dans un étau.
+
+<figure>
+    <img src="/images/bumper-supports/support-avant.png" alt="Nouveau support avant en place">
+    <figcaption>Nouveau support en place</figcaption>
+</figure>
+
+Nous faisons deux pièces semblables, une pour chaque côté, que nous fixons entre le châssis et la jupe (en utilisant la vis fournie avec les phares longue portée).
+
+Nous avons à présent des supports avant et arrière permettant de rendre les jupes de notre Peugeot plus solides.

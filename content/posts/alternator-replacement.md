@@ -31,7 +31,7 @@ Voici quelques images du nouvel alternateur en place.
 </figure>
 
 <figure class="figure">
-    <img src="/images/alternator_replacement/alternator-replacement-2.jpg" alt="Alternator #2">
+    <img src="/images/alternator-replacement/alternator-replacement-2.jpg" alt="Alternator #2">
     <figcaption class="figure-caption text-right text-light">Nouvel alternateur et courroie, vue du dessous.</figcaption>
 </figure>
 
@@ -45,9 +45,9 @@ Lors du démontage du câble de charge, nous avons cassé la cosse avec manchon 
 ### Le voltmètre
 Nous avons câblé le voltmètre sur le +12V après contact. Il nous permet de connaitre l'état de charge de la batterie avant le démarage du moteur mais aussi de vérifier le bon rechargement de la batterie lorsqu'on roule et ce, même quand nous utiliserons les équipements électriques à bord.
 
-<img src="/images/alternator_replacement/alternator-replacement-4.jpg" alt="Voltmeter">
+<img src="/images/alternator-replacement/alternator-replacement-4.jpg" alt="Voltmeter">
 
 ### Les prises de rechargement
 Afin de pouvoir recharger tout au long de l'aventure tous nos équipements électriques comme le GPS, les smartphones, les lampes, le drone et les caméras, nous avons décider d'ajouter une deuxième prise allume-cigare en plus que celle d'origine. Nous avons également ajouté 2 prises USB en 5V, 2,1A.
 
-<img src="/images/alternator_replacement/alternator-replacement-3.jpg" alt="USB and cigarette lighter sockets">
+<img src="/images/alternator-replacement/alternator-replacement-3.jpg" alt="USB and cigarette lighter sockets">

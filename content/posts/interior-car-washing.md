@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "Rénovation de l'intérieur de la voiture"
 date = "2022-23-03"
-description = "Nous partageons avec vous la "remise à neuf" de l'intérieur de notre 205. Il y avait du travail..."
+description = "Nous partageons avec vous la remise à neuf de l'intérieur de notre 205. Il y avait du travail..."
 tags = [
     "lavage", "nettoyage", "interieur", "washing", "interior" 
 ]
