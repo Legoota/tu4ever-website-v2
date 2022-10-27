@@ -41,7 +41,7 @@ Ensuite, nous l'avons fixée à l'aide de rivets, pour un bon maintien de la jup
 
 Nous réitérons l'opération pour réaliser une seconde pièce de support pour en mettre une de chaque côté, comme à l'origine.
 
-Attention Les pièces ont peut être besoin d'être adaptées à la forme exacte de votre carrosserie. Par exemple, nous avons légèrement meulé des arrondis plus prononcés pour les supports avant pour ne pas gêner la fixation, et nous avons également redressé l'angle droit pour que notre pièce épouse la forme du châssis.
+<span class="badge yellow">Attention</span> Les pièces ont peut être besoin d'être adaptées à la forme exacte de votre carrosserie. Par exemple, nous avons légèrement meulé des arrondis plus prononcés pour les supports avant pour ne pas gêner la fixation, et nous avons également redressé l'angle droit pour que notre pièce épouse la forme du châssis.
 
 ## Supports avant
 ### Étape 1 : Conception

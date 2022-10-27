@@ -4068,3 +4068,34 @@ input, select, textarea {
 	padding-bottom: 2em;
 	font-style: italic;
 }
+
+.badge {
+	display: inline-block;
+    padding: .35em .65em;
+    font-size: .75em;
+    font-weight: 700;
+    line-height: 1;
+    color: whitesmoke;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+}
+
+.green {
+	background-color: var(--quartiary-color);
+}
+
+.yellow {
+	background-color: var(--accent-color);
+}
+
+.not-sponso {
+	color: red;
+	font-size: small;
+	font-style: italic;
+}
+
+.anchor-link {
+	color: var(--secondary-color);
+}

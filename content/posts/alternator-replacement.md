@@ -19,7 +19,7 @@ Le changement de l'alternateur est une étape assez simple à réaliser. Nous av
 
 Pour le remontage du nouvel alternateur, il suffit de procéder dans le sens inverse.
 
-Conseil
+<span class="badge green">Conseil</span>
 
 Dans notre cas, la préconisation constructeur pour la tension de la courroie est un déplacement d'environ 6mm lors de l'appui sur la partie supérieure.
 
@@ -39,7 +39,7 @@ Lors du démontage du câble de charge, nous avons cassé la cosse avec manchon 
 
 ### Références de pièces instalées
 - Alternateur : HELLA - 8EL 012 430-101
-- Courroie d'accessoires : <a href="https://www.gates.com/fr/fr/search.p.8532-000000-000000.v.8532-16261.html" target="_blank">Courroie Gates 6261MC AVX10 x 713</a>
+- Courroie d'accessoires : <a class="anchor-link" href="https://www.gates.com/fr/fr/search.p.8532-000000-000000.v.8532-16261.html" target="_blank">Courroie Gates 6261MC AVX10 x 713</a>
 
 ## Ajout des accessoires
 ### Le voltmètre

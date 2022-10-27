@@ -17,7 +17,7 @@ Pour nous faciliter la tâche, nous avons commencé par déposer les fauteuils e
 
 Pour le nettoyage des moquettes, nous avons commencé par désincruster les salissures avec du vinaigre et du bicarbonate. La réaction produite commence par faire un premier nettoyage. Nous avons ensuite nettoyé les moquettes avec des cristaux de soude dilués dans de l'eau et de la lessive.
 
-Enfin, après le séchage, nous avons utilisé de l'ammoniaque et une brosse sur les housses des sièges et la moquette pour raviver les couleurs d'origine. Attention l'ammoniaque peut être très dangereuse, portez des gants, des lunettes, un masque et mettez-vous dans un espace aéré.
+Enfin, après le séchage, nous avons utilisé de l'ammoniaque et une brosse sur les housses des sièges et la moquette pour raviver les couleurs d'origine. <span class="badge yellow">Attention</span> L'ammoniaque peut être très dangereuse, portez des gants, des lunettes, un masque et mettez-vous dans un espace aéré.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/interior-washing/1.jpg">

@@ -9,18 +9,18 @@ tags = [
 ]
 +++
 
-Afin de pouvoir transporter plus d'affaires facilement, nous avons rapidement réalisé qu'il serait nécessaire d'utiliser le toit de la voiture. Nous avons commencé par acquérir deux barres de toit sur le marché de l'occasion, mais nous savions que nous allions y rajouter une galerie pour agrandir la surface de stockage utilisable. Au départ, nous pensions acheter une galerie classique trouvable en occasion, puis nous nous sommes mis en quête de concevoir notre galerie sur mesure.
+Afin de pouvoir transporter plus d'affaires facilement, nous avons rapidement réalisé qu'il serait nécessaire d'utiliser le toit de la voiture. Nous avons commencé par acquérir deux barres de toit sur le marché de l'occasion, mais nous savions que nous allions y rajouter une <b>galerie</b> pour agrandir la surface de stockage utilisable. Au départ, nous pensions acheter une galerie classique trouvable en occasion, puis nous nous sommes mis en quête de concevoir notre galerie sur mesure.
 
-Cette galerie n'aurait pas été possible sans notre partenaire <a target="_blank" class="link" href="https://john-steel.com/">John-Steel</a>, le site de découpe de métal et de bois en ligne, qui a réalisé la découpe au laser de notre plaque. Nous les remercions très chaleureusement !
+Cette galerie n'aurait pas été possible sans notre partenaire <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/">John-Steel</a>, le site de découpe de métal et de bois en ligne, qui a réalisé la découpe au laser de notre plaque. Nous les remercions très chaleureusement !
 
 ## Phase de conception
 ### Étape 1 : Création du plan
 
-Pour déterminer la position des trous de fixation de la future galerie, nous sommes partis par les éléments que nous avions déjà : les barres de toit. Nous avons donc commencé par mesurer l'entraxe entre celles-ci pour déterminer la position des trous. Nous avons aussi mesuré la taille maximale possible que notre galerie pouvait mesurer, et nous avons décidé ensuite de réaliser une galerie de 1200mm x 1000mm.
+Pour déterminer la position des trous de fixation de la future galerie, nous sommes partis par les éléments que nous avions déjà : les <b>barres de toit</b>. Nous avons donc commencé par mesurer l'entraxe entre celles-ci pour déterminer la position des trous. Nous avons aussi mesuré la taille maximale possible que notre galerie pouvait mesurer, et nous avons décidé ensuite de réaliser une galerie de 1200mm x 1000mm.
 
 A noter Il faut bien s'assurer de ne pas faire une galerie trop large sous peine de ne plus être dans les règles, ainsi que de ne pas la faire trop longue pour pouvoir encore ouvrir le coffre et conserver une bonne visibilité !
 
-Nous avons également décidé de placer des trous oblongs à intervalles réguliers dans le but de pouvoir y passer des sangles de différentes manières pour fixer de manière convenable nos équipements. De la même manière, afin d'améliorer la rigidité de notre galerie, nous avons prévu de mettre des cornières perforées, permettant de solidifier la plaque et d'offrir des fixations supplémentaires. Nous prévoyons des trous réguliers tout le long des bords de notre galerie pour les fixer.
+Nous avons également décidé de placer des trous oblongs à intervalles réguliers dans le but de pouvoir y passer des <b>sangles</b> de différentes manières pour fixer de manière convenable nos équipements. De la même manière, afin d'améliorer la rigidité de notre galerie, nous avons prévu de mettre des cornières perforées, permettant de solidifier la plaque et d'offrir des fixations supplémentaires. Nous prévoyons des trous réguliers tout le long des bords de notre galerie pour les fixer.
 
 Vous trouverez sur les images ci-dessous la mise en plan de notre galerie : Les petits trous le long de la plaque sont prévus en M5, les 6 trous plus grands pour fixer la plaque aux barres de toit sont prévus en M8.
 
@@ -35,11 +35,11 @@ Concernant les trous oblongs pour passer les sangles, nous avons décidé de les
 </figure>
 
 ### Étape 2 : Découpe de la plaque
-Une fois notre plan réalisé, nous l'avons édité sur un logiciel de CAO (dans notre cas, Fusion360) pour en sortir un fichier DXF, adapté à la découpe.
+Une fois notre plan réalisé, nous l'avons édité sur un logiciel de CAO (dans notre cas, Fusion360) pour en sortir un fichier <b>DXF</b>, adapté à la découpe.
 
-C'est à ce moment que notre partenaire <a target="_blank" class="link" href="https://john-steel.com/">John-Steel</a> est entré en jeu. <a target="_blank" class="link" href="https://john-steel.com/">John-Steel</a> est un site de découpe sur-mesure de métal et de bois, permettant aux particuliers de déposer leur fichier DXF ou d'utiliser l'éditeur en ligne pour concevoir leurs pièces et obtenir un prix en temps direct.
+C'est à ce moment que notre partenaire <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/">John-Steel</a> est entré en jeu. <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/">John-Steel</a> est un site de découpe sur-mesure de métal et de bois, permettant aux particuliers de déposer leur fichier <b>DXF</b> ou d'utiliser l'éditeur en ligne pour concevoir leurs pièces et obtenir un prix en temps direct.
 
-Nous avons donc envoyé notre fichier DXF sur le site <a target="_blank" class="link" href="https://john-steel.com/">John-Steel</a>, puis avons sélectionné la matière souhaitée (Inox 304L en épaisseur 2mm), et nous avons obtenu notre prix directement. Quelques jours plus tard, la plaque était prête, conforme à notre fichier.
+Nous avons donc envoyé notre fichier <b>DXF</b> sur le site <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/">John-Steel</a>, puis avons sélectionné la matière souhaitée (<b>Inox 304L</b> en épaisseur 2mm), et nous avons obtenu notre prix directement. Quelques jours plus tard, la plaque était prête, conforme à notre fichier.
 
 Voici une photo de la plaque, venant juste d'être déballée :
 
@@ -73,7 +73,7 @@ Ensuite, nous sommes venus poser la galerie sur les barres, et nous avons fixé 
     <figcaption class="figure-caption">Galerie fixée sur les barres de toit</figcaption>
 </figure>
 
-Nous avons aussi profité de la cornière perforée sur l'avant de la plaque pour y fixer quatre phares longue portée (pas encore câblés sur la photo), et nous avons déporté l'antenne sur le côté droit de la plaque.
+Nous avons aussi profité de la cornière perforée sur l'avant de la plaque pour y fixer quatre <b>phares longue portée</b> (pas encore câblés sur la photo), et nous avons déporté l'antenne sur le côté droit de la plaque.
 
 ## Résultat
 

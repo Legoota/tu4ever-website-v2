@@ -55,7 +55,7 @@ Pour notre dégraissage maison, nous avons simplement utilisé de l'eau avec du 
 
 Nous avons décidé de faire monter des pneus neufs avant de passer à l'étape de la peinture, pour éviter les potentiels accrocs qui peuvent survenir lors du montage. Une fois le montage et l'équilibrage des pneus réalisés, nous avons de nouveau nettoyé les roues de toutes les traces survenues entre temps, et nous avons masqué les pneus par du journal et du ruban adhésif de masquage.
 
-Attention Ne pas oublier de couvrir également les valves !
+<span class="badge yellow">Attention</span> Ne pas oublier de couvrir également les valves !
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/wheels-repair/4.jpg" style="width: 80%;" alt="Pire jante après ponçage">
@@ -72,9 +72,9 @@ Nous avons utilisé des bombes d'apprêt spécial pour surfaces en métal, et ap
 
 Nous avons donc appliqué une première couche d'apprêt, que nous avons laissé sécher avant de poncer au grain 400 les petites traces restantes (projections de peinture, ...).
 
-Conseil Pour que la peinture par bombe se passe bien, veillez à suivre les préconisations du vendeur. Dans notre cas, nous avons attendu d'avoir une température ambiante d'au moins 12°C, et nous avons laissé sécher au moins 24h entre les différentes couches.
+<span class="badge green">Conseil</span> Pour que la peinture par bombe se passe bien, veillez à suivre les préconisations du vendeur. Dans notre cas, nous avons attendu d'avoir une température ambiante d'au moins 12°C, et nous avons laissé sécher au moins 24h entre les différentes couches.
 
-Conseil 2 Pensez à utiliser la bombe par petits sprays, dans plusieurs sens (vertical puis horizontal par exemple), afin de couvrir correctement toute la surface.
+<span class="badge green">Conseil 2</span> Pensez à utiliser la bombe par petits sprays, dans plusieurs sens (vertical puis horizontal par exemple), afin de couvrir correctement toute la surface.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/wheels-repair/4bis.jpg" style="width: 80%;" alt="Pire jante après ponçage">
@@ -138,4 +138,4 @@ Comme nous l'avons énoncé plus haut dans l'article, le résultat est loin d'ê
 
 ### Source
 
-La principale source que nous avons utilisée est un message de l'utilisateur 3dfx le forum planete-205 : <a href="https://www.planete-205.com/forum/refection-jantes-gti-1600-t43576.html" target="_blank">Réfection jantes GTI 1600</a>
+La principale source que nous avons utilisée est un message de l'utilisateur 3dfx le forum planete-205 : <a class="anchor-link" href="https://www.planete-205.com/forum/refection-jantes-gti-1600-t43576.html" target="_blank">Réfection jantes GTI 1600</a>

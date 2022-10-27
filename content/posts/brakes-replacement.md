@@ -84,12 +84,12 @@ Voici le résultat que nous obtenons.
     <img loading="lazy" class="image-article" src="/images/brakes-replacement/11.jpg" alt="Old brake disk">
     <figcaption class="figure-caption">Nouvelles plaquettes de frein Brembo</figcaption>
 </figure>
-Attention
+<span class="badge yellow">Attention</span>
 
 Le remplacement du cylindre de frein arrière implique l'ouverture du circuit de freinage. Il faut donc impérativement faire une purge du liquide de frein avant de reprendre la route. Cette étape est délicate car la moindre bulle d'air dans le circuit de liquide de freinage peut être fatale. Nous conssacrerons donc un article entier pour cette manoeuvre que nous réaliserons dans les prochaines semaines.
 
 ### Liste de pièces utilisées
 
-- Disque de frein Brembo, profil ventilé, gamme sport : <a target="_blank" href="https://www.bremboparts.com/europe/fr/catalogue/disc/08-2985-75">Disques de frein Brembo 08-2985-75</a>
-- Jeu de plaquettes Brembo pour système de freinage Bendix : <a target="_blank" href="https://www.bremboparts.com/europe/fr/catalogue/pad/P_68_010">Plaquettes de frein Brembo P_68_010
-- Kit de frein à tambours Bosch : <a target="_blank" href="https://www.oscaro.com/kit-de-freins-a-tambours-bosch-0-204-114-063-13051-3859-p#">Kit de frein à tambours Bosch (non-sponsorisé)
+- Disque de frein Brembo, profil ventilé, gamme sport : <a class="anchor-link" target="_blank" href="https://www.bremboparts.com/europe/fr/catalogue/disc/08-2985-75">Disques de frein Brembo 08-2985-75</a>
+- Jeu de plaquettes Brembo pour système de freinage Bendix : <a class="anchor-link" target="_blank" href="https://www.bremboparts.com/europe/fr/catalogue/pad/P_68_010">Plaquettes de frein Brembo P_68_010</a>
+- Kit de frein à tambours Bosch : <a class="anchor-link" target="_blank" href="https://www.oscaro.com/kit-de-freins-a-tambours-bosch-0-204-114-063-13051-3859-p#">Kit de frein à tambours Bosch <span class="not-sponso">(non-sponsorisé)</span></a>
