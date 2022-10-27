@@ -1,7 +1,7 @@
 +++
-author = "Hugo Authors"
+author = "LB & LK"
 title = "Réfection des jantes 205 GTI 1.6L"
-date = "2022-03-23"
+date = "2022-03-13"
 description = "Nous avons restauré des jantes de 205 GTI 1.6 à la maison, et nous vous expliquons les différentes étapes."
 tags = [
     "wheels","jantes","réfection","restore","restoration","pneus","roues"

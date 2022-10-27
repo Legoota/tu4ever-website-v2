@@ -1,7 +1,7 @@
 +++
-author = "Hugo Authors"
+author = "LB & LK"
 title = "Fabrication des supports de parechocs"
-date = "2019-03-11"
+date = "2022-05-22"
 description = "Nous avons refabriqué à la maison des pièces de support des parechocs avant et arrière."
 tags = [
     "bumper",

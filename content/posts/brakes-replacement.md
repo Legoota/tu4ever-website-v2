@@ -1,7 +1,7 @@
 +++
-author = "Hugo Authors"
+author = "LB & LK"
 title = "Remplacement des freins"
-date = "2019-03-11"
+date = "2022-04-24"
 description = "Nous avons enfin remplacé les freins avant et arrières de notre Peugeot 205. Il était temps..."
 tags = [
     "brakes",

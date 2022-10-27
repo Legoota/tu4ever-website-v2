@@ -1,7 +1,7 @@
 +++
-author = "Hugo Authors"
+author = "LB & LK"
 title = "Conception d'une galerie de toit sur mesure"
-date = "2019-03-10"
+date = "2022-06-25"
 description = "Nous avons conçu notre galerie de toit sur mesure en inox pour transporter nos affaires."
 tags = [
     "galerie",
