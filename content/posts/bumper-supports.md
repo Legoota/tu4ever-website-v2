@@ -21,13 +21,13 @@ Pour fabriquer nos nouvelles pièces, nous avons choisi de prendre une baguette 
 Concernant les supports de la jupe arrière, nous avons démonté les deux supports rouillés déjà existants, pour ensuite prendre leurs mesures et ainsi pouvoir les refaire à neuf.
 
 <figure>
-    <img src="/images/bumper-supports/support-arriere-comparaison.png" alt="Comparaison ancienne nouvelle">
-    <figcaption>Comparaison de l'ancienne pièce à côté de la nouvelle</figcaption>
+    <img loading="lazy" class="image-article" src="/images/bumper-supports/support-arriere-comparaison.png" alt="Comparaison ancienne nouvelle">
+    <figcaption class="figure-caption">Comparaison de l'ancienne pièce à côté de la nouvelle</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/bumper-supports/mep-arr.png" alt="Mise en plan fixation arrière">
-    <figcaption>Mise en plan du support arrière</figcaption>
+    <img loading="lazy" class="image-article" src="/images/bumper-supports/mep-arr.png" alt="Mise en plan fixation arrière">
+    <figcaption class="figure-caption">Mise en plan du support arrière</figcaption>
 </figure>
 
 ### Étape 2 : Fabrication
@@ -35,8 +35,8 @@ Nous avons donc découpé une partie de notre baguette d'inox, que nous avons en
 
 Ensuite, nous l'avons fixée à l'aide de rivets, pour un bon maintien de la jupe arrière.
 <figure>
-    <img src="/images/bumper-supports/support-arriere.png" alt="Nouveau support arrière en place">
-    <figcaption>Nouveau support en place</figcaption>
+    <img loading="lazy" class="image-article" src="/images/bumper-supports/support-arriere.png" alt="Nouveau support arrière en place">
+    <figcaption class="figure-caption">Nouveau support en place</figcaption>
 </figure>
 
 Nous réitérons l'opération pour réaliser une seconde pièce de support pour en mettre une de chaque côté, comme à l'origine.
@@ -51,16 +51,16 @@ Au sujet des supports de la jupe avant, nous avons dû prendre les mesures nous 
 Concernant les trous, nous avions besoin de faire passer les vis larges des phares longue portée, donc les pièces comportent des trous plus larges que ceux sur les supports arrière.
 
 <figure>
-    <img src="/images/bumper-supports/mep-av.png" alt="Mise en plan fixation avant">
-    <figcaption>Mise en plan du support avant</figcaption>
+    <img loading="lazy" class="image-article" src="/images/bumper-supports/mep-av.png" alt="Mise en plan fixation avant">
+    <figcaption class="figure-caption">Mise en plan du support avant</figcaption>
 </figure>
 
 ### Étape 2 : Fabrication
 Pour la fabrication, nous reprenons le même processus que dans la première partie sur les supports arrière : nous découpons une partie de la baguette d'inox à la longueur souhaitée, nous perçons puis nous plions dans un étau.
 
 <figure>
-    <img src="/images/bumper-supports/support-avant.png" alt="Nouveau support avant en place">
-    <figcaption>Nouveau support en place</figcaption>
+    <img loading="lazy" class="image-article" src="/images/bumper-supports/support-avant.png" alt="Nouveau support avant en place">
+    <figcaption class="figure-caption">Nouveau support en place</figcaption>
 </figure>
 
 Nous faisons deux pièces semblables, une pour chaque côté, que nous fixons entre le châssis et la jupe (en utilisant la vis fournie avec les phares longue portée).

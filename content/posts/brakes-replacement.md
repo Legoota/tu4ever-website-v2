@@ -18,13 +18,13 @@ Après avoir posé la voiture sur chandelles, ôté les roues arrières et déss
 Nous avons ensuite, à l'aide du marteau et du burin d'un côté et d'une cale de bois de l'autre, retiré le tambour. Nous avons longuement martellé la pièce et pulverisé du dégripant pour la désolidariser de l'ensemble.
 
 <figure>
-    <img src="/images/brakes-replacement/1.jpg" alt="Initial brake">
-    <figcaption>Dépose de  l'écrou freiné</figcaption>
+    <img loading="lazy" class="image-article" src="/images/brakes-replacement/1.jpg" alt="Initial brake">
+    <figcaption class="figure-caption">Dépose de  l'écrou freiné</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/brakes-replacement/2.jpg" alt="Initial brake">
-  <figcaption>Aperçu de profil du tambour de frein avant ouverture</figcaption>
+  <img loading="lazy" class="image-article" src="/images/brakes-replacement/2.jpg" alt="Initial brake">
+  <figcaption class="figure-caption">Aperçu de profil du tambour de frein avant ouverture</figcaption>
 </figure>
 
 ### Étape 2 : Dépose de l'ancien kit
@@ -33,12 +33,12 @@ Une fois le tambour déposé, nous avons accès à la machoire et aux segments g
 A cette étape, il faudrait normalement remplacer le cylindre de frein, chose que nous avons décidé de ne pas faire car l'arrivée du circuit de liquide de frein était tellement soudée par la rouille que nous ne voulions pas casser la pièce. Nous remplacerons cette pièce dans le futur lorsque nous changerons l'intégralité des tuyaux du circuit de frein. Nous avons également protégé les roulements pour appliquer un peu de convertisseur de rouille sur la flasque afin de lui redonner un état plus rassurant.
 
 <figure>
-    <img src="/images/brakes-replacement/3.jpg" alt="Old brake kit">
-    <figcaption>Aperçu de l'ancien kit de frein</figcaption>
+    <img loading="lazy" class="image-article" src="/images/brakes-replacement/3.jpg" alt="Old brake kit">
+    <figcaption class="figure-caption">Aperçu de l'ancien kit de frein</figcaption>
 </figure>
 <figure>
-  <img src="/images/brakes-replacement/4.jpg" alt="Brake fluid arrival">
-  <figcaption>Raccordement rouillé du circuit de freinage</figcaption>
+  <img loading="lazy" class="image-article" src="/images/brakes-replacement/4.jpg" alt="Brake fluid arrival">
+  <figcaption class="figure-caption">Raccordement rouillé du circuit de freinage</figcaption>
 </figure>
 
 ### Étape 3 : Nettoyage, graissage et remontage
@@ -47,29 +47,29 @@ Nous avons ensuite bien nettoyé avec du nettoyant frein la flasque, la bande ro
 Nous sommes ensuite passés au remontage. Tout d'abord, nous avons reconnecté le câble de frein à main, puis remis en place les mâchoires, bien alignées sur le cylindre et la butée. Nous avons ensuite remis les ressorts de maintien et enfin le tambour. Le tambour doit frotter très légèrement et uniformément quand on le tourne. Sur certaines voitures, nous pouvons agir sur le ressort de rattrapage automatique de jeu de frein. Ce n'est pas notre cas sur notre Peugeot 205.
 
 <figure>
-    <img src="/images/brakes-replacement/5.jpg" alt="Lubrication">
-    <figcaption>Graissage de la flasque et roulements avant remontage</figcaption>
+    <img loading="lazy" class="image-article" src="/images/brakes-replacement/5.jpg" alt="Lubrication">
+    <figcaption class="figure-caption">Graissage de la flasque et roulements avant remontage</figcaption>
 </figure>
 
 Voici le résultat final avant remise en place du tambour.
 <figure>
-    <img src="/images/brakes-replacement/6.jpg" alt="New brake kit">
-    <figcaption>Nouveau kit de frein</figcaption>
+    <img loading="lazy" class="image-article" src="/images/brakes-replacement/6.jpg" alt="New brake kit">
+    <figcaption class="figure-caption">Nouveau kit de frein</figcaption>
 </figure>
 
 ## Les disques et plaquettes avant
 ### Étape 1 : Démontage
 Pour le démontage des freins avant, nous commençons par retirer le connecteur de témoin de frein et la clavette de maintien des plaquettes. Nous retirons également les parties métalliques de maintien, puis les plaquettes. Nous retirons ensuite les deux vis de maintien en position des disques puis nous déposons l'ancien disque de frein.
 <figure>
-    <img src="/images/brakes-replacement/7.jpg" alt="Old front brakes">
-    <figcaption>Apperçu de l'étrier de frein avant changement des pièces</figcaption>
+    <img loading="lazy" class="image-article" src="/images/brakes-replacement/7.jpg" alt="Old front brakes">
+    <figcaption class="figure-caption">Apperçu de l'étrier de frein avant changement des pièces</figcaption>
 </figure>
 
 ### Étape 2 : Nettoyge
 Nous commençons par frotter l'étrier et la partie sur laquelle se pose le disque avec une brosse puis nous dégraissons les surfaces avec du nettoyant frein. Nous appliquons ensuite un spray antirouille pour la protection des pièces. Nous laissons sécher avant de passer au remontage.
 <figure>
-    <img src="/images/brakes-replacement/9.jpg" alt="Brake cleanning">
-    <figcaption>Nettoyage avant remontage</figcaption>
+    <img loading="lazy" class="image-article" src="/images/brakes-replacement/9.jpg" alt="Brake cleanning">
+    <figcaption class="figure-caption">Nettoyage avant remontage</figcaption>
 </figure>
 
 ### Étape 3 : Remontage
@@ -77,12 +77,12 @@ Pour le remontage, il suffit de suivre la procédure inverse. Nous commençons p
 
 Voici le résultat que nous obtenons.
 <figure>
-    <img src="/images/brakes-replacement/10.jpg" alt="New front brake Brembo">
-    <figcaption>Nouveau disque de frein rainuré Brembo</figcaption>
+    <img loading="lazy" class="image-article" src="/images/brakes-replacement/10.jpg" alt="New front brake Brembo">
+    <figcaption class="figure-caption">Nouveau disque de frein rainuré Brembo</figcaption>
 </figure>
 <figure>
-    <img src="/images/brakes-replacement/11.jpg" alt="Old brake disk">
-    <figcaption>Nouvelles plaquettes de frein Brembo</figcaption>
+    <img loading="lazy" class="image-article" src="/images/brakes-replacement/11.jpg" alt="Old brake disk">
+    <figcaption class="figure-caption">Nouvelles plaquettes de frein Brembo</figcaption>
 </figure>
 Attention
 

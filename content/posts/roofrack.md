@@ -25,13 +25,13 @@ Nous avons également décidé de placer des trous oblongs à intervalles régul
 Vous trouverez sur les images ci-dessous la mise en plan de notre galerie : Les petits trous le long de la plaque sont prévus en M5, les 6 trous plus grands pour fixer la plaque aux barres de toit sont prévus en M8.
 
 <figure>
-    <img src="/images/roofrack/mep-galerie.png" alt="Mise en plan galerie">
-    <figcaption>Mise en plan de la galerie</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/mep-galerie.png" alt="Mise en plan galerie">
+    <figcaption class="figure-caption">Mise en plan de la galerie</figcaption>
 </figure>
 Concernant les trous oblongs pour passer les sangles, nous avons décidé de les réaliser aux dimensions suivantes :
 <figure>
-    <img src="/images/roofrack/mep-oblongs.png" alt="Mise en plan détail oblong">
-    <figcaption>Détail A : oblongs</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/mep-oblongs.png" alt="Mise en plan détail oblong">
+    <figcaption class="figure-caption">Détail A : oblongs</figcaption>
 </figure>
 
 ### Étape 2 : Découpe de la plaque
@@ -44,8 +44,8 @@ Nous avons donc envoyé notre fichier DXF sur le site <a target="_blank" class="
 Voici une photo de la plaque, venant juste d'être déballée :
 
 <figure>
-    <img src="/images/roofrack/roofrack-1.jpg" alt="Plaque découpée">
-    <figcaption>Plaque découpée</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-1.jpg" alt="Plaque découpée">
+    <figcaption class="figure-caption">Plaque découpée</figcaption>
 </figure>
 
 Nous sommes parfaitement satisfaits par celle-ci, qui est tout à fait conforme avec notre fichier et notre idée de départ.
@@ -58,8 +58,8 @@ Etant donné les dimensions de notre plaque (assez grande pour une épaisseur fi
 Nous avons donc décidé d'installer des cornières tout autour afin de rigidifier la structure générale de notre galerie. Pour ce faire, nous utilisons des cornières perforées de 22.5mm de côté par 1.2mm d'épaisseur. Voici le résultat une fois les cornières fixées :
 
 <figure>
-    <img src="/images/roofrack/roofrack-2.jpg" alt="Cornières fixées">
-    <figcaption>Cornières fixées sur la galerie</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-2.jpg" alt="Cornières fixées">
+    <figcaption class="figure-caption">Cornières fixées sur la galerie</figcaption>
 </figure>
 
 ### Étape 2 : Fixation de la galerie sur les barres de toit
@@ -69,8 +69,8 @@ Maintenant que notre plaque est plus rigide, il est temps de passer à la fixati
 Ensuite, nous sommes venus poser la galerie sur les barres, et nous avons fixé le tout avec des vis M8 et des écrous indesserables, pour éviter que les vibrations ne viennent desserrer les écrous.
 
 <figure>
-    <img src="/images/roofrack/roofrack-3.jpg" alt="Galerie fixée">
-    <figcaption>Galerie fixée sur les barres de toit</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-3.jpg" alt="Galerie fixée">
+    <figcaption class="figure-caption">Galerie fixée sur les barres de toit</figcaption>
 </figure>
 
 Nous avons aussi profité de la cornière perforée sur l'avant de la plaque pour y fixer quatre phares longue portée (pas encore câblés sur la photo), et nous avons déporté l'antenne sur le côté droit de la plaque.
@@ -84,11 +84,11 @@ Tous les éléments sont correctement fixés grâce à la présence des nombreux
 Voici des photos du résultat final :
 
 <figure>
-    <img src="/images/roofrack/roofrack-4.jpg" alt="Galerie en place">
-    <figcaption>Résultat (galerie chargée)</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-4.jpg" alt="Galerie en place">
+    <figcaption class="figure-caption">Résultat (galerie chargée)</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/roofrack/roofrack-5.jpg" alt="Galerie en place">
-    <figcaption>Résultat (voiture complète)</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-5.jpg" alt="Galerie en place">
+    <figcaption class="figure-caption">Résultat (voiture complète)</figcaption>
 </figure>

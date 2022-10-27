@@ -20,9 +20,9 @@ Lors de l'achat de nos jantes, nous avons bien vérifié que celles-ci n'étaien
 
 Il est important de garder à l'esprit que les jantes en aluminium n'utilisent pas les mêmes boulons que celles en tôle : Les jantes de 205 GTI nécessitent des boulons à assise plate.
  
-<figure class="figure">
-    <img loading="lazy" src="/images/wheels-repair/1.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante">
-    <figcaption class="figure-caption text-right text-light">État de la pire jante avant travaux</figcaption>
+<figure>
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/1.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante">
+    <figcaption class="figure-caption">État de la pire jante avant travaux</figcaption>
 </figure>
 
 ### Étape 1 : ponçage
@@ -39,9 +39,9 @@ Pour le ponçage, nous avons procédé en respectant les grains suivants:
 
 Nous constatons qu'à la suite du ponçage (fastidieux), les jantes perdent leur brillant mais sont bien plus lisses au toucher.
 
-<figure class="figure">
-    <img loading="lazy" src="/images/wheels-repair/2.jpg" style="width: 80%;" alt="Pire jante après ponçage">
-    <figcaption>État de la pire jante après ponçage</figcaption>
+<figure>
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/2.jpg" style="width: 80%;" alt="Pire jante après ponçage">
+    <figcaption class="figure-caption">État de la pire jante après ponçage</figcaption>
 </figure>
 
 ### Étape 2 : dégraissage
@@ -57,9 +57,9 @@ Nous avons décidé de faire monter des pneus neufs avant de passer à l'étape 
 
 Attention Ne pas oublier de couvrir également les valves !
 
-<figure class="figure">
-    <img loading="lazy" src="/images/wheels-repair/4.jpg" style="width: 80%;" alt="Pire jante après ponçage">
-    <figcaption>Les quatre roues après la première couche d'apprêt</figcaption>
+<figure>
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/4.jpg" style="width: 80%;" alt="Pire jante après ponçage">
+    <figcaption class="figure-caption">Les quatre roues après la première couche d'apprêt</figcaption>
 </figure>
 
 Important à noter: Les jantes de GTI 1.6L originales possèdent un centre dit "usiné". Le centre est donc poncé de manière circulaire jusqu'à un grain d'environ 400. Si vous voulez faire cette manipulation, n'oubliez pas de masquer également le centre avec du ruban adhésif. Dans notre cas, nous avons fait le choix de peindre le centre.
@@ -76,19 +76,19 @@ Conseil Pour que la peinture par bombe se passe bien, veillez à suivre les pré
 
 Conseil 2 Pensez à utiliser la bombe par petits sprays, dans plusieurs sens (vertical puis horizontal par exemple), afin de couvrir correctement toute la surface.
 
-<figure class="figure">
-    <img loading="lazy" src="/images/wheels-repair/4bis.jpg" style="width: 80%;" alt="Pire jante après ponçage">
-    <figcaption>Détail de l'apprêt sur la pire jante</figcaption>
+<figure>
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/4bis.jpg" style="width: 80%;" alt="Pire jante après ponçage">
+    <figcaption class="figure-caption">Détail de l'apprêt sur la pire jante</figcaption>
 </figure>
 
-<figure class="figure">
-    <img loading="lazy" src="/images/wheels-repair/4ter.jpg" style="width: 80%;" alt="Pire jante après ponçage">
-    <figcaption>Il est nécessaire de poncer !</figcaption>
+<figure>
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/4ter.jpg" style="width: 80%;" alt="Pire jante après ponçage">
+    <figcaption class="figure-caption">Il est nécessaire de poncer !</figcaption>
 </figure>
 
-<figure class="figure">
-    <img loading="lazy" src="/images/wheels-repair/5.jpg" style="width: 80%;" alt="Jantes après première couche de peinture">
-    <figcaption>Les quatre roues après la première couche de peinture</figcaption>
+<figure>
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/5.jpg" style="width: 80%;" alt="Jantes après première couche de peinture">
+    <figcaption class="figure-caption">Les quatre roues après la première couche de peinture</figcaption>
 </figure>
 
 Après avoir poncé la première couche d'apprêt, nous avons appliqué une seconde couche d'apprêt, un peu plus épaisse que la première.
@@ -97,14 +97,14 @@ Après avoir poncé la première couche d'apprêt, nous avons appliqué une seco
 
 Une fois avoir attendu que l'apprêt soit sec, nous avons appliqué la première couche de peinture. Nous avons choisi la couleur grise originale qui équippait les jantes de GTI d'époque. Comme pour l'apprêt, nous avons commencé par une fine couche de peinture.
 
-<figure class="figure">
-    <img loading="lazy" src="/images/wheels-repair/5.jpg" style="width: 80%;" alt="Jantes après première couche de peinture">
-    <figcaption>Les quatre roues après la première couche de peinture</figcaption>
+<figure>
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/5.jpg" style="width: 80%;" alt="Jantes après première couche de peinture">
+    <figcaption class="figure-caption">Les quatre roues après la première couche de peinture</figcaption>
 </figure>
 
-<figure class="figure">
-    <img loading="lazy" src="/images/wheels-repair/5bis.jpg" style="width: 80%;" alt="Détail peinture sur une jante">
-    <figcaption>Détail de la peinture sur une jante</figcaption>
+<figure>
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/5bis.jpg" style="width: 80%;" alt="Détail peinture sur une jante">
+    <figcaption class="figure-caption">Détail de la peinture sur une jante</figcaption>
 </figure>
 
 Une fois la première couche de peinture sèche, nous avons appliqué la seconde couche, un peu plus épaisse.
@@ -113,16 +113,16 @@ Une fois la première couche de peinture sèche, nous avons appliqué la seconde
 
 Enfin, après séchage des deux couches de peinture, nous appliquons, de la même manière, deux couches de vernis (monocomposant, ou 1K, dans notre cas) sur les jantes.
 
-<figure class="figure">
-    <img loading="lazy" src="/images/wheels-repair/7.jpg" style="width: 80%;" alt="Roues après vernis">
-    <figcaption>Les quatre roues après vernissage</figcaption>
+<figure>
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/7.jpg" style="width: 80%;" alt="Roues après vernis">
+    <figcaption class="figure-caption">Les quatre roues après vernissage</figcaption>
 </figure>
 
 L'étape de vernissage est très importante car celle-ci permet de protéger la roue, et ainsi augmenter sa durée de vie.
 
-<figure class="figure">
-    <img loading="lazy" src="/images/wheels-repair/6.jpg" style="width: 80%;" alt="Détail d'une roue">
-    <figcaption>Détail du vernissage sur une roue</figcaption>
+<figure>
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/6.jpg" style="width: 80%;" alt="Détail d'une roue">
+    <figcaption class="figure-caption">Détail du vernissage sur une roue</figcaption>
 </figure>
 
 ### Résultat
@@ -131,9 +131,9 @@ Une fois les deux couches de vernis sèches, nous avons pu retirer les protectio
 
 Comme nous l'avons énoncé plus haut dans l'article, le résultat est loin d'être parfait, mais est amplement suffisant en considérant l'argent investi. Toutefois, faire cette rénovation soi-même requiert un certain temps, mais permet d'en apprendre plus sur les techniques de peinture ainsi que de restauration de jantes.
 
-<figure class="figure">
-    <img loading="lazy" src="/images/wheels-repair/8.jpg" style="width: 80%;" alt="Résultat final">
-    <figcaption>Résultat final</figcaption>
+<figure>
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/8.jpg" style="width: 80%;" alt="Résultat final">
+    <figcaption class="figure-caption">Résultat final</figcaption>
 </figure>
 
 ### Source

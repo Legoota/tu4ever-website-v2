@@ -19,9 +19,15 @@ Pour le nettoyage des moquettes, nous avons commencé par désincruster les sali
 
 Enfin, après le séchage, nous avons utilisé de l'ammoniaque et une brosse sur les housses des sièges et la moquette pour raviver les couleurs d'origine. Attention l'ammoniaque peut être très dangereuse, portez des gants, des lunettes, un masque et mettez-vous dans un espace aéré.
 
-<img src="/images/interior-washing/1.jpg">
+<figure>
+    <img loading="lazy" class="image-article" src="/images/interior-washing/1.jpg">
+    <figcaption class="figure-caption">Intérieur avant nettoyage</figcaption>
+</figure>
 
-<img src="/images/interior-washing/3.jpg">
+<figure>
+    <img loading="lazy" class="image-article" src="/images/interior-washing/3.jpg">
+    <figcaption class="figure-caption">Bicarbonate + vinaigre sur les moquettes</figcaption>
+</figure>
 
 ### Les plastiques
 
@@ -29,8 +35,19 @@ Pour les plastiques, nous avons d'abord fait un lavage à l'eau et au savon noir
 
 ### Remontage et résultat
 
-<img src="/images/interior-washing/5.jpg">
-<img src="/images/interior-washing/6.jpg">
-<img src="/images/interior-washing/7.jpg">
+<figure>
+    <img loading="lazy" class="image-article" src="/images/interior-washing/5.jpg">
+    <figcaption class="figure-caption">Résultat (1)</figcaption>
+</figure>
+
+<figure>
+    <img loading="lazy" class="image-article" src="/images/interior-washing/6.jpg">
+    <figcaption class="figure-caption">Résultat (2)</figcaption>
+</figure>
+
+<figure>
+    <img loading="lazy" class="image-article" src="/images/interior-washing/7.jpg">
+    <figcaption class="figure-caption">Résultat (3)</figcaption>
+</figure>
 
 Nous constatons que les plastiques ont retrouvés leur brillance d'antant et les tissus leur couleur d'origine.
