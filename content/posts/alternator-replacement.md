@@ -10,7 +10,8 @@ Afin d'éviter les pannes fréquentes lors des raid, nous avons effectué le rem
 
 ## Remplacement de l'alternateur
 
-Le changement de l'alternateur est une étape assez simple à réaliser. Nous avons procédé comme ceci :
+Le changement de l'alternateur est une étape assez simple à réaliser. Nous avons procédé comme ceci&nbsp;:
+
 1. Commencer par débrancher la cosse négative (-) de la batterie. Dans notre cas, nous avons un coupe-circuit rapide, ce qui nous permet de nous affranchir de clés pour cette étape.
 2. Débrancher les deux câbles connectés à l'ancien alternateur. Le câble de petite section du milieu sert pour le temoin de charge tandis que le plus gros rouge sert pour le chargement de la batterie.
 3. Déserrer les vis de fixation de l'alternateur pour lui pemettre le basculement.
@@ -37,7 +38,7 @@ Voici quelques images du nouvel alternateur en place.
 
 Lors du démontage du câble de charge, nous avons cassé la cosse avec manchon à sertir qui n'était pas en bon état et nous n'avions pas cette pièce sous la main. Dans ce cas, la solution est de pincer fort le brin de câble entre deux rondelles (visible sur la photo ci-dessus).
 
-### Références de pièces instalées
+### Références de pièces installées
 - Alternateur : HELLA - 8EL 012 430-101
 - Courroie d'accessoires : <a class="anchor-link" href="https://www.gates.com/fr/fr/search.p.8532-000000-000000.v.8532-16261.html" target="_blank">Courroie Gates 6261MC AVX10 x 713</a>
 
