@@ -4099,3 +4099,13 @@ input, select, textarea {
 .anchor-link {
 	color: var(--secondary-color);
 }
+
+.articles-thumbnail {
+	display: inline-flex;
+	margin-bottom: -1em;
+}
+
+.articles-thumbnail > img {
+	height: 10em;
+	padding: .5em 1em .5em 0;
+}

@@ -2,9 +2,12 @@
 	<div class="inner">
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     <time class="icon fa-clock-o">{{ .Date.Format "02.01.2006" }}</time>
-    <p>{{ .Summary }}</p>
+    <div class="articles-thumbnail">
+        <img loading="lazy" src="/images/articles-thumbnails/t-{{ .File.BaseFileName }}.jpg" alt="Thumbnail">
+        <p>{{ .Summary }}</p>
+    </div>
     {{ if .Truncated }}
-    <a href="{{ .Permalink }}">{{ i18n "readmore" }}</a>
+    <a class="anchor-link" href="{{ .Permalink }}">{{ i18n "readmore" }}</a>
     {{ end }}
 	</div>
 </section>
