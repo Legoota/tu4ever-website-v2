@@ -26,7 +26,7 @@ url = '/posts/'
 title = "Articles"
 
 [[params.menu.main]]
-url = '/alpinaraid22/'
+url = '/alpinaraid/'
 title = "Alpinaraid 2022"
 
 [taxonomies]
@@ -167,8 +167,11 @@ dribble = ""
         weight = 10
         languageName = "English"
             [[languages.en.params.menu.main]]
-            url = '/'
+            url = '/en'
             title = "Home"
             [[languages.en.params.menu.main]]
             url = '/posts/'
             title = "Posts"
+            [[languages.en.params.menu.main]]
+            url = '/en/alpinaraid/'
+            title = "Alpinaraid 2022"
