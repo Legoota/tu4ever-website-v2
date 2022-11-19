@@ -1,7 +1,7 @@
 <section class="wrapper style5">
 	<div class="inner">
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    <time class="icon fa-clock-o">{{ .Date.Format "19.11.2022" }}</time>
+    <time class="icon fa-clock-o">{{ .Date.Format "02.01.2006" }}</time>
     <div class="articles-thumbnail">
         <img loading="lazy" src="/images/articles-thumbnails/t-{{ with .File }}{{ .BaseFileName }}{{ end }}.jpg" alt="Thumbnail">
         <p>{{ .Summary }}</p>
