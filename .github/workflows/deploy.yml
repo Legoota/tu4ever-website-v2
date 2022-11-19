@@ -1,4 +1,4 @@
-name: github pages
+name: Publish to production branch
 
 on:
   push:
@@ -21,7 +21,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo
         
       - name: Push
         uses: s0/git-publish-subdir-action@develop
