@@ -49,8 +49,26 @@
 								<li><a href="{{ .url | relURL }}">{{ .title }}</a></li>
 								{{ end }}
 							</ul>
+							<div class="bottom-center">
+								{{ $siteLanguages := site.Languages}}
+								{{ $pageLang := .Page.Lang}}
+								{{- range .Page.AllTranslations }}
+								{{ $translation := . }}
+								{{- range sort $siteLanguages "Weight" "asc" }}
+								{{- if eq $translation.Lang .Lang }}
+								  {{ if eq $pageLang .Lang}}
+									  <a class="flagselect" href="{{ $translation.Permalink | relURL }}">{{ .Params.languageName }} {{ .Params.languageFlag }}</a>
+									  {{ else }}
+									  <a class="flagnoselect" href="{{ $translation.Permalink | relURL }}">{{ .Params.languageName }} {{ .Params.languageFlag }}</a>
+									  {{ end }}
+									{{- end }}
+								  {{- end }}
+								{{- end }}
+							  </div>
 						</div>
 					</li>
 				</ul>
 			</nav>
 		</header>
+	</div>
+</body>
