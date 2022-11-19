@@ -152,6 +152,8 @@ facebook = ""
 instagram = "tu4ever_205"
 dribble = ""
 
+staticDir = ['images']
+
 # language specific options
 
 [languages]
