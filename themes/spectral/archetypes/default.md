@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }} - TU4EVER"
 date: {{ .Date }}
-draft: true
+draft: false
 ---
 
