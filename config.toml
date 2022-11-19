@@ -1,4 +1,4 @@
-baseURL = 'https://legoota.github.io/tu4ever-website-v2/'
+baseURL = 'https://legoota.github.io/'
 languageCode = "fr-fr"
 defaultContentLanguage = "fr"
 title = 'TU4EVER'
@@ -15,7 +15,7 @@ description = 'TU4EVER est une équipe composée de deux personnes qui a pour ob
 body_is_markdown = true
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
-favicon = "tu4ever-website-v2/favicon.ico"
+favicon = "static/favicon.ico"
 
 [[params.menu.main]]
 url = '/'
