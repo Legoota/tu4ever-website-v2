@@ -9,7 +9,7 @@ theme = 'spectral'
 
 
 [params]
-fancyTitle = '<img height="128" src="/images/logo.png" alt="Logo"/>'
+fancyTitle = '<img height="128" src="/../images/logo.png" alt="Logo"/>'
 copyright = "TU4EVER"
 description = 'TU4EVER est une équipe composée de deux personnes qui a pour objectif la préparation et la participation à des raids en Peugeot 205.'
 body_is_markdown = true
