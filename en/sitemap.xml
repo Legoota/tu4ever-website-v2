@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://sensational-crepe-a65ead.netlify.app/en/posts/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://sensational-crepe-a65ead.netlify.app/posts/"/><xhtml:link rel="alternate" hreflang="en" href="https://sensational-crepe-a65ead.netlify.app/en/posts/"/></url><url><loc>https://sensational-crepe-a65ead.netlify.app/en/tags/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://sensational-crepe-a65ead.netlify.app/tags/"/><xhtml:link rel="alternate" hreflang="en" href="https://sensational-crepe-a65ead.netlify.app/en/tags/"/></url><url><loc>https://sensational-crepe-a65ead.netlify.app/en/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://sensational-crepe-a65ead.netlify.app/"/><xhtml:link rel="alternate" hreflang="en" href="https://sensational-crepe-a65ead.netlify.app/en/"/></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sensational-crepe-a65ead.netlify.app/en/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/posts/"
+                />
+  </url><url>
+    <loc>https://sensational-crepe-a65ead.netlify.app/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/"
+                />
+  </url><url>
+    <loc>https://sensational-crepe-a65ead.netlify.app/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/"
+                />
+  </url>
+</urlset>
