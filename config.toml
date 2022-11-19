@@ -27,8 +27,8 @@ title = "Articles"
 
 [taxonomies]
     tag = "tags"
-    category = "categories"
-    series = "series"
+    posts = "posts"
+
 
 [params.one]
 enable = false
