@@ -3,7 +3,7 @@
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     <time class="icon fa-clock-o">{{ .Date.Format "02.01.2006" }}</time>
     <div class="articles-thumbnail">
-        <img loading="lazy" src="{{ .Site.BaseURL }}/images/articles-thumbnails/t-{{ .File.BaseFileName }}.jpg" alt="Thumbnail">
+        <img loading="lazy" src="/tu4ever-website-v2/images/articles-thumbnails/t-{{ .File.BaseFileName }}.jpg" alt="Thumbnail">
         <p>{{ .Summary }}</p>
     </div>
     {{ if .Truncated }}
