@@ -23,7 +23,7 @@ title = "Accueil"
 
 [[params.menu.main]]
 url = 'posts/'
-title = "Articles"
+title = "Articlesssssssssss"
 
 [taxonomies]
     tag = "tags"
