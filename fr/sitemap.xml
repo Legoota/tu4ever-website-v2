@@ -81,18 +81,58 @@
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/posts/</loc>
     <lastmod>2022-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/posts/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/roofrack/</loc>
     <lastmod>2022-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/alternateur/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/alternateur/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/alternateur/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/alternator/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/alternator/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/alternator/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/posts/alternator-replacement/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/posts/alternator-replacement/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/posts/alternator-replacement/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/bumper/</loc>
     <lastmod>2022-05-22T00:00:00+00:00</lastmod>

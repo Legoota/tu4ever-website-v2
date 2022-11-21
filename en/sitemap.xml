@@ -2,7 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sensational-crepe-a65ead.netlify.app/en/tags/alternateur/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/alternateur/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/alternateur/"
+                />
+  </url><url>
+    <loc>https://sensational-crepe-a65ead.netlify.app/en/tags/alternator/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/alternator/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/alternator/"
+                />
+  </url><url>
+    <loc>https://sensational-crepe-a65ead.netlify.app/en/posts/alternator-replacement/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/posts/alternator-replacement/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/posts/alternator-replacement/"
+                />
+  </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/en/posts/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,6 +55,7 @@
                 />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/en/tags/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -27,6 +68,7 @@
                 />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/en/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -36,6 +78,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sensational-crepe-a65ead.netlify.app/en/"
+                />
+  </url><url>
+    <loc>https://sensational-crepe-a65ead.netlify.app/en/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/posts/"
                 />
   </url>
 </urlset>
