@@ -160,10 +160,14 @@ staticDir = ['images']
     [languages.fr]
         weight = 2
         languageName = "Français"
+        languageShortName = "FR"
+        languageFlag = "🇫🇷"
 
     [languages.en]
         weight = 1
         languageName = "English"
+        languageShortName = "EN"
+        languageFlag = "🇺🇸"
             [[languages.en.params.menu.main]]
             url = '/en'
             title = "Home"
