@@ -159,7 +159,7 @@ staticDir = ['images']
             title = "Accueil"
 
             [[languages.fr.params.menu.main]]
-            url = '/fr/posts/'
+            url = 'posts/'
             title = "Articles"
 
             [[languages.fr.params.menu.main]]
