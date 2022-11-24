@@ -41,6 +41,19 @@
 			<h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
 			<nav id="nav">
 				<ul>
+					<li class = language-selector>
+						{{ if .Site.IsMultiLingual }}
+							{{ range .Site.Languages }}
+								{{ if eq . $.Site.Language }}
+									<li><a href="#">{{ .Lang }}{{ .Params.languageFlag }}</a></li>
+								{{ else }}
+									{{ range $.Translations }}
+									<li><a href="{{ .Permalink }}">{{ .Language.Lang }}{{ .Params.languageFlag }}</a></li>
+									{{ end }}
+								{{ end }}
+							{{ end }}
+						{{ end }}
+					</li>
 					<li class="special">
 						<a href="#menu" class="menuToggle"><span>{{ i18n "menu" }}</span></a>
 						<div id="menu">

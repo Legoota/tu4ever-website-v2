@@ -17,18 +17,9 @@ body_is_markdown = true
 #images = ["path_to_social_image_for_link_previews.jpg"]
 favicon = "static/favicon.ico"
 
-[[params.menu.main]]
-url = '/'
-title = "Accueil"
-
-[[params.menu.main]]
-url = 'posts/'
-title = "Articles"
-
 [taxonomies]
     tag = "tags"
     posts = "posts"
-
 
 [params.one]
 enable = false
@@ -160,15 +151,32 @@ staticDir = ['images']
     [languages.fr]
         weight = 2
         languageName = "Français"
+        languageShortName = "FR"
+        languageFlag = "🇫🇷"
+
+            [[languages.fr.params.menu.main]]
+            url = '/fr/'
+            title = "Accueil"
+
+            [[languages.fr.params.menu.main]]
+            url = 'posts/'
+            title = "Articles"
+
+            [[languages.fr.params.menu.main]]
+            url = '/fr/alpinaraid/'
+            title = "Alpinaraid 2022"
 
     [languages.en]
         weight = 1
         languageName = "English"
+        languageShortName = "EN"
+        languageFlag = "🇺🇸"
+
             [[languages.en.params.menu.main]]
-            url = '/en'
+            url = '/en/'
             title = "Home"
             [[languages.en.params.menu.main]]
-            url = '/posts/'
+            url = '/en/posts/'
             title = "Posts"
             [[languages.en.params.menu.main]]
             url = '/en/alpinaraid/'
