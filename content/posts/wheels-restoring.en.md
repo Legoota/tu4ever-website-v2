@@ -111,7 +111,7 @@ Once the first coat of paint was dry, we applied the second, slightly thicker co
 
 ### Step 6: Varnish
 
-Finally, after the two coats of paint have dried, we apply, in the same way, two coats of varnish (monocomponent, or 1K, in our case) on the rims.
+Finally, once the two coats of paint dry, we applied in the same way two coats of varnish (monocomponent, or 1K, in our case) on the rims.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/wheels-repair/7.jpg" style="width: 80%;" alt="Roues après vernis">
@@ -138,4 +138,4 @@ As we said earlier in the article, the result is far from being perfect, but it'
 
 ### Source
 
-The main source we used is a post from the user 3dfx the planet-205 forum: <a class="anchor-link" href="https://www.planete-205.com/forum/refection-jantes-gti-1600-t43576.html" target="_blank">[FR]Réfection jantes GTI 1600</a>
+The main source we used is a post from the user 3dfx on the planet-205 forum: <a class="anchor-link" href="https://www.planete-205.com/forum/refection-jantes-gti-1600-t43576.html" target="_blank">[FR]Réfection jantes GTI 1600</a>

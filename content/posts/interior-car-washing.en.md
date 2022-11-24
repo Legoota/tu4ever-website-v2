@@ -8,12 +8,12 @@ tags = [
 ]
 +++
 
-When we bought our Peugeot 205, we had to clean the interior. Indeed, the seats were dirty, even stained in some places, the original color of the front carpets was starting to be questionable and the smell was not necessarily the most pleasant. So we set to work in order to feel good for the many kilometers that we will spend on board.
+When we bought our Peugeot 205, we had to clean the interior : the seats were dirty, even stained in some places, the original color of the front carpets was starting to be questionable and the smell was not necessarily the most pleasant. So we set to work in order to feel good for the many kilometers that we will spend on board.
 
 Here are the different steps of the cleaning.
 
 ### Fabrics and carpets
-To make things easier, we started by removing the chairs and the bench. Moreover, on this model of 205, the armchairs are removable which facilitates certain tasks of cleaning.
+To make things easier, we started by removing the front and back seats. Moreover, on this 205 model, the seat covers are easily removable which facilitates certain cleaning tasks
 
 To clean the carpets, we started by removing the dirt with vinegar and bicarbonate. The reaction produced starts by doing a first cleaning. We then cleaned the carpets with soda crystals diluted in water and detergent.
 
@@ -21,7 +21,7 @@ Finally, after drying, we used ammonia and a brush on the seat covers and carpet
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/interior-washing/1.jpg">
-    <figcaption class="figure-caption">Interior before cleanning</figcaption>
+    <figcaption class="figure-caption">Interior before cleaning</figcaption>
 </figure>
 
 <figure>
@@ -31,7 +31,7 @@ Finally, after drying, we used ammonia and a brush on the seat covers and carpet
 
 ### Plastics
 
-For the plastics, we first washed them with water and black soap, then polished them with plastic renovator.
+As far as plastics are concerned, we first washed them with water and black soap, then polished them with plastic renovator.
 
 ### Reassembly and result
 
@@ -50,4 +50,4 @@ For the plastics, we first washed them with water and black soap, then polished 
     <figcaption class="figure-caption">Result (3)</figcaption>
 </figure>
 
-We notice that the plastics have regained their former shine and the fabrics their original color.
+We noticed that the plastics have regained their former shine and the fabrics their original color.
