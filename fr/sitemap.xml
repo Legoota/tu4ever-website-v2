@@ -75,9 +75,29 @@
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/posts/roofrack/</loc>
     <lastmod>2022-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/posts/roofrack/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/posts/roofrack/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/galerie/</loc>
     <lastmod>2022-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/galerie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/galerie/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/posts/</loc>
     <lastmod>2022-06-25T00:00:00+00:00</lastmod>
@@ -94,6 +114,16 @@
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/roofrack/</loc>
     <lastmod>2022-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/roofrack/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/roofrack/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/alternateur/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
@@ -136,63 +166,263 @@
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/bumper/</loc>
     <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/bumper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/bumper/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/posts/bumper-supports/</loc>
     <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/posts/bumper-supports/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/posts/bumper-supports/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/supports/</loc>
     <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/supports/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/supports/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/brakes/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/brakes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/brakes/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/freins/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/freins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/freins/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/posts/brakes-replacement/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/posts/brakes-replacement/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/posts/brakes-replacement/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/jantes/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/jantes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/jantes/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/pneus/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/pneus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/pneus/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/r%C3%A9fection/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/r%C3%A9fection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/r%C3%A9fection/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/posts/wheels-restoring/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/posts/wheels-restoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/posts/wheels-restoring/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/restoration/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/restoration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/restoration/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/restore/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/restore/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/restore/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/roues/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/roues/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/roues/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/wheels/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/wheels/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/wheels/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/interieur/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/interieur/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/interieur/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/interior/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/interior/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/interior/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/lavage/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/lavage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/lavage/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/nettoyage/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/nettoyage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/nettoyage/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/posts/interior-car-washing/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/posts/interior-car-washing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/posts/interior-car-washing/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/tags/washing/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/tags/washing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/tags/washing/"
+                />
   </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/posts/</loc>
     <xhtml:link
