@@ -11,7 +11,7 @@ tags = [
 
 In order to carry more stuff easily, we quickly realized that we would need to use the roof of the car. We started by buying two crossbars on the second hand market, but we knew we would need to add a roof rack to increase the usable storage area. At first, we thought we would buy a classic roof rack that could be found on the used market, but then we started looking for a custom made <b>roofrack</b>.
 
-This gallery would not have been possible without our partner <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/en/">John-Steel</a>, the online metal and wood cutting site, who did the laser cutting of our plate. We thank them very much!
+This roof rack would not have been possible without our partner <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/en/">John-Steel</a>, the online metal and wood cutting site, who did the laser cutting of our plate. We thank them very much!
 
 ## Design phase
 ### Step 1: Designing blueprints
@@ -25,14 +25,14 @@ We also decided to place slotted holes at regular intervals to be able to attach
 On the following images are the development plans of our roof rack : the small holes along the edges are M5, the 6 larger holes to set the roof rack to the crossbars are M8.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/roofrack/mep-galerie.png" alt="Mise en plan galerie">
+    <img loading="lazy" class="image-article" src="/images/roofrack/mep-galerie.png" alt="Roof rack layout">
     <figcaption class="figure-caption">Roofrack layout</figcaption>
 </figure>
 Concerning the slotted holes for the straps, we decided to make them with the following dimensions:
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/roofrack/mep-oblongs.png" alt="Mise en plan détail oblong">
-    <figcaption class="figure-caption">Detail A : oblongs</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/mep-oblongs.png" alt="Detailed layout of slotted holes">
+    <figcaption class="figure-caption">Detail A : slotted holes</figcaption>
 </figure>
 
 ### Step 2: Cutting the plate
@@ -43,7 +43,7 @@ It is at this moment that our partner <a class="anchor-link" target="_blank" cla
 We sent our <b>DXF</b> file on the <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/en/">John-Steel</a> website, we selected the wanted material (<b>stainless steel 304L</b>, thickness 2mm), and we directly got the price. A few days later, the metal sheet was ready and compliant with the file we gave.
 
 Here is a picture of the metal sheet just unwrapped:
-    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-1.jpg" alt="Plaque découpée">
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-1.jpg" alt="Cutted flat sheet">
     <figcaption class="figure-caption">Cut out plate</figcaption>
 </figure>
 
@@ -53,10 +53,10 @@ We are perfectly satisfied with this one, which is fully compliant with our file
 
 Given the dimensions of our steel sheet (quite large for a thin thickness), it was likely to deform slightly if a heavy weight was placed on one of its ends.
 
-Therefore, we decided to install mounting angles all around the edges to stiffen the overall structure of our gallery. To do this, we used 22.5mm square and 1.2mm thick perforated mounting angles in galvanized steel. Here is the result once the angles were fixed:
+Therefore, we decided to install mounting angles all around the edges to stiffen the overall structure of our roof rack. To do this, we used 22.5mm square and 1.2mm thick perforated mounting angles in galvanized steel. Here is the result once the angles were fixed:
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-2.jpg" alt="Cornières fixées">
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-2.jpg" alt="Angles fixed">
     <figcaption class="figure-caption">Mounting angles fixed on the roof rack</figcaption>
 </figure>
 
@@ -67,26 +67,26 @@ Now that our plate is more rigid, it's time to fix it on our roof bars. To do th
 After that, we put the roof rack on the bars and fixed it with M8 screws and locknuts, to avoid vibrations to loosen the nuts.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-3.jpg" alt="Galerie fixée">
-    <figcaption class="figure-caption">Gallery fixed on the roof bars</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-3.jpg" alt="Roof rack fixed">
+    <figcaption class="figure-caption">Roof rack fixed on the roof bars</figcaption>
 </figure>
 
 We also took advantage of the perforated angle on the front of the plate to attach four <b>long range headlights</b> (not yet wired in the photo), and we offset the antenna to the right side of the plate.
 
 ## Results
 
-Here is what we got when we attached our gear to the gallery. We attached two spare wheels, a gas can in a burlap cloth and a tool box.
+Here is what we got when we attached our gear to the roof rack. We attached two spare wheels, a gas can in a burlap cloth and a tool box.
 
 All the elements are correctly fixed thanks to the presence of many holes serving as fixing points, the roof rack is solid and does not bend in spite of the loaded weight.
 
 Here are some pictures of the final result:
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-4.jpg" alt="Galerie en place">
-    <figcaption class="figure-caption">Result (loaded gallery)</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-4.jpg" alt="Roof rack">
+    <figcaption class="figure-caption">Result (loaded roof rack)</figcaption>
 </figure>
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-5.jpg" alt="Galerie en place">
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-5.jpg" alt="Roof rack">
     <figcaption class="figure-caption">Result (complete car)</figcaption>
 </figure>

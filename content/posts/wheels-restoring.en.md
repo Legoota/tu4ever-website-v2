@@ -21,7 +21,7 @@ When we bought our rims, we made sure that they were not cracked. In our case, t
 It's important to keep in mind that aluminum rims don't use the same bolts as sheet metal ones: 205 GTI rims require flat bolts.
  
 <figure>
-    <img loading="lazy" class="image-article" src="/images/wheels-repair/1.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante">
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/1.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Worst rim">
     <figcaption class="figure-caption">Condition of the worst rim before work</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ For the sanding, we proceeded by respecting the following grains:
 We notice that after the (tedious) sanding, the rims lose their shine but are much smoother to the touch.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/wheels-repair/2.jpg" style="width: 80%;" alt="Pire jante après ponçage">
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/2.jpg" style="width: 80%;" alt="Worst rim after sanding">
     <figcaption class="figure-caption">Condition of the worst rim after sanding</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ We decided to have new tires mounted before painting, to avoid potential snags t
 <span class="badge yellow">Warning</span> Do not forget to cover the valves as well!
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/wheels-repair/4.jpg" style="width: 80%;" alt="Pire jante après ponçage">
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/4.jpg" style="width: 80%;" alt="Worst rim after sanding">
     <figcaption class="figure-caption">The four wheels after the first coat of primer</figcaption>
 </figure>
 
@@ -77,18 +77,13 @@ We applied a first coat of primer, let it dry and then sanded the small remainin
 <span class="badge green">2nd tip</span> Remember to use the spray can in small sprays, in several directions (vertical then horizontal for example), in order to properly cover the entire surface.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/wheels-repair/4bis.jpg" style="width: 80%;" alt="Pire jante après ponçage">
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/4bis.jpg" style="width: 80%;" alt="Worst rim after sanding">
     <figcaption class="figure-caption">Detail of the primer on the worst rim</figcaption>
 </figure>
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/wheels-repair/4ter.jpg" style="width: 80%;" alt="Pire jante après ponçage">
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/4ter.jpg" style="width: 80%;" alt="Worst rim after sanding">
     <figcaption class="figure-caption">It is necessary to sand!</figcaption>
-</figure>
-
-<figure>
-    <img loading="lazy" class="image-article" src="/images/wheels-repair/5.jpg" style="width: 80%;" alt="Jantes après première couche de peinture">
-    <figcaption class="figure-caption">The four wheels after the first coat of paint</figcaption>
 </figure>
 
 After sanding the first coat of primer, we applied a second coat of primer, a little thicker than the first.
@@ -98,12 +93,12 @@ After sanding the first coat of primer, we applied a second coat of primer, a li
 After waiting for the primer to dry, we applied the first coat of paint. We chose the original gray color that was on the original GTI rims. As for the primer, we started with a thin coat of paint.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/wheels-repair/5.jpg" style="width: 80%;" alt="Jantes après première couche de peinture">
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/5.jpg" style="width: 80%;" alt="The four wheels after the first coat of paint">
     <figcaption class="figure-caption">The four wheels after the first coat of paint</figcaption>
 </figure>
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/wheels-repair/5bis.jpg" style="width: 80%;" alt="Détail peinture sur une jante">
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/5bis.jpg" style="width: 80%;" alt="Detail of the paint on a rim">
     <figcaption class="figure-caption">Detail of the paint on a rim</figcaption>
 </figure>
 
@@ -114,14 +109,14 @@ Once the first coat of paint was dry, we applied the second, slightly thicker co
 Finally, once the two coats of paint dry, we applied in the same way two coats of varnish (monocomponent, or 1K, in our case) on the rims.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/wheels-repair/7.jpg" style="width: 80%;" alt="Roues après vernis">
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/7.jpg" style="width: 80%;" alt="Wheels after varnish">
     <figcaption class="figure-caption">The four wheels after varnishing</figcaption>
 </figure>
 
 The varnishing step is very important because it allows to protect the wheel, and thus increase its lifespan.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/wheels-repair/6.jpg" style="width: 80%;" alt="Détail d'une roue">
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/6.jpg" style="width: 80%;" alt="Wheel details">
     <figcaption class="figure-caption">Detail of the varnishing on a wheel</figcaption>
 </figure>
 
@@ -132,7 +127,7 @@ Once the two coats of varnish were dry, we could remove the newspaper and maskin
 As we said earlier in the article, the result is far from being perfect, but it's more than enough considering the money invested. However, doing this renovation yourself requires a certain amount of time, but allows you to learn more about painting and wheel restoration techniques.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/wheels-repair/8.jpg" style="width: 80%;" alt="Résultat final">
+    <img loading="lazy" class="image-article" src="/images/wheels-repair/8.jpg" style="width: 80%;" alt="Final result">
     <figcaption class="figure-caption">Final result</figcaption>
 </figure>
 

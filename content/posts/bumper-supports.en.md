@@ -21,7 +21,7 @@ To make our new pieces, we chose to use a 1.5mm thick stainless steel rod, 20mm 
 Concerning the supports of the rear skirt, we dismantled the two existing rusty supports, in order to measure them to make the new ones.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/bumper-supports/support-arriere-comparaison.png" alt="Comparaison ancienne nouvelle">
+    <img loading="lazy" class="image-article" src="/images/bumper-supports/support-arriere-comparaison.png" alt="Comparison old / new">
     <figcaption class="figure-caption">Comparison of the old support with the new one</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ So we cut a piece of our stainless steel rod, drilled it at both ends, and then 
 
 Then, we fixed it with rivets to keep the rear skirt firmly in place.
 <figure>
-    <img loading="lazy" class="image-article" src="/images/bumper-supports/support-arriere.png" alt="Nouveau support arrière en place">
+    <img loading="lazy" class="image-article" src="/images/bumper-supports/support-arriere.png" alt="New rear support setted">
     <figcaption class="figure-caption">New support installed</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Regarding the front skirt brackets, we had to take measurements ourselves once i
 Concerning the holes, we needed to put the large screws of the long range lights, so the parts have larger holes than the ones on the rear supports.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/bumper-supports/mep-av.png" alt="Mise en plan fixation avant">
+    <img loading="lazy" class="image-article" src="/images/bumper-supports/mep-av.png" alt="Front support layout">
     <figcaption class="figure-caption">Installing front supports</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ Concerning the holes, we needed to put the large screws of the long range lights
 For the manufacturing, we use the same process as in the first part on the rear supports: we cut a part of the stainless steel rod to the desired length, we drilled and then we bent it in a vice.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/bumper-supports/support-avant.png" alt="Nouveau support avant en place">
+    <img loading="lazy" class="image-article" src="/images/bumper-supports/support-avant.png" alt="New front support setted">
     <figcaption class="figure-caption">New supports installed</figcaption>
 </figure>
 
