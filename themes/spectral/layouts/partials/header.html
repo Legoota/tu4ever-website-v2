@@ -59,7 +59,7 @@
 						<div id="menu">
 							<ul>
 								{{ range .Site.Params.menu.main }}
-								<li><a href="{{ .url | relURL }}">{{ .title }}</a></li>
+								<li><a href="{{ .url | relLangURL }}">{{ .title }}</a></li>
 								{{ end }}
 							</ul>
 						</div>
