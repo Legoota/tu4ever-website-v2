@@ -157,11 +157,9 @@ staticDir = ['images']
             [[languages.fr.params.menu.main]]
             url = '/fr/'
             title = "Accueil"
-
             [[languages.fr.params.menu.main]]
             url = 'posts/'
             title = "Articles"
-
             [[languages.fr.params.menu.main]]
             url = '/fr/alpinaraid/'
             title = "Alpinaraid 2022"
