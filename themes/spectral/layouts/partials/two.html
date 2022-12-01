@@ -3,11 +3,11 @@
 {{ with .Site.Params.two }}
 {{ if .enable }}
 <section id="two" class="wrapper alt style2">
-  {{ range .section }}
+  {{ range $index, $element := .section }}
 	<section class="spotlight">
     <div class="image"><img src="{{ .img | relURL }}" alt="" /></div><div class="content">
-      <h2>{{ .title | safeHTML }}</h2>
-      {{ partial "body_text.html" (dict "context" . "md" $md) }}
+      <h2>{{ (i18n (print "twoTitle" (string $index))) | safeHTML }}</h2>
+      {{ partial "body_text.html" (dict "body" (i18n (print "twoBody" (string $index))) "md" $md) }}
 		</div>
 	</section>
   {{ end }}

@@ -5,8 +5,8 @@
 <section id="cta" class="wrapper style4">
 	<div class="inner">
 		<header>
-      <h2>{{ .title | safeHTML }}</h2>
-      {{ partial "body_text.html" (dict "context" . "md" $md) }}
+      <h2>{{ i18n "ctaTitle" | safeHTML }}</h2>
+      {{ partial "body_text.html" (dict "body" (i18n "ctaBody") "md" $md) }}
 		</header>
 		<ul class="actions stacked">
       {{ range .link }}

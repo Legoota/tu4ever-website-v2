@@ -47,32 +47,12 @@ enable = true
 
 [[params.two.section]]
 img = "images/one.png"
-title = 'Présentation'
-body = """TU4EVER est une équipe composée de deux personnes qui a pour objectif la préparation et la participation à des raids en Peugeot 205.<br /><br />
-Pour réaliser cet objectif, nous nous sommes lancés dans le projet TU4EVER afin d'acquérir une voiture, de la restaurer et de la préparer par nos soins. 
-Nous avons donc acheté une Peugeot 205 Génération de 1997, motorisée par l'emblématique bloc TU3M de PSA. 
-Après nos différentes modifications (que nous avons retracés dans les articles), nous avons participé à l'Alpinaraid qui fut une expérience exceptionnelle.<br /><br />
-L'origine du nom TU4EVER provient du code moteur <b>TU</b> équipant un grand nombre de véhicules des marques Peugeot et Citroën (PSA), y compris notre Peugeot 205 1,4L."""
 
 [[params.two.section]]
 img = "images/two.png"
-title = 'Équipage'
-body = """Je m'appelle Léo B, originaire du Jura et grand amoureux de la montagne dont j'affectionne particulièrement les paysages.<br />
-Amateur en mécanique, motard et passionné de voitures anciennes, je roule quotidiennement avec le pendant de la Peugeot 205, incompréhensiblement resté en second plan, 
-une Citroën AX de 1991. Je suis également adepte de VTT, randonnées et voyages.<br />Actuellement en dernière année d'une école d'ingénieur informatique en alternance 
-dans laquelle j'ai fait la connaissance de Léo K et où ce projet de raid est né.<br /><br />Je suis Léo K, né en Alsace, j'ai toujours apprécié les différents 
-panoramas que cette région peut offrir. Je suis actuellement en dernière année d'école d'ingénieur dans le domaine informatique, dans laquelle j'ai rencontré Léo B 
-et nous avons débuté ce projet de raid.<br />J'affectionne particulièrement piloter des drones, qu'ils soient stabilisés ou non (FPV) et toucher à l'électronique 
-(HiFi vintage, construction de claviers mécaniques et drones).<br />J'apprécie également la mécanique automobile, domaine dans lequel je souhaiterai progresser et apprendre de nouvelles choses."""
 
 [[params.two.section]]
 img = "images/three.png"
-title = 'Partenariats'
-body = """Notre association est toujours à la recherche de nouveaux partenaires ! Si vous êtes une entreprise ou un particulier et que vous souhaitez nous soutenir 
-dans ce projet, vous pouvez le faire de plusieurs manières : <ul><li>Financements</li><li>Don de matériel</li><li>Compétences techniques diverses</li><li>Partage du site et de nos réseaux sociaux</li></ul>
-Pour toutes questions ou demande de partenariats, vous pouvez nous contacter via notre compte <a href='https://instagram.com/tu4ever_205' target='_blank' class='email-highlights'>Instagram</a> 
-ou directement à l'adresse <span class='email-highlights'>partenariats@tu4ever.fr</span>. Nous serons ravis de collaborer avec vous ! 
-En contrepartie de votre participation, nous pouvons vous offrir de la visibilité sur notre site, sur notre Instagram et directement sur la voiture en apposant votre sticker."""
 
 [params.three]
 enable = false
@@ -114,8 +94,6 @@ body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidun
 
 [params.cta]
 enable = true
-title = "Notre dernière vidéo"
-body = "Vous retrouverez ici notre chaine Youtube sur laquelle nous postons des vidéos sur l'aventure."
 
 [[params.cta.link]]
 href = "https://www.youtube.com/watch?v=V7fG8VPShmg"
@@ -153,17 +131,12 @@ staticDir = ['images']
         languageShortName = "FR"
         languageFlag = "🇫🇷"
 
-            [[languages.fr.params]]
-            descriptionSite = "test description"
             [[languages.fr.params.menu.main]]
-            url = '/fr/'
+            url = '/'
             title = "Accueil"
             [[languages.fr.params.menu.main]]
             url = 'posts/'
             title = "Articles"
-            [[languages.fr.params.menu.main]]
-            url = '/fr/alpinaraid/'
-            title = "Alpinaraid 2022"
 
     [languages.en]
         weight = 1
@@ -177,6 +150,3 @@ staticDir = ['images']
             [[languages.en.params.menu.main]]
             url = '/en/posts/'
             title = "Posts"
-            [[languages.en.params.menu.main]]
-            url = '/en/alpinaraid/'
-            title = "Alpinaraid 2022"
