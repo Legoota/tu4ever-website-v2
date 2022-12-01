@@ -34,6 +34,33 @@ other = "Read more…"
 [descriptionSite]
 other = "TU4EVER is a 2-member team whose goal is preparing, restoring and participating raids in a Peugeot 205."
 
+[twoTitle0]
+other = "Presentation"
+[twoBody0]
+other = """TU4EVER is a two-member team whose goal is the preparation and participation to raids in a Peugeot 205.<br /><br />
+To achieve this goal, we started the project TU4EVER to purchase a car, restore and prepare it ourselves.
+We bought a 1997 Peugeot 205 Generation, powered by the infamous PSA TU3M engine.
+After our various modifications (that we wrote about in our articles), we participated to the 2022 edition of Alpinaraid which was an amazing experience.<br /><br />
+The story behind the name TU4EVER comes from the engine code <b>TU</b> which was used in a lot of cars made by Peugeot and Citroën (PSA), including our Peugeot 205 1.4L."""
+
+[twoTitle1]
+other = "Team"
+[twoBody1]
+other = """My name is Léo B, I come from Jura and I am fond of mountains and the landscapes they can offer.<br />
+Car mechanics hobbyist, biker and old car enthusiast, I often drive with the Citröen counterpart of the Peugeot 205, which was unfortunately not as famous as the later, 
+a 1991 Citroën AX. I also like mountain biking, hiking and travelling.<br />Currently in the last year of an engineering degree in IT in internship, where I met Léo K and where this project was born.<br /><br />
+I am Léo K, born in Alsace, I have always enjoyed the various landscapes that this place can offer. I am also currently doing my last year of engineering degree in IT, where I met Léo B and we started this raid project.<br />
+I really enjoy flying stabilized and unstabilized (FPV) drones, playing with electronics (vintage Hifi, mechanical keyboard building, FPV drones)<br />I also truly enjoy car mechanics, a field where I would like to progress and learn new things."""
+
+[twoTitle2]
+other = "Sponsorships"
+[twoBody2]
+other = """Our association is always looking for new sponsors! If you are a company or a person looking to support our project, you can do so using various ways :
+<ul><li>Fundings</li><li>Material donations</li><li>Various technical skills</li><li>Sharing our socials</li></ul> If you have any questions, you can contact 
+us directly on <a href='https://instagram.com/tu4ever_205' target='_blank' class='email-highlights'>Instagram</a> or straight using our email address <span class='email-highlights'>partenariats@tu4ever.fr</span>.
+We would be very pleased to collaborate with you!
+As a counterpart of your participation, we can offer you visibility on our website, our Instagram, or straight in our car with a sticker."""
+
 [ctaTitle]
 other = "Our last video"
 
