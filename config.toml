@@ -114,8 +114,6 @@ body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidun
 
 [params.cta]
 enable = true
-title = "Notre dernière vidéo"
-body = "Vous retrouverez ici notre chaine Youtube sur laquelle nous postons des vidéos sur l'aventure."
 
 [[params.cta.link]]
 href = "https://www.youtube.com/watch?v=V7fG8VPShmg"
@@ -153,16 +151,14 @@ staticDir = ['images']
         languageShortName = "FR"
         languageFlag = "🇫🇷"
 
-            [[languages.fr.params]]
-            descriptionSite = "test description"
             [[languages.fr.params.menu.main]]
-            url = '/fr/'
+            url = '/'
             title = "Accueil"
             [[languages.fr.params.menu.main]]
             url = 'posts/'
             title = "Articles"
             [[languages.fr.params.menu.main]]
-            url = '/fr/alpinaraid/'
+            url = 'alpinaraid/'
             title = "Alpinaraid 2022"
 
     [languages.en]
