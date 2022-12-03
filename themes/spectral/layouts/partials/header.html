@@ -43,6 +43,13 @@
 				<ul>
 					<li class = language-selector>
 						{{ if .Site.IsMultiLingual }}
+							{{ if eq "fr" .Site.Language.Lang }}
+								<li><a href="/en">English</a></li>
+							{{ else if eq "en" .Site.Language.Lang }}
+								<li><a href="/">Français</a></li>
+							{{ end }}
+
+						<!-- MORE THAN 2 LANGUAGES
 							{{ range .Site.Languages }}
 								{{ if eq . $.Site.Language }}
 									<li><a href="#">{{ .Lang }}{{ .Params.languageFlag }}</a></li>
@@ -52,6 +59,7 @@
 									{{ end }}
 								{{ end }}
 							{{ end }}
+						-->
 						{{ end }}
 					</li>
 					<li class="special">
