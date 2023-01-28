@@ -18,11 +18,11 @@ Raid timeline
                 <div class="content-left">
                 <p>Bla bla premier jour trop cool <span class="article-number">D1</span></p>
                 </div>
-                <span class="timeline-author"><a href="/alpina/day1">See more</a></span>
+                <span class="timeline-author"><a class="anchor-link" href="/alpina/day1">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">03</span>
-                <span class="month">07</span>
+                <span class="month">july</span>
             </div>
         </div>
         <!-- JOUR 2 -->
@@ -31,11 +31,11 @@ Raid timeline
                 <div class="content-right">
                 <p>Trop bien le deuxième jour <span class="article-number">D2</span></p>
                 </div>
-                <span class="timeline-author"><a href="/alpina/day2">See more</a></span>
+                <span class="timeline-author"><a class="anchor-link" href="/alpina/day2">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">04</span>
-                <span class="month">07</span>
+                <span class="month">july</span>
             </div>
         </div>
         <!-- JOUR 3 -->
@@ -44,11 +44,11 @@ Raid timeline
                 <div class="content-left">
                 <p>Insane le troisième jour <span class="article-number">D3</span></p>
                 </div>
-                <span class="timeline-author"><a href="/alpina/day3">See more</a></span>
+                <span class="timeline-author"><a class="anchor-link" href="/alpina/day3">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">05</span>
-                <span class="month">07</span>
+                <span class="month">july</span>
             </div>
         </div>
         <!-- JOUR 4 -->
@@ -57,11 +57,11 @@ Raid timeline
                 <div class="content-right">
                 <p>Trop bien le quatrième jour <span class="article-number">D4</span></p>
                 </div>
-                <span class="timeline-author"><a href="/alpina/day4">See more</a></span>
+                <span class="timeline-author"><a class="anchor-link" href="/alpina/day4">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">06</span>
-                <span class="month">07</span>
+                <span class="month">july</span>
             </div>
         </div>
         <!-- JOUR 5 -->
@@ -70,11 +70,11 @@ Raid timeline
                 <div class="content-left">
                 <p>Insane le cinquième<span class="article-number">D5</span></p>
                 </div>
-                <span class="timeline-author"><a href="/alpina/day5">See more</a></span>
+                <span class="timeline-author"><a class="anchor-link" href="/alpina/day5">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">07</span>
-                <span class="month">07</span>
+                <span class="month">july</span>
             </div>
         </div>
         <!-- JOUR 6 -->
@@ -83,11 +83,11 @@ Raid timeline
                 <div class="content-right">
                 <p>Trop classe le sixième jour <span class="article-number">D6</span></p>
                 </div>
-                <span class="timeline-author"><a href="/alpina/day6">See more</a></span>
+                <span class="timeline-author"><a class="anchor-link" href="/alpina/day6">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">08</span>
-                <span class="month">07</span>
+                <span class="month">july</span>
             </div>
         </div>
         <!-- JOUR 7 -->
@@ -96,11 +96,11 @@ Raid timeline
                 <div class="content-left">
                 <p>Trop dar le septième jour<span class="article-number">D7</span></p>
                 </div>
-                <span class="timeline-author"><a href="/alpina/day7">See more</a></span>
+                <span class="timeline-author"><a class="anchor-link" href="/alpina/day7">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">09</span>
-                <span class="month">07</span>
+                <span class="month">july</span>
             </div>
         </div>
         <!-- JOUR 8 -->
@@ -109,11 +109,11 @@ Raid timeline
                 <div class="content-right">
                 <p>J'ai adoré le huitième jour <span class="article-number">D8</span></p>
                 </div>
-                <span class="timeline-author"><a href="/alpina/day8">See more</a></span>
+                <span class="timeline-author"><a class="anchor-link" href="/alpina/day8">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">10</span>
-                <span class="month">07</span>
+                <span class="month">july</span>
             </div>
         </div>
     </div>

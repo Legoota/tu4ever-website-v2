@@ -173,7 +173,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #fff;
+		color: whitesmoke;
 		font-family: "Open Sans", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
@@ -4123,10 +4123,11 @@ input, select, textarea {
 	font-family: "Roboto", sans-serif;
 	font-size: 18px;
 	font-weight: 900;
+	border-radius: 8px;
 	text-transform: uppercase;
-	background: #00b0bd;
+	background: var(--secondary-color);
 	padding: 15px 23px;
-	color: #fff;
+	color: whitesmoke;
 	max-width: 5%;
 	width: 100%;
 	text-align: center;
@@ -4135,11 +4136,10 @@ input, select, textarea {
 #conference-timeline .conference-center-line {
 	position: absolute;
 	width: 3px;
-	height: 100%;
-	top: 0;
+	height: 91.5%;
 	left: 50%;
 	margin-left: -2px;
-	background: #00b0bd;
+	background: var(--secondary-color);
 }
 #conference-timeline .conference-timeline-content {
 	padding-top: 67px;
@@ -4170,7 +4170,8 @@ input, select, textarea {
 	position: relative;
 	width: auto;
 	border: 1px solid #ddd;
-	background-color: #fff;
+	border-radius: 10px;
+	background-color: #676767;
 	box-shadow: 0 1px 3px rgba(0,0,0,.03);
 	padding: 27px 25px;
 }
@@ -4178,7 +4179,7 @@ input, select, textarea {
 	margin: 0 0 0 60px;
 	padding: 0;
 	font-weight: 400;
-	color: #242424;
+	color: whitesmoke;
 	font-size: 14px;
 	line-height: 24px;
 	position: relative;
@@ -4186,10 +4187,9 @@ input, select, textarea {
 .timeline-article p span.article-number {
 	position: absolute;
 	font-weight: 300;
-	font-size: 44px;
-	top: 10px;
+	font-size: 32px;
 	left: -60px;
-	color: #00b0bd;
+	color: var(--accent-color);
 }
 .timeline-article .content-left-container {
 	float: left;
@@ -4203,7 +4203,7 @@ input, select, textarea {
 	top: 20px;
 	font-size: 23px;
 	font-family: "FontAwesome";
-	color: #fff;
+	color: #676767;
 }
 .timeline-article .content-left:before {
 	content: "\f0da";
@@ -4221,8 +4221,8 @@ input, select, textarea {
 	height: 62px;
 	margin-left: -31px;
 	color: #fff;
-	border-radius: 100%;
-	background: #00b0bd;
+	border-radius: 8px;
+	background: var(--secondary-color);
 }
 .timeline-article .meta-date .date,
 .timeline-article .meta-date .month {
@@ -4235,7 +4235,8 @@ input, select, textarea {
 	line-height: 40px;
 }
 .timeline-article .meta-date .month {
-	font-size: 18px;
+	font-weight: 400;
+	font-size: 15px;
 	line-height: 10px;
 }
 /*===== // Vertical Timeline =====*/
@@ -4276,7 +4277,9 @@ input, select, textarea {
 		left: -8px;
 	}
 	.timeline-article .content-right:before {
-		display: none;
+		content: "\f0d9";
+		right: auto;
+		left: -8px;
 	}
 }
 @media only screen and (max-width: 400px) {
