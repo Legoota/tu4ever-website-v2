@@ -34,7 +34,7 @@ Raid timeline
             <div class="content-right-container">
                 <a href="/en/alpina/day2">
                     <div class="content-right">
-                        <p>La grave - Usseaux<span class="article-number">D2</span></p>
+                        <p>La grave - Colle dell'Assietta<span class="article-number">D2</span></p>
                         <p>📏 173 km</p>
                         <p>⛰️ + 6241m</p>
                     </div>
@@ -51,7 +51,7 @@ Raid timeline
            <div class="content-left-container">
                 <a href="/en/alpina/day3">
                     <div class="content-left">
-                        <p>Usseaux - Bardonecchia <span class="article-number">D3</span></p>
+                        <p>Colle dell'Assietta - Colle del Sommeillier<span class="article-number">D3</span></p>
                         <p>📏 93 km</p>
                         <p>⛰️ + 4042m</p>
                     </div>
@@ -68,7 +68,7 @@ Raid timeline
             <div class="content-right-container">
                 <a href="/en/alpina/day4">
                     <div class="content-right">
-                        <p>Bardonnecchia - Chianale <span class="article-number">D4</span></p>
+                        <p>Colle del Sommeillier - Agriturismo Lou Chirun<span class="article-number">D4</span></p>
                         <p>📏 161 km</p>
                         <p>⛰️ + 6225m</p>
                     </div>
@@ -85,7 +85,7 @@ Raid timeline
             <div class="content-left-container">
                 <a href="/en/alpina/day5">
                     <div class="content-left">
-                        <p>Chianale - Tende <span class="article-number">D5</span></p>
+                        <p>Agriturismo Lou Chirun - Forte Colle Alto<span class="article-number">D5</span></p>
                         <p>📏 167 km</p>
                         <p>⛰️ + 5215m</p>
                     </div>
@@ -102,7 +102,7 @@ Raid timeline
             <div class="content-right-container">
                 <a href="/en/alpina/day6">
                     <div class="content-right">
-                        <p>Tende - Menton <span class="article-number">D6</span></p>
+                        <p>Forte Colle Alto - Menton<span class="article-number">D6</span></p>
                         <p>📏 115 km</p>
                         <p>⛰️ + 3937m</p>
                     </div>
@@ -136,7 +136,7 @@ Raid timeline
             <div class="content-right-container">
                 <a href="/en/alpina/day8">
                     <div class="content-right">
-                        <p>Draguignan - Maison <span class="article-number">D8</span></p>
+                        <p>Draguignan - Jura<span class="article-number">D8</span></p>
                         <p>📏 491 km</p>
                         <p>⛰️ + 700m</p>
                     </div>
