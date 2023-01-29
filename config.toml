@@ -137,6 +137,9 @@ staticDir = ['images']
             [[languages.fr.params.menu.main]]
             url = 'posts/'
             title = "Articles"
+            [[languages.fr.params.menu.main]]
+            url = 'alpinaraid/'
+            title = "Alpinaraid 2022"
 
     [languages.en]
         weight = 1
@@ -150,3 +153,6 @@ staticDir = ['images']
             [[languages.en.params.menu.main]]
             url = '/en/posts/'
             title = "Posts"
+            [[languages.en.params.menu.main]]
+            url = '/en/alpinaraid/'
+            title = "Alpinaraid 2022"

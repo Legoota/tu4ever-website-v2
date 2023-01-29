@@ -14,11 +14,15 @@ Raid timeline
     <div class="conference-timeline-content">
         <!-- JOUR 1 -->
         <div class="timeline-article">
-            <div class="content-left-container">
-                <div class="content-left">
-                <p>Bla bla premier jour trop cool <span class="article-number">D1</span></p>
-                </div>
-                <span class="timeline-author"><a class="anchor-link" href="/alpina/day1">See more</a></span>
+                <div class="content-left-container">
+                <a href="/en/alpina/day1">
+                    <div class="content-left">
+                        <p>La Léchère - la Grave <span class="article-number">D1</span></p>
+                        <p>📏 148 km</p>
+                        <p>⛰️ + 4663m</p>
+                    </div>
+                </a>
+                <span class="timeline-author"><a class="anchor-link" href="/en/alpina/day1">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">03</span>
@@ -28,10 +32,14 @@ Raid timeline
         <!-- JOUR 2 -->
         <div class="timeline-article">
             <div class="content-right-container">
-                <div class="content-right">
-                <p>Trop bien le deuxième jour <span class="article-number">D2</span></p>
-                </div>
-                <span class="timeline-author"><a class="anchor-link" href="/alpina/day2">See more</a></span>
+                <a href="/en/alpina/day2">
+                    <div class="content-right">
+                        <p>La grave - Usseaux<span class="article-number">D2</span></p>
+                        <p>📏 173 km</p>
+                        <p>⛰️ + 6241m</p>
+                    </div>
+                </a>
+                <span class="timeline-author"><a class="anchor-link" href="/en/alpina/day2">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">04</span>
@@ -40,11 +48,15 @@ Raid timeline
         </div>
         <!-- JOUR 3 -->
         <div class="timeline-article">
-            <div class="content-left-container">
-                <div class="content-left">
-                <p>Insane le troisième jour <span class="article-number">D3</span></p>
-                </div>
-                <span class="timeline-author"><a class="anchor-link" href="/alpina/day3">See more</a></span>
+           <div class="content-left-container">
+                <a href="/en/alpina/day3">
+                    <div class="content-left">
+                        <p>Usseaux - Bardonecchia <span class="article-number">D3</span></p>
+                        <p>📏 93 km</p>
+                        <p>⛰️ + 4042m</p>
+                    </div>
+                </a>
+                <span class="timeline-author"><a class="anchor-link" href="/en/alpina/day3">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">05</span>
@@ -54,10 +66,14 @@ Raid timeline
         <!-- JOUR 4 -->
         <div class="timeline-article">
             <div class="content-right-container">
-                <div class="content-right">
-                <p>Trop bien le quatrième jour <span class="article-number">D4</span></p>
-                </div>
-                <span class="timeline-author"><a class="anchor-link" href="/alpina/day4">See more</a></span>
+                <a href="/en/alpina/day4">
+                    <div class="content-right">
+                        <p>Bardonnecchia - Chianale <span class="article-number">D4</span></p>
+                        <p>📏 161 km</p>
+                        <p>⛰️ + 6225m</p>
+                    </div>
+                </a>
+                <span class="timeline-author"><a class="anchor-link" href="/en/alpina/day4">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">06</span>
@@ -67,10 +83,14 @@ Raid timeline
         <!-- JOUR 5 -->
         <div class="timeline-article">
             <div class="content-left-container">
-                <div class="content-left">
-                <p>Insane le cinquième<span class="article-number">D5</span></p>
-                </div>
-                <span class="timeline-author"><a class="anchor-link" href="/alpina/day5">See more</a></span>
+                <a href="/en/alpina/day5">
+                    <div class="content-left">
+                        <p>Chianale - Tende <span class="article-number">D5</span></p>
+                        <p>📏 167 km</p>
+                        <p>⛰️ + 5215m</p>
+                    </div>
+                </a>
+                <span class="timeline-author"><a class="anchor-link" href="/en/alpina/day5">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">07</span>
@@ -80,10 +100,14 @@ Raid timeline
         <!-- JOUR 6 -->
         <div class="timeline-article">
             <div class="content-right-container">
-                <div class="content-right">
-                <p>Trop classe le sixième jour <span class="article-number">D6</span></p>
-                </div>
-                <span class="timeline-author"><a class="anchor-link" href="/alpina/day6">See more</a></span>
+                <a href="/en/alpina/day6">
+                    <div class="content-right">
+                        <p>Tende - Menton <span class="article-number">D6</span></p>
+                        <p>📏 115 km</p>
+                        <p>⛰️ + 3937m</p>
+                    </div>
+                </a>
+                <span class="timeline-author"><a class="anchor-link" href="/en/alpina/day6">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">08</span>
@@ -93,10 +117,14 @@ Raid timeline
         <!-- JOUR 7 -->
         <div class="timeline-article">
             <div class="content-left-container">
-                <div class="content-left">
-                <p>Trop dar le septième jour<span class="article-number">D7</span></p>
-                </div>
-                <span class="timeline-author"><a class="anchor-link" href="/alpina/day7">See more</a></span>
+                <a href="/en/alpina/day7">
+                    <div class="content-left">
+                        <p>Menton - Draguignan<span class="article-number">D7</span></p>
+                        <p>📏 150 km</p>
+                        <p>⛰️ + 500m</p>
+                    </div>
+                </a>
+                <span class="timeline-author"><a class="anchor-link" href="/en/alpina/day7">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">09</span>
@@ -106,10 +134,14 @@ Raid timeline
         <!-- JOUR 8 -->
         <div class="timeline-article">
             <div class="content-right-container">
-                <div class="content-right">
-                <p>J'ai adoré le huitième jour <span class="article-number">D8</span></p>
-                </div>
-                <span class="timeline-author"><a class="anchor-link" href="/alpina/day8">See more</a></span>
+                <a href="/en/alpina/day8">
+                    <div class="content-right">
+                        <p>Draguignan - Maison <span class="article-number">D8</span></p>
+                        <p>📏 491 km</p>
+                        <p>⛰️ + 700m</p>
+                    </div>
+                </a>
+                <span class="timeline-author"><a class="anchor-link" href="/en/alpina/day8">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">10</span>
