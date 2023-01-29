@@ -4205,6 +4205,10 @@ input, select, textarea {
 	font-family: "FontAwesome";
 	color: #676767;
 }
+.timeline-article .content-left:hover,
+.timeline-article .content-right:hover{
+	background-color: #484848;
+}
 .timeline-article .content-left:before {
 	content: "\f0da";
 	right: -8px;
