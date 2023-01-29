@@ -16,7 +16,9 @@ La timeline du raid
         <div class="timeline-article">
             <div class="content-left-container">
                 <div class="content-left">
-                <p>Bla bla premier jour trop cool <span class="article-number">J1</span></p>
+                <p>La Léchère - la Grave <span class="article-number">J1</span></p>
+                <p>📏 148 km</p>
+                <p>⛰️ + 4663m</p>
                 </div>
                 <span class="timeline-author"><a class="anchor-link" href="/alpina/day1">Voir plus</a></span>
             </div>
@@ -29,7 +31,9 @@ La timeline du raid
         <div class="timeline-article">
             <div class="content-right-container">
                 <div class="content-right">
-                <p>Trop bien le deuxième jour <span class="article-number">J2</span></p>
+                <p>La grave - Usseaux<span class="article-number">J2</span></p>
+                <p>📏 173 km</p>
+                <p>⛰️ + 6241m</p>
                 </div>
                 <span class="timeline-author"><a class="anchor-link" href="/alpina/day2">Voir plus</a></span>
             </div>
@@ -42,7 +46,9 @@ La timeline du raid
         <div class="timeline-article">
             <div class="content-left-container">
                 <div class="content-left">
-                <p>Insane le troisième jour <span class="article-number">J3</span></p>
+                <p>Usseaux - Bardonecchia <span class="article-number">J3</span></p>
+                <p>📏 93 km</p>
+                <p>⛰️ + 4042m</p>
                 </div>
                 <span class="timeline-author"><a class="anchor-link" href="/alpina/day3">Voir plus</a></span>
             </div>
@@ -55,7 +61,9 @@ La timeline du raid
         <div class="timeline-article">
             <div class="content-right-container">
                 <div class="content-right">
-                <p>Trop bien le quatrième jour <span class="article-number">J4</span></p>
+                <p>Bardonnecchia - Chianale <span class="article-number">J4</span></p>
+                <p>📏 161 km</p>
+                <p>⛰️ + 6225m</p>
                 </div>
                 <span class="timeline-author"><a class="anchor-link" href="/alpina/day4">Voir plus</a></span>
             </div>
@@ -68,7 +76,9 @@ La timeline du raid
         <div class="timeline-article">
             <div class="content-left-container">
                 <div class="content-left">
-                <p>Insane le cinquième<span class="article-number">J5</span></p>
+                <p>Chianale - Tende <span class="article-number">J5</span></p>
+                <p>📏 167 km</p>
+                <p>⛰️ + 5215m</p>
                 </div>
                 <span class="timeline-author"><a class="anchor-link" href="/alpina/day5">Voir plus</a></span>
             </div>
@@ -81,7 +91,9 @@ La timeline du raid
         <div class="timeline-article">
             <div class="content-right-container">
                 <div class="content-right">
-                <p>Trop classe le sixième jour <span class="article-number">J6</span></p>
+                <p>Tende - Menton <span class="article-number">J6</span></p>
+                <p>📏 115 km</p>
+                <p>⛰️ + 3937m</p>
                 </div>
                 <span class="timeline-author"><a class="anchor-link" href="/alpina/day6">Voir plus</a></span>
             </div>
@@ -94,7 +106,9 @@ La timeline du raid
         <div class="timeline-article">
             <div class="content-left-container">
                 <div class="content-left">
-                <p>Trop dar le septième jour<span class="article-number">J7</span></p>
+                <p>Menton - Draguignan<span class="article-number">J7</span></p>
+                <p>📏 150 km</p>
+                <p>⛰️ + 500m</p>
                 </div>
                 <span class="timeline-author"><a class="anchor-link" href="/alpina/day7">Voir plus</a></span>
             </div>
@@ -107,7 +121,9 @@ La timeline du raid
         <div class="timeline-article">
             <div class="content-right-container">
                 <div class="content-right">
-                <p>J'ai adoré le huitième jour <span class="article-number">J8</span></p>
+                <p>Draguignan - Maison <span class="article-number">J8</span></p>
+                <p>📏 491 km</p>
+                <p>⛰️ + 700m</p>
                 </div>
                 <span class="timeline-author"><a class="anchor-link" href="/alpina/day8">Voir plus</a></span>
             </div>
