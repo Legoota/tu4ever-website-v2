@@ -8,7 +8,7 @@ draft: true
 L'alpinaraid
 ------------
 
-L’AlpinaRaid est un raid touristique et culturel à la découverte des Alpes françaises et italiennes. À bord de Peugeot 205 trentenaires toutes décorées et préparées pour l’aventure, les équipages rallient le Mont-Blanc à la mer Méditerranée. Une aventure de 800 kilomètres en 6 jours à travers pas moins de 25 grands cols Alpins et plus de 25 000 mètres de dénivelé positif.
+L’Alpinaraid est un raid touristique et culturel à la découverte des Alpes françaises et italiennes. À bord de Peugeot 205 trentenaires toutes décorées et préparées pour l’aventure, les équipages rallient le Mont-Blanc à la mer Méditerranée. Une aventure de 800 kilomètres en 6 jours à travers pas moins de 25 grands cols Alpins et plus de 25 000 mètres de dénivelé positif.
 
 Voici un aperçu global du parcours de l'édition 2022 de l'Alpinaraid, du 3 au 8 juillet, ainsi qu'une timeline pour le résumé des plus belles étapes jour par jour.
 
