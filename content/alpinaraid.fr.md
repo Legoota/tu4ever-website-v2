@@ -18,8 +18,6 @@ Voici un aperçu global du parcours de l'édition 2022 de l'Alpinaraid, du 3 au 
 </figure>
 
 
-
-
 La timeline du raid
 ------------
 
