@@ -74,3 +74,45 @@ Top départ ! Nous partons du col de la madeleine pour 7 jours d'aventure inoubl
     <figcaption class="figure-caption">C'est parti pour l'aventure</figcaption>
 </figure>
 
+Nous avons ensuite pris la direction de la vallée de la Maurienne puis le col de la Croix-de-Fer (2067) jusqu'au col du Glandon (1924). Nous avons découvert de très jolis villages et en haut du col, Léo à trouvé l'endroit propice pour faire une photo à l'appareil argentique.
+
+<figure>
+    <img loading="lazy" class="image-article" src="/images/day1/IMG_0075.jpg" alt="Joli village sur la route">
+    <figcaption class="figure-caption"></figcaption>
+</figure>
+
+<figure>
+    <img loading="lazy" class="image-article" src="/images/day1/IMG_0090.jpg" alt="Le temps d'une pose pour une photo argentique">
+    <figcaption class="figure-caption">Le temps d'une pose pour une photo argentique</figcaption>
+</figure>
+
+<figure>
+    <img loading="lazy" class="image-article" src="/images/day1/alpina5.jpg" alt="Résultat de la photo argentique">
+    <figcaption class="figure-caption">Le résultat</figcaption>
+</figure>
+
+On est passé à côté du très beau lac de Grand'Maison...drôle de nom; peut-être dû à cette montagne triangulaire ?
+<figure>
+    <img loading="lazy" class="image-article" src="/images/day1/IMG_0091.jpg" alt="Le lac de Grand'Maison">
+    <figcaption class="figure-caption">La "grande maison" du lac de Grand'Maison</figcaption>
+</figure>
+
+Avec la température assez élevé de lété et ces longues montées, la voiture chargée chauffe légèrement. Rien d'alarmant mais on lui laisse le temps de souffler en haut du col avant d'entammer une belle descente sur une petite route sinueuse et direction L'Alpe d'Huez et Mizoën.
+
+<figure>
+    <img loading="lazy" class="image-article" src="/images/day1/IMG_0103.jpg" alt="Refroidissement du moteur">
+    <figcaption class="figure-caption">Refroidissement du moteur</figcaption>
+</figure>
+
+<figure>
+    <img loading="lazy" class="image-article" src="/images/day1/IMG_0101.jpg" alt="Redescente vers Mizoën">
+    <figcaption class="figure-caption">Redescente vers Mizoën</figcaption>
+</figure>
+
+Puis nous avons ensuite rejoint le camping "Le Gravelote" pour la première nuit de l'aventure. Quelques gouttes de pluie sont tombées sur le petit matin pour compliquer le pliage de notre campement. Mais l'itinéraire du lendemain nous réserve de belles surprises.
+
+<figure>
+    <img loading="lazy" class="image-article" src="/images/day1/IMG_0102.jpg" alt="Le campement du premier soir">
+    <figcaption class="figure-caption">Le campement du premier soir</figcaption>
+</figure>
+
