@@ -5,6 +5,18 @@ date: 2022-10-31T16:02:00+02:00
 draft: true
 ---
 
+Alpinaraid
+------------
+
+Alpinaraid is a touristic and cultural raid, made to discover the French and Italian Alps. The goal is to prepare and decorate thirty-year-old Peugeot 205 for a road trip from Mont-Blanc to the Mediterranean sea. This 800-kilometers 6-day trip accross the mountains crosses around 25 famous mountain passes, and more than 25 000 meters of positive elevation are expected.
+
+Here is a comprehensive view of the itinerary from the 2022 Alpinaraid edition, from the 3rd to the 8th of July. Below that, you can find the timeline of the days, with a summary and pictures for each day of our trip.
+
+<figure>
+    <img loading="lazy" class="image-article" src="/images/alpinaraid-trip.jpg" alt="Itinerary">
+    <figcaption class="figure-caption">Itinerary of the trip</figcaption>
+</figure>
+
 Raid timeline
 ------------
 
