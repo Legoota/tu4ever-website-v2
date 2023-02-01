@@ -34,7 +34,7 @@ Réveil à 4h ce matin pour le premier jour. L'objectif : être au point de dép
     <figcaption class="figure-caption">Pose au levé du soleil</figcaption>
 </figure>
 
-Puis nous avons copntinué notre route en direction du départ en passant cette fois par Annecy et son magnifique lac.
+Puis nous avons continué notre route en direction du départ en passant cette fois par Annecy et son magnifique lac.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day1/IMG_0054.jpg" alt="Mongolfière sur le lac d'Annecy">
@@ -45,25 +45,20 @@ Puis nous avons copntinué notre route en direction du départ en passant cette 
     <figcaption class="figure-caption">Lac d'annecy, Château de Duingt</figcaption>
 </figure>
 
-<td>
-    <tr style="float:left;">
-        <figure>
-            <img loading="lazy" class="image-article" src="/images/day1/IMG_0055.jpg" alt="En route vers le départ">
-            <figcaption class="figure-caption">En route vers le départ</figcaption>
-        </figure>
-    </tr>
-    <tr style="float:right;">
-        <figure>
-            <img loading="lazy" class="image-article" src="/images/day1/IMG_0057.jpg" alt="En route vers le départ">
-            <figcaption class="figure-caption">En route vers le départ</figcaption>
-        </figure>
-    </tr>
-</td>
+<figure>
+    <img loading="lazy" class="image-article" src="/images/day1/IMG_0055.jpg" alt="En route vers le départ">
+    <figcaption class="figure-caption">En route vers le départ</figcaption>
+</figure>
+
+<figure>
+    <img loading="lazy" class="image-article" src="/images/day1/IMG_0057.jpg" alt="En route vers le départ">
+    <figcaption class="figure-caption">En route vers le départ</figcaption>
+</figure>
 
 Toutes les équipes arrivent une par une et nous nous regroupons sur le parking du départ.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day1/image_voitures_départ.jpg" alt="Les voiture au départ">
+    <img loading="lazy" class="image-article" src="/images/day1/J1 (1).jpg" alt="Les voiture au départ">
     <figcaption class="figure-caption">Briefing des équipages au départ</figcaption>
 </figure>
 
