@@ -23,44 +23,44 @@ tags = [
 Une très grosse étape pour cette deuxième journée de l'aventure qui commence par l'ascension des traditionnels cols du Lautaret et du Galibier (2642 m).
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day2/IMG_0127.jpg" alt="Le col du Galibier">
+    <img loading="lazy" class="image-article" src="/images/day2/IMG_0127.jpg" alt="Le Col du Galibier">
     <figcaption class="figure-caption">Le col du Galibier</figcaption>
 </figure>
 
-On a de la chance pour cette journée, la pluie est partie et nous a laissé place à un soleil magnifique et très agréable pour se promener dans les cols. Nous avons fait une rencontre avec une jolie Peugeot Talbot Sport qui ne nous a pas laissés indifférents pour des pilotes de 205.
+On a de la chance pour cette journée, la pluie est partie et nous a laissé place à un soleil magnifique et très agréable pour se promener dans les cols. Nous avons fait une rencontre avec une jolie Peugeot Talbot Samba Sport qui ne nous a pas laissés indifférents pour des pilotes de 205.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day2/IMG_0130.jpg" alt="Rencontre avec une Talbot">
-    <figcaption class="figure-caption">Rencontre avec une Peugeot Talbot Sport</figcaption>
+    <figcaption class="figure-caption">Rencontre avec une Peugeot Talbot Samba Sport</figcaption>
 </figure>
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day2/IMG_0157.jpg" alt="Descente du col du télégraphe">
-    <figcaption class="figure-caption">Descente du col du télégraphe</figcaption>
+    <img loading="lazy" class="image-article" src="/images/day2/IMG_0157.jpg" alt="Descente du Col du télégraphe">
+    <figcaption class="figure-caption">Descente du Col du télégraphe</figcaption>
 </figure>
 
-Nous avons ensuite changé de vallée en passant le col du télégraphe. Après plusieurs stations service à la recherche de ce précieux mélange qui est l'essence, nous avons pu enfin faire le plein du reservoir et du jerrycan pour attaquer les pistes de montagne juste après notre passage sur les bords du lac du mont Cenis.
+Nous avons ensuite changé de vallée en passant le col du télégraphe. Après plusieurs stations service à la recherche de ce précieux mélange qui est l'essence, nous avons pu enfin faire le plein du reservoir et du jerrycan pour attaquer les pistes de montagne juste après notre passage sur les bords du lac du Mont-Cenis.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day2/J2_(2).jpg" alt="On reprend la route en direction du Lac">
     <figcaption class="figure-caption">On reprend la route en direction du Lac</figcaption>
 </figure>
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day2/J2_(6).jpg" alt="Le lac du mont Cenis">
-    <figcaption class="figure-caption">Le lac du mont Cenis</figcaption>
+    <img loading="lazy" class="image-article" src="/images/day2/J2_(6).jpg" alt="Le lac du Mont-Cenis">
+    <figcaption class="figure-caption">Le lac du Mont-Cenis</figcaption>
 </figure>
 
 Après le lac, nous avons pris la direction de la ville de Susa, à partir de laquelle une montée de plus de 1500 mètres nous attendait. 
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day2/j2_assiette.png" alt="Route et piste du colle del Finestre">
-    <figcaption class="figure-caption">Route et piste du colle del Finestre</figcaption>
+    <img loading="lazy" class="image-article" src="/images/day2/j2_assiette.png" alt="Route et piste du Colle del Finestre">
+    <figcaption class="figure-caption">Route et piste du Colle del Finestre</figcaption>
 </figure>
 
-Une bonne heure de piste sinueuse plus tard, nous voilà en haut du colle del Finestre ou nous prenons le temps pour quelques photos et laisser une trace de notre passage.
+Une bonne heure de piste sinueuse plus tard, nous voilà en haut du Colle del Finestre ou nous prenons le temps pour quelques photos et laisser une trace de notre passage.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day2/IMG_0183.jpg" alt="La trace de notre passage au colle del Finstre">
-    <figcaption class="figure-caption">TU4EVER au colle del Finstre</figcaption>
+    <figcaption class="figure-caption">TU4EVER au Colle del Finstre</figcaption>
 </figure>
 <figure>
     <img loading="lazy" class="image-article" src="/images/day2/J2_(1).jpg" alt="L'équipe au col">
