@@ -8,7 +8,6 @@ tags = [
 ]
 +++
 
-
 ## July 3rd, 2022 : First day of the adventure
 ##### Jura - Geneva - Col de la Madeleine - Lac de Grand'Maison - L'Alpe d'Huez - La Grave
 <br />
