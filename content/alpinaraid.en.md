@@ -114,7 +114,7 @@ Raid timeline
             <div class="content-right-container">
                 <a href="/en/alpina/day6">
                     <div class="content-right">
-                        <p>Forte Colle Alto - Menton<span class="article-number">D6</span></p>
+                        <p>Forte Colle Alto - Menton - Azur coast<span class="article-number">D6</span></p>
                         <p>📏 115 km</p>
                         <p>⛰️ + 3937m</p>
                     </div>
@@ -131,32 +131,15 @@ Raid timeline
             <div class="content-left-container">
                 <a href="/en/alpina/day7">
                     <div class="content-left">
-                        <p>Menton - Draguignan<span class="article-number">D7</span></p>
-                        <p>📏 150 km</p>
-                        <p>⛰️ + 500m</p>
+                        <p>Draguignan - Gorges du Verdon - Jura<span class="article-number">D7</span></p>
+                        <p>📏 430 km</p>
+                        <p>⛰️ + 1727m</p>
                     </div>
                 </a>
                 <span class="timeline-author"><a class="anchor-link" href="/en/alpina/day7">See more</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">09</span>
-                <span class="month">july</span>
-            </div>
-        </div>
-        <!-- JOUR 8 -->
-        <div class="timeline-article">
-            <div class="content-right-container">
-                <a href="/en/alpina/day8">
-                    <div class="content-right">
-                        <p>Draguignan - Jura<span class="article-number">D8</span></p>
-                        <p>📏 491 km</p>
-                        <p>⛰️ + 700m</p>
-                    </div>
-                </a>
-                <span class="timeline-author"><a class="anchor-link" href="/en/alpina/day8">See more</a></span>
-            </div>
-            <div class="meta-date">
-                <span class="date">10</span>
                 <span class="month">july</span>
             </div>
         </div>

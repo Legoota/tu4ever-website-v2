@@ -115,8 +115,8 @@ La timeline du raid
             <div class="content-right-container">
                 <a href="/alpina/day6">
                     <div class="content-right">
-                        <p>Forte Colle Alto - Menton<span class="article-number">J6</span></p>
-                        <p>📏 115 km</p>
+                        <p>Forte Colle Alto - Menton - Côte d'Azur<span class="article-number">J6</span></p>
+                        <p>📏 275 km</p>
                         <p>⛰️ + 3937m</p>
                     </div>
                 </a>
@@ -132,32 +132,15 @@ La timeline du raid
             <div class="content-left-container">
                 <a href="/alpina/day7">
                     <div class="content-left">
-                        <p>Menton - Draguignan<span class="article-number">J7</span></p>
-                        <p>📏 150 km</p>
-                        <p>⛰️ + 500m</p>
+                        <p>Draguignan - Gorges du Verdon - Jura<span class="article-number">J7</span></p>
+                        <p>📏 430 km</p>
+                        <p>⛰️ + 1727m</p>
                     </div>
                 </a>
                 <span class="timeline-author"><a class="anchor-link" href="/alpina/day7">Voir plus</a></span>
             </div>
             <div class="meta-date">
                 <span class="date">09</span>
-                <span class="month">juillet</span>
-            </div>
-        </div>
-        <!-- JOUR 8 -->
-        <div class="timeline-article">
-            <div class="content-right-container">
-                <a href="/alpina/day8">
-                    <div class="content-right">
-                        <p>Draguignan - Jura<span class="article-number">J8</span></p>
-                        <p>📏 491 km</p>
-                        <p>⛰️ + 700m</p>
-                    </div>
-                </a>
-                <span class="timeline-author"><a class="anchor-link" href="/alpina/day8">Voir plus</a></span>
-            </div>
-            <div class="meta-date">
-                <span class="date">10</span>
                 <span class="month">juillet</span>
             </div>
         </div>
