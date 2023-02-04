@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 ## 8 juillet 2022 : Après une semaine en montagne on rejoint la mer !
-##### Via del Sale - Briga Alta - Monte Saccarello - La Brigue - Ventimille - Menton
+##### Via del Sale - Briga Alta - Monte Saccarello - La Brigue - Ventimille - Menton - Monaco - Côte d'Azur
 <br />
 
 📏 Distance : 115km<br />
