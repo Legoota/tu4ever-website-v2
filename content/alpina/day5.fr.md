@@ -78,19 +78,24 @@ On prends la route mi-bitumée et quelques fois creusée dans la montagne qui re
 
 De l'autre côté du col, on poursuit en pleine nature sur une piste: la Strade della Gardetta. Le décore nous ferait presque oublier qu'on vient de s'appercevoir du second problème de la journée. Avec les secousses, nous avons perdu notre ligne d'échappement refixée provisoirment la veille. Nous ne sommes pas apperçu d'un bruit différent car l'étanchéité n'était pas bonne et la piste fait beaucoup de bruit dans l'habitacle de la voiture. On fait demi-tour à sa recherche.
 
+<figure>
+    <img loading="lazy" class="image-article" src="/images/day5/IMG_0617.jpg" alt="À la recherche de la ligne d'échappement">
+    <figcaption class="figure-caption">À la recherche de la ligne d'échappement</figcaption>
+</figure>
+
 Heureusement nous avions rattrapé notre retard et des équipages dernières nous nous l'avait récupéré. On décide de le sangler sur le toit et de le refixer une fois sur la route.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day5/IMG_0617.jpg" alt="Strada della Gardetta">
-    <figcaption class="figure-caption">Strada della Gardetta</figcaption>
+    <img loading="lazy" class="image-article" src="/images/day5/IMG_0657.jpg" alt="Ligne d'échappement retrouvée et sur le toit">
+    <figcaption class="figure-caption">Ligne d'échappement retrouvée et sur le toit</figcaption>
 </figure>
 <figure>
     <img loading="lazy" class="image-article" src="/images/day5/IMG_0618.jpg" alt="Strada della Gardetta 2">
-    <figcaption class="figure-caption">Strada della Gardetta (2)</figcaption>
+    <figcaption class="figure-caption">Strada della Gardetta</figcaption>
 </figure>
 <figure>
     <img loading="lazy" class="image-article" src="/images/day5/IMG_0620.jpg" alt="Strada della Gardetta 3">
-    <figcaption class="figure-caption">Strada della Gardetta (3)</figcaption>
+    <figcaption class="figure-caption">Strada della Gardetta (2)</figcaption>
 </figure>
 <figure>
     <img loading="lazy" class="image-article" src="/images/day5/IMG_0625.jpg" alt="Piste du Lago de la Meja">
