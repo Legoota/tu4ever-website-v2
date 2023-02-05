@@ -12,7 +12,7 @@ tags = [
 <br />
 
 📏 Distance : 430 km<br />
-⛰️ Denivelé positif : 1727m
+⛰️ Denivelé positif : 1727 m
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day7/map7.jpg" alt="Mettre l'itinéraire du jour 7">
@@ -31,7 +31,7 @@ Nous partons de Draguignan où nous avons passé la nuit en direction du joli vi
     <figcaption class="figure-caption">Le village de Tourtour</figcaption>
 </figure>
 
-Nous continuons ensuite notre route en direction de Sainte-Croix-du-Verdon et des bords du lac de Sainte-Croix.
+Nous continuons ensuite notre route en direction de Sainte-Croix-du-Verdon et les bords du lac de Sainte-Croix.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day7/IMG_0768.jpg" alt="Bauduen et le lac de Sainte-Croix">
@@ -79,7 +79,7 @@ La vraie photo cette fois. L'endroit est sublime. Il porte bien son nom.
     <figcaption class="figure-caption">Point sublime</figcaption>
 </figure>
 
-Nous continuons notre route vers le village de Rougon où nous décidons de faire une pause au bord de l'eau mais avant, encore un point de vue sur les gorges alors nous nous arrêtons.
+Nous continuons notre route vers le village de Rougon où nous décidons de faire une pause au bord de l'eau. Mais avant, encore un point de vue sur les gorges alors nous nous arrêtons quelques instants profiter de la vue.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day7/IMG_0810.jpg" alt="Les gorges du Verdon vers Rougon">
@@ -90,7 +90,7 @@ Nous continuons notre route vers le village de Rougon où nous décidons de fair
     <figcaption class="figure-caption">Photo devant les gorges</figcaption>
 </figure>
 
-Finallement, nous arrivons devant le lac de Castillon pour la dernière photo de cette belle avanture.
+Finalement, nous arrivons devant le lac de Castillon pour la dernière photo de cette belle avanture.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day7/IMG_0815.jpg" alt="Photo devant le lac de Castillon">

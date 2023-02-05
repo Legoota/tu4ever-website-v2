@@ -11,21 +11,21 @@ tags = [
 ##### Via del Sale - Briga Alta - Monte Saccarello - La Brigue - Ventimille - Menton - Monaco - Côte d'Azur
 <br />
 
-📏 Distance : 115km<br />
-⛰️ Denivelé positif : 3937m (en partant de 2000m et en arrivant à 3m)
+📏 Distance : 115 km<br />
+⛰️ Denivelé positif : 3937 m (en partant de 2000 m et en arrivant à 3 m)
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day6/map6.jpg" alt="Itinéraire">
     <figcaption class="figure-caption">Itinéraire du jour 6</figcaption>
 </figure>
 
-L'étape du jour est la dernière de l'Alpinaraid. Nous rallions le col de Tende à la ville de Menton. Encore quelques cols à passer mais globalement, nous redescendons d'altitude. 
+L'étape du jour est la dernière de l'Alpinaraid. Nous rallions le Col de Tende à la ville de Menton. Encore quelques cols à passer mais globalement, nous redescendons d'altitude. 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day6/J6_(2).jpg" alt="Départ de la dernière étape du raid">
     <figcaption class="figure-caption">Départ de la dernière étape du raid</figcaption>
 </figure>
 
-Nous partons depuis le col de Tende puis nous bifurquons aussitôt sur la Alta Via del Sale ou "haute route du sel". C'est une ancienne piste militaire de 56km de long à plus de 2000m d'altitude. La piste est restreinte à un certain nombre de véhicule et elle était normalement fermée à la circulation la semaine où nous avons fait le raid. Nous avons eu une autorisation spéciale pour y accéder. C'est une piste magnifique qui fait clairement partie des plus belles que nous avons empruntées cette semaine.
+Nous partons depuis le Col de Tende puis nous bifurquons aussitôt sur la Alta Via del Sale ou "haute route du sel". C'est une ancienne piste militaire de 56 km de long à plus de 2000 m d'altitude. La piste est restreinte à un certain nombre de véhicule et elle était normalement fermée à la circulation la semaine où nous avons fait le raid. Nous avons eu une autorisation spéciale pour y accéder. C'est une piste magnifique qui fait clairement partie des plus belles que nous avons empruntées cette semaine.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day6/IMG_0698.jpg" alt="La Via del Sale">
@@ -59,8 +59,8 @@ Nous sommes ensuite arrivés au bord de la mer à Ventimille en Italie encore pa
 Nous passons devant le palace de l'Europe de Menton, puis nous arrivons face à la baie du soleil. Quelques carrefours et nous voilà au point de rassemblement de l'arrivée.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day6/IMG_0748.jpg" alt="Palace de l'Europe de Menton">
-    <figcaption class="figure-caption">Palace de l'Europe de Menton</figcaption>
+    <img loading="lazy" class="image-article" src="/images/day6/IMG_0748.jpg" alt="Palais de l'Europe à Menton">
+    <figcaption class="figure-caption">Palais de l'Europe à Menton</figcaption>
 </figure>
 <figure>
     <img loading="lazy" class="image-article" src="/images/day6/IMG_0749.jpg" alt="Baie du soleil">
@@ -75,9 +75,9 @@ Nous passons devant le palace de l'Europe de Menton, puis nous arrivons face à 
     <figcaption class="figure-caption">Arrivée au bord de la plage de menton</figcaption>
 </figure>
 
-Nous prenons le temps de partager une boisson fraiche avec les organisateurs et nous nous saluons avec les autres équipages déjà arrivés car ici, chacun prendra le chemin qu'il souhaite pour rentrer dans sa région de départ. 
+Nous prenons le temps de partager une boisson fraiche avec les organisateurs et nous nous saluons avec les autres équipages déjà arrivés car ici, chacun prendra le chemin qu'il souhaite pour rentrer dans sa région de départ.
 
-Une dernière photo officielle des équipages à l'arrivée. Notre voiture ne sera pas dessus car elle a servi de promontoire à notre photographe pour prendre une photo d'un peu plus haut. La galerie de toit est parfaite ! encore merci à notre partenaire <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/">John-Steel</a>.
+Une dernière photo officielle des équipages à l'arrivée. Notre voiture ne sera pas dessus car elle a servi de promontoire à notre photographe pour prendre une photo d'un peu plus haut. La galerie de toit est parfaite ! Encore merci à notre partenaire <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/">John-Steel</a>.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day6/IMG_0736.jpg" alt="Promontoire photo officielle">
@@ -86,7 +86,7 @@ Une dernière photo officielle des équipages à l'arrivée. Notre voiture ne se
 
 Nous décidons de reprendre la route et de longer la côté d'Azur en cette fin d'après-midi ensolleillée puis de se reculer dans les terres en fin de soirée pour passer la nuit.
 
-Nous devons en faire une pause à l'ombre pour bricoler la ligne d'échapement avant des traverser les villes mythiques de Monaco, Cap-d'Ail, Saint-Jean-Cap-Ferrat, Nice et sa "promenade des anglais", Antibes, Cannes et son "boulevard de la Croisette", Théoules-sur-Mer puis Saint-Raphaël dont voici certaines photos.
+Nous devons encore faire une pause à l'ombre pour bricoler la ligne d'échapement avant des traverser les villes mythiques de Monaco, Cap-d'Ail, Saint-Jean-Cap-Ferrat, Nice et sa "promenade des anglais", Antibes, Cannes et son "boulevard de la Croisette", Théoule-sur-Mer puis Saint-Raphaël dont voici quelques photos.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day6/IMG_0739.jpg" alt="On rafistole encore la ligne d'échapement">
@@ -109,4 +109,4 @@ Nous devons en faire une pause à l'ombre pour bricoler la ligne d'échapement a
     <figcaption class="figure-caption">Coucher de soleil vers Théoule-sur-Mer (2)</figcaption>
 </figure>
 
-À Saint-Raphaël, nous reprenons une route qui remonte dans les terres en direction de Draguignant où nous passons la nuit.
+À Saint-Raphaël, nous reprenons une route qui remonte dans les terres en direction de Draguignan où nous passons la nuit.
