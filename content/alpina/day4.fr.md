@@ -8,11 +8,11 @@ tags = [
 ]
 +++
 
-## 6 juillet 2022 : On passe en Italie
+## 6 juillet 2022 : Visites touristiques
 ##### Refuge Scarfiotti - Bardonnèche - Névache - Briançon - Col d'Izoard - Col Agnel - Agriturismo Lou Chirun
 <br />
 
-📏 Distance : 161km<br />
+📏 Distance : 161 km<br />
 ⛰️ Denivelé positif : 6225 m
 
 <figure>
