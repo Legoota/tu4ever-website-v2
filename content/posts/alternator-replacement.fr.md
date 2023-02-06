@@ -4,6 +4,7 @@ title = "Changement de l'alternateur"
 date = "2022-06-22"
 description = "Afin d'éviter les pannes fréquentes lors des raid, nous avons effectué le remplacement de notre alternateur ainsi que la courroie d'accessoires. Nous avons également installé une batterie neuve, des prises allume-cigare et USB supplémentaires et un voltmètre pour surveiller la tension de la batterie."
 tags = [ "alternateur","alternator"]
+draft = false
 +++
 
 Afin d'éviter les pannes fréquentes lors des raid, nous avons effectué le remplacement de notre alternateur ainsi que la courroie d'accessoires. Nous avons également installé une batterie neuve, des prises allume-cigare et USB supplémentaires et un voltmètre pour surveiller la tension de la batterie.

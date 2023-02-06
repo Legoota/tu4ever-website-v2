@@ -6,6 +6,7 @@ description = "We restored 205 GTI 1.6 rims at home, and we explain you the diff
 tags = [
     "wheels","jantes","réfection","restore","restoration","pneus","roues"
 ]
+draft = false
 +++
 
 After we bought our Peugeot 205, we quickly had the idea to equip it with aluminum wheels. We quickly fell in love with the design of the 205 GTI rims (1.6L version). We then acquired four rims in a bad aesthetic state.
