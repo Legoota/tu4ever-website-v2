@@ -46,19 +46,23 @@ L'origine du nom TU4EVER provient du code moteur <b>TU</b> équipant un grand no
 [twoTitle1]
 other = "Équipage"
 [twoBody1]
-other = """Je m'appelle Léo B, originaire du Jura et grand amoureux de la montagne dont j'affectionne particulièrement les paysages.<br />
-Amateur en mécanique, motard et passionné de voitures anciennes, je roule quotidiennement avec le pendant de la Peugeot 205, incompréhensiblement resté en second plan, 
-une Citroën AX de 1991. Je suis également adepte de VTT, randonnées et voyages.<br />Actuellement en dernière année d'une école d'ingénieur informatique en alternance 
-dans laquelle j'ai fait la connaissance de Léo K et où ce projet de raid est né.<br /><br />Je suis Léo K, né en Alsace, j'ai toujours apprécié les différents 
+other = """Je m'appelle Léo B, j'ai 23 ans et je suis originaire du Jura. J'adore les paysages de montagnes, les randonnées, les voyages, l'aventure...
+Je suis également passionné par les véhicules anciens et je m'intéresse à la mécanique automobile de façon amateur.<br />
+Ce projet d'association était pour moi une évidence, et c'est avec mon ami Léo K, rencontré en école d'ingénieur que nous l'avons concrêtisé. Je suis très heureux d'avoir participé à l'édition 2022 de l'Alpinaraid et espère pouvoir réaliser d'autres aventures similaires.
+
+
+Je suis Léo K, né en Alsace, j'ai toujours apprécié les différents 
 panoramas que cette région peut offrir. Je suis sorti de la même école d'ingénieur que Léo B, durant laquelle nous nous sommes rencontrés
-et nous avons débuté ce projet de raid. Je travaille à présent à Colmar dans une entreprise de métallurgie.<br />J'affectionne particulièrement piloter des drones, qu'ils soient stabilisés ou non (FPV) et toucher à l'électronique 
-(HiFi vintage, construction de claviers mécaniques et drones).<br />J'aime également la mécanique automobile, domaine dans lequel je souhaiterai progresser et apprendre de nouvelles choses."""
+et nous avons débuté ce projet de raid. Je travaille à présent à Colmar dans une entreprise de métallurgie.
+J'affectionne particulièrement piloter des drones, qu'ils soient stabilisés ou non (FPV) et toucher à l'électronique 
+(HiFi vintage, construction de claviers mécaniques et drones).<br />
+J'aime également la mécanique automobile, domaine dans lequel je souhaiterai progresser et apprendre de nouvelles choses."""
 
 [twoTitle2]
 other = "Partenariats"
 [twoBody2]
 other = """Notre association est toujours à la recherche de nouveaux partenaires ! Si vous êtes une entreprise ou un particulier et que vous souhaitez nous soutenir 
-dans ce projet, vous pouvez le faire de plusieurs manières : <ul><li>Financements</li><li>Don de matériel</li><li>Compétences techniques diverses</li><li>Partage du site et de nos réseaux sociaux</li></ul>
+dans ce projet, vous pouvez le faire de plusieurs manières : <ul class='list-partenariats'><li>Financements</li><li>Don de matériel</li><li>Compétences techniques diverses</li><li>Partage du site et de nos réseaux sociaux</li></ul>
 Pour toutes questions ou demande de partenariats, vous pouvez nous contacter via notre compte <a href='https://instagram.com/tu4ever_205' target='_blank' class='email-highlights'>Instagram</a> 
 ou directement à l'adresse <span class='email-highlights'>partenariats@tu4ever.fr</span>. Nous serons ravis de collaborer avec vous ! 
 En contrepartie de votre participation, nous pouvons vous offrir de la visibilité sur notre site, sur notre Instagram et directement sur la voiture en apposant votre sticker."""

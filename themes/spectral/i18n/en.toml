@@ -46,9 +46,12 @@ The story behind the name TU4EVER comes from the engine code <b>TU</b> which was
 [twoTitle1]
 other = "Team"
 [twoBody1]
-other = """My name is Léo B, I come from Jura and I am fond of mountains and the landscapes they can offer.<br />
-Car mechanics hobbyist, biker and old car enthusiast, I often drive with the Citröen counterpart of the Peugeot 205, which was unfortunately not as famous as the later, 
-a 1991 Citroën AX. I also like mountain biking, hiking and travelling.<br />Currently in the last year of an engineering degree in IT in internship, where I met Léo K and where this project was born.<br /><br />
+other = """My name is Leo B, I'm 23 and I grew up in Jura mountains. I love mountain landscapes, hiking in middle of nowhere, traveling across the world and inside France and various adventures...
+I'm also a biker,  old vehicles enthousiast and I'm getting involved in car mechanics as an hobbyist.
+This project of association is obvious for me, and it's with my friend Léo K, met in engineering school that we concretized it.<br />
+I really enjoyed to have participated in the 2022 edition of the Alpinaraid and hope to do other similar adventures.
+
+
 I am Léo K, born in Alsace, I have always enjoyed the various landscapes that this place can offer. I also graduated from the same IT engineering degree as Léo B, during which we started this raid project.<br />
 I really enjoy flying stabilized and unstabilized (FPV) drones, playing with electronics (vintage Hifi, mechanical keyboard building, FPV drones)<br />I also truly enjoy car mechanics, a field where I would like to progress and learn new things."""
 
@@ -56,7 +59,7 @@ I really enjoy flying stabilized and unstabilized (FPV) drones, playing with ele
 other = "Sponsorships"
 [twoBody2]
 other = """Our association is always looking for new sponsors! If you are a company or a person looking to support our project, you can do so using various ways :
-<ul><li>Fundings</li><li>Material donations</li><li>Various technical skills</li><li>Sharing our socials</li></ul> If you have any questions, you can contact 
+<ul class='list-partenariats'><li>Fundings</li><li>Material donations</li><li>Various technical skills</li><li>Sharing our socials</li></ul> If you have any questions, you can contact 
 us directly on <a href='https://instagram.com/tu4ever_205' target='_blank' class='email-highlights'>Instagram</a> or straight using our email address <span class='email-highlights'>partenariats@tu4ever.fr</span>.
 We would be very pleased to collaborate with you!
 As a counterpart of your participation, we can offer you visibility on our website, our Instagram, or straight in our car with a sticker."""
