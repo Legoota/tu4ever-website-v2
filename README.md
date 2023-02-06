@@ -8,3 +8,7 @@ All of the website is built by the team members.
 # About this website
 
 This website is built using Hugo
+
+# Hosted with Netlify
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3332ca01-91cb-45c9-a3d7-701e9666bc3f/deploy-status?branch=production)](https://app.netlify.com/sites/sensational-crepe-a65ead/deploys)
