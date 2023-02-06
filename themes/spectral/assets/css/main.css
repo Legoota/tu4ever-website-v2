@@ -4125,6 +4125,10 @@ input, select, textarea {
 	padding: .5em 1em .5em 0;
 }
 
+.list-partenariats {
+	text-align: left;
+}
+
 /*===== Vertical Timeline =====*/
 #conference-timeline {
 	position: relative;
