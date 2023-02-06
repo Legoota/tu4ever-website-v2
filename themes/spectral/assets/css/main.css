@@ -4063,6 +4063,12 @@ input, select, textarea {
 	box-shadow: .5px .5px 5px rgb(20, 20, 20);
 }
 
+@media only screen and (max-width: 830px) {
+	.image-article {
+		margin: 0 2.5em;
+	}
+}
+
 .figure-caption {
 	text-align: center;
 	padding-bottom: 2em;
@@ -4105,6 +4111,15 @@ input, select, textarea {
 	margin-bottom: -1em;
 }
 
+@media only screen and (max-width: 830px) {
+	.articles-thumbnail {
+		flex-wrap: wrap;
+	}
+	.articles-thumbnail > img {
+		margin: 0 5em;
+	}
+}
+
 .articles-thumbnail > img {
 	height: 10em;
 	padding: .5em 1em .5em 0;
@@ -4136,7 +4151,7 @@ input, select, textarea {
 #conference-timeline .conference-center-line {
 	position: absolute;
 	width: 3px;
-	height: 91.5%;
+	height: 93%;
 	left: 50%;
 	margin-left: -2px;
 	background: var(--secondary-color);

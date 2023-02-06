@@ -52,7 +52,6 @@ We immediately started by the climb of the Colle di Sampeyre (2284 m). A large p
 </figure>
 
 Day five roads were very enjoyable and we went through several beautiful italian mountain villages.
-La route du jour est assez agrable et nous passons dans plusieurs jolis villages de montagne italiens.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day5/IMG_0551.jpg" alt="Downhill to Canosio">
