@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sensational-crepe-a65ead.netlify.app/en/alpinaraid/</loc>
+    <lastmod>2022-10-31T16:02:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sensational-crepe-a65ead.netlify.app/alpinaraid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sensational-crepe-a65ead.netlify.app/en/alpinaraid/"
+                />
+  </url><url>
     <loc>https://sensational-crepe-a65ead.netlify.app/en/</loc>
     <lastmod>2022-09-18T16:02:00+02:00</lastmod>
     <xhtml:link
