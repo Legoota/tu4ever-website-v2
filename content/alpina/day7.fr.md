@@ -7,6 +7,7 @@ tags = [
     "jour7",
 ]
 +++
+
 ## 9 juillet 2022 : Retour dans le Jura par les gorges du Verdon
 ##### Tourtour - Ste-Croix-du-Verdon - Moustiers-ste-Marie - Rougon - Castellane - Digne-les-Bains - Gap - Grenoble
 <br />
@@ -15,7 +16,7 @@ tags = [
 ⛰️ Denivelé positif : 1727 m
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day7/map7.jpg" alt="Mettre l'itinéraire du jour 7">
+    <img loading="lazy" class="image-article" src="/images/day7/map7.jpg" alt="Itinéraire">
     <figcaption class="figure-caption">Itinéraire du jour 7</figcaption>
 </figure>
 
@@ -46,7 +47,7 @@ Nous continuons ensuite notre route en direction de Sainte-Croix-du-Verdon et le
     <figcaption class="figure-caption">Bauduen et le lac de Sainte-Croix (3)</figcaption>
 </figure>
 
-Un peu plus loin, nous trouvons sur le bord de notre route un magnifique champ de Lavande. Pendant que Léo réfléchit au cliché parfait à l'appareil argentique, je m'occupe de remplacer notre sapin odeur lavande par un brin de lavande fraiche. Quelle bonne odeur pour continuer la route en direcition de Moustiers-Sainte-Marie.
+Un peu plus loin, nous trouvons sur le bord de notre route un magnifique champ de Lavande. Pendant que Léo réfléchit au cliché parfait à l'appareil argentique, je m'occupe de remplacer notre sapin odeur lavande par un brin de lavande fraiche. Quelle bonne odeur pour continuer la route en direction de Moustiers-Sainte-Marie.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day7/IMG_0777.jpg" alt="Bye bye la lavande chimique">

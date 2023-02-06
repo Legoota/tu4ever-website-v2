@@ -7,6 +7,7 @@ tags = [
     "jour5",
 ]
 +++
+
 ## 7 juillet 2022 : Une journée entière en Italie pour l'avant dernière étape du raid
 ##### Colle di Sampeyre - Colle del Preit - Lago della Meja - colle Valcavera - colle Fauniera - Colle Esischie - col de Tende
 <br />
@@ -22,7 +23,7 @@ tags = [
 La nuit passée près de l'Agriturismo Lou Chirun fût très reposante. Un bon point pour la journée qui s'annonce.
 Comme tous les autres matins, nous prenons le temps pour le petit déjeuner avec un bon café avant de se rendre au briefing quotidien. Ensuite, les dernières vérifications techniques avant de prendre la route pour la journée.
 <br />
-Ce matin, tout ne s'est pas passé comme prévu. À l'ouverture du capot on s'appeçoit que le conduit d'arrivée d'air après le filtre s'est détachée, malgré le collier toujours présent. Heureusement, en se rappelant l'état de la piste pour rejoindre l'Agriturismo la veille (avec beaucoup de bosses), nous n'avons pas dû rouler comme ça très longtemps. C'est un bon point car les pistes sont extrêment poussièreuses à cette époque de l'année et l'air qui rentre ici dans le moteur devrait être filtré. Ce mythique moteur TU est définivement incassable !
+Ce matin, tout ne s'est pas passé comme prévu. À l'ouverture du capot on s'apeçoit que le conduit d'arrivée d'air après le filtre s'est détaché, malgré le collier toujours présent. Heureusement, en se rappelant l'état de la piste pour rejoindre l'Agriturismo la veille (avec beaucoup de bosses), nous n'avons pas dû rouler comme ça très longtemps. C'est un bon point car les pistes sont extrêment poussièreuses à cette époque de l'année et l'air qui rentre ici dans le moteur devrait être filtré. Ce mythique moteur TU est définivement incassable !
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day5/IMG_0653.jpg" alt="Problème au niveau de l'arrivée d'air">
@@ -76,7 +77,7 @@ Nous prenons la route mi-bitumée et quelques fois creusée dans la montagne qui
     <figcaption class="figure-caption">Montée du Colle del Preit</figcaption>
 </figure>
 
-De l'autre côté du col, on poursuit en pleine nature sur une piste: la Strade della Gardetta. Le décore nous ferait presque oublier qu'on vient de s'appercevoir du second problème de la journée. Avec les secousses, nous avons perdu notre ligne d'échappement refixée provisoirment la veille. Nous ne nous sommes pas aperçus d'un bruit différent car l'étanchéité n'était pas bonne et la piste fait beaucoup de bruit dans l'habitacle de la voiture. On fait demi-tour à sa recherche.
+De l'autre côté du col, on poursuit en pleine nature sur une piste: la Strade della Gardetta. Le décor nous ferait presque oublier qu'on vient de s'appercevoir du second problème de la journée. Avec les secousses, nous avons perdu notre ligne d'échappement refixée provisoirment la veille. Nous ne nous sommes pas aperçus d'un bruit différent car l'étanchéité n'était pas bonne et la piste fait beaucoup de bruit dans l'habitacle de la voiture. On fait demi-tour à sa recherche.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day5/IMG_0617.jpg" alt="À la recherche de la ligne d'échappement">

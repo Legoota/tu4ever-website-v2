@@ -7,8 +7,9 @@ tags = [
     "jour6",
 ]
 +++
+
 ## 8 juillet 2022 : Après une semaine en montagne on rejoint la mer !
-##### Via del Sale - Briga Alta - Monte Saccarello - La Brigue - Ventimille - Menton - Monaco - Côte d'Azur
+##### Via del Sale - Briga Alta - Monte Saccarello - La Brigue - Vintimille - Menton - Monaco - Côte d'Azur
 <br />
 
 📏 Distance : 115 km<br />
@@ -28,15 +29,15 @@ L'étape du jour est la dernière de l'Alpinaraid. Nous rallions le Col de Tende
 Nous partons depuis le Col de Tende puis nous bifurquons aussitôt sur la Alta Via del Sale ou "haute route du sel". C'est une ancienne piste militaire de 56 km de long à plus de 2000 m d'altitude. La piste est restreinte à un certain nombre de véhicule et elle était normalement fermée à la circulation la semaine où nous avons fait le raid. Nous avons eu une autorisation spéciale pour y accéder. C'est une piste magnifique qui fait clairement partie des plus belles que nous avons empruntées cette semaine.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day6/IMG_0698.jpg" alt="La Via del Sale">
+    <img loading="lazy" class="image-article" src="/images/day6/IMG_0698.jpg" alt="Alta Via del Sale">
     <figcaption class="figure-caption">La Alta Via del Sale</figcaption>
 </figure>
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day6/J6_(1).jpg" alt="Via del Sale (1)">
+    <img loading="lazy" class="image-article" src="/images/day6/J6_(1).jpg" alt="Alta Via del Sale (1)">
     <figcaption class="figure-caption">Alta Via del Sale (2)</figcaption>
 </figure>
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day6/J6_(3).jpg" alt="Via del Sale (2)">
+    <img loading="lazy" class="image-article" src="/images/day6/J6_(3).jpg" alt="Alta Via del Sale (2)">
     <figcaption class="figure-caption">Alta Via del Sale (3)</figcaption>
 </figure>
 
@@ -49,11 +50,11 @@ Au bout de la piste, nous redescendons en direction de la mer en passant par les
     <figcaption class="figure-caption">On commence à appercevoir la mer !</figcaption>
 </figure>
 
-Nous sommes ensuite arrivés au bord de la mer à Ventimille en Italie encore par la route. Nous sommes presques arrivés, nous longeons la côté vers Menton.
+Nous sommes ensuite arrivés au bord de la mer à Vintimille en Italie encore par la route. Nous sommes presques arrivés, nous longeons la côté vers Menton.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day6/IMG_0728.jpg" alt="Arrivée à la ville de Ventimille">
-    <figcaption class="figure-caption">Arrivée à la ville de Ventimille</figcaption>
+    <img loading="lazy" class="image-article" src="/images/day6/IMG_0728.jpg" alt="Arrivée à la ville de Vintimille">
+    <figcaption class="figure-caption">Arrivée à la ville de Vintimille</figcaption>
 </figure>
 
 Nous passons devant le palace de l'Europe de Menton, puis nous arrivons face à la baie du soleil. Quelques carrefours et nous voilà au point de rassemblement de l'arrivée.
@@ -86,11 +87,11 @@ Une dernière photo officielle des équipages à l'arrivée. Notre voiture ne se
 
 Nous décidons de reprendre la route et de longer la côté d'Azur en cette fin d'après-midi ensolleillée puis de se reculer dans les terres en fin de soirée pour passer la nuit.
 
-Nous devons encore faire une pause à l'ombre pour bricoler la ligne d'échapement avant des traverser les villes mythiques de Monaco, Cap-d'Ail, Saint-Jean-Cap-Ferrat, Nice et sa "promenade des anglais", Antibes, Cannes et son "boulevard de la Croisette", Théoule-sur-Mer puis Saint-Raphaël dont voici quelques photos.
+Nous devons encore faire une pause à l'ombre pour bricoler la ligne d'échappement avant des traverser les villes mythiques de Monaco, Cap-d'Ail, Saint-Jean-Cap-Ferrat, Nice et sa "promenade des anglais", Antibes, Cannes et son "boulevard de la Croisette", Théoule-sur-Mer puis Saint-Raphaël dont voici quelques photos.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day6/IMG_0739.jpg" alt="On rafistole encore la ligne d'échapement">
-    <figcaption class="figure-caption">On rafistole encore la ligne d'échapement</figcaption>
+    <img loading="lazy" class="image-article" src="/images/day6/IMG_0739.jpg" alt="On rafistole encore la ligne d'échappement">
+    <figcaption class="figure-caption">On rafistole encore la ligne d'échappement</figcaption>
 </figure>
 <figure>
     <img loading="lazy" class="image-article" src="/images/day6/IMG_0740.jpg" alt="Point de vue au-dessus de Monaco">
