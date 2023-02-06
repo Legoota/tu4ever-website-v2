@@ -4,7 +4,6 @@ title = "Alternator replacement"
 date = "2022-06-22"
 description = "In order to avoid the frequent breakdowns during the raids, we have replaced our alternator and the accessory belt. We also installed a new battery, additional cigarette lighter and USB plugs, and a voltmeter to monitor the battery voltage."
 tags = [ "alternateur","alternator"]
-draft = false
 +++
 
 In order to avoid the frequent breakdowns during the raids, we have replaced our alternator and the accessory belt. We also installed a new battery, additional cigarette lighter and USB plugs, and a voltmeter to monitor the battery voltage.

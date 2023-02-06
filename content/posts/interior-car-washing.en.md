@@ -6,7 +6,6 @@ description = "We share with you the refurbishment of the interior of our 205. T
 tags = [
     "lavage", "nettoyage", "interieur", "washing", "interior" 
 ]
-draft = false
 +++
 
 When we bought our Peugeot 205, we had to clean the interior. Indeed, the seats were dirty, even stained in some places, the original color of the front carpets was starting to be questionable and the smell was not necessarily the most pleasant. So we set to work in order to feel good for the many kilometers that we will spend on board.

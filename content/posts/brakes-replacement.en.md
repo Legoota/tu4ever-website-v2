@@ -7,7 +7,6 @@ tags = [
     "brakes",
     "freins",
 ]
-draft = false
 +++
 
 We have finally replaced the front and rear brakes of our Peugeot 205. In this article we present you an overview of the work. When we first drove our car, we immediately felt that the brakes were not in the best shape and we knew that they would have to be changed very soon. We ordered the parts and decided to do the replacement at home and without special tools.

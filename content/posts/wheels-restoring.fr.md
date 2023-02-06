@@ -6,7 +6,6 @@ description = "Nous avons restauré des jantes de 205 GTI 1.6 à la maison, et n
 tags = [
     "wheels","jantes","réfection","restore","restoration","pneus","roues"
 ]
-draft = false
 +++
 
 Après avoir acheté notre Peugeot 205, nous avons rapidement émis l'idée de l'équiper de jantes en aluminium. Nous sommes rapidement tombés amoureux du design des jantes de 205 GTI (version 1.6L). Nous avons alors fait l'aquisition de quatre jantes dans un mauvais état esthétique.

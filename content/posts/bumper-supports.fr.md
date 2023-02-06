@@ -7,7 +7,6 @@ tags = [
     "bumper",
     "supports",
 ]
-draft = false
 +++
 
 Durant la réfection des parechocs de notre Peugeot 205, nous avons remarqué que les supports qui les maintenaient à l'arrière étaient en mauvais état à cause de la rouille. De plus, comme nous avons remplacé la jupe avant d'origine par une jupe de Peugeot 205 GTI et que nous avons décidé d'y inclure les phares longue portée, nous avons dû reconcevoir des pièces de support.

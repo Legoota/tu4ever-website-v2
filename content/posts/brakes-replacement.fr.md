@@ -7,7 +7,6 @@ tags = [
     "brakes",
     "freins",
 ]
-draft = false
 +++
 
 Nous avons enfin effectué le remplacement des freins avant et arrière de notre Peugeot 205. Nous vous présentons dans cet article un aperçu des travaux. Lors du premier essai de notre voiture, nous avons tout de suite senti que les freins n'étaient pas dans leur meilleure forme et nous savions qu'il allait falloir les changer très vite. Nous avons commandé les pièces et décidé de faire le remplacment à la maison et sans outils spéciaux.
