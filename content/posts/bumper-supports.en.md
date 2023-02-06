@@ -7,6 +7,7 @@ tags = [
     "bumper",
     "supports",
 ]
+draft = false
 +++
 
 During the rebuilding of the bumpers of our Peugeot 205, we noticed that the brackets that were holding them in the back were in bad shape due to rust. Also, since we replaced the original front skirt with a Peugeot 205 GTI skirt and decided to include the long-range headlights, we had to redesign the support parts.

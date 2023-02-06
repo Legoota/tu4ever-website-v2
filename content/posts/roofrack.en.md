@@ -7,6 +7,7 @@ tags = [
     "galerie",
     "roofrack",
 ]
+draft = false
 +++
 
 In order to carry more stuff easily, we quickly realized that we would need to use the roof of the car. We started by buying two roof racks on the second hand market, but we knew we would need to add a roof rack to increase the usable storage area. At first, we thought we would buy a classic roof rack that could be found on the used market, but then we started looking for a custom made <b>roofrack</b>.

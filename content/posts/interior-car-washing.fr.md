@@ -6,6 +6,7 @@ description = "Nous partageons avec vous la remise à neuf de l'intérieur de no
 tags = [
     "lavage", "nettoyage", "interieur", "washing", "interior" 
 ]
+draft = false
 +++
 
 Lorsque nous avons acheté notre Peugeot 205, un travail conséquent sur le nettoyage de l'intérieur nous attendait. En effet, les sièges étaient sales, voir tachés par endroits, la couleur d'origine des moquettes avant commençait à être discutable et l'odeur n'était pas forcément la plus agréable. Nous nous sommes donc mis au travail afin de nous sentir bien pour les nombreux kilomètres que nous allons passer à son bord.

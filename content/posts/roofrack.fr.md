@@ -7,6 +7,7 @@ tags = [
     "galerie",
     "roofrack",
 ]
+draft = false
 +++
 
 Afin de pouvoir transporter plus d'affaires facilement, nous avons rapidement réalisé qu'il serait nécessaire d'utiliser le toit de la voiture. Nous avons commencé par acquérir deux barres de toit sur le marché de l'occasion, mais nous savions que nous allions y rajouter une <b>galerie</b> pour agrandir la surface de stockage utilisable. Au départ, nous pensions acheter une galerie classique trouvable en occasion, puis nous nous sommes mis en quête de concevoir notre galerie sur mesure.
