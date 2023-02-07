@@ -135,7 +135,7 @@ staticDir = ['images']
             url = '/'
             title = "Accueil"
             [[languages.fr.params.menu.main]]
-            url = 'posts/'
+            url = 'articles/'
             title = "Articles"
             [[languages.fr.params.menu.main]]
             url = 'alpinaraid/'
@@ -151,7 +151,7 @@ staticDir = ['images']
             url = '/en/'
             title = "Home"
             [[languages.en.params.menu.main]]
-            url = '/en/posts/'
+            url = '/en/articles/'
             title = "Posts"
             [[languages.en.params.menu.main]]
             url = '/en/alpinaraid/'
