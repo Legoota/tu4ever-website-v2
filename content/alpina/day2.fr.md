@@ -85,3 +85,10 @@ De l'autre côté du col, le brouillard s'est levé mais heureusement, l'itinér
     <img loading="lazy" class="image-article" src="/images/day2/IMG_0225.jpg" alt="Coucher de soleil">
     <figcaption class="figure-caption">Coucher de soleil</figcaption>
 </figure>
+
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/alpina/day1" class="button fit">< Article précédent</a>
+        <a href="/alpina/day3" class="button fit"> Article suivant ></a>
+    </span>
+</div>

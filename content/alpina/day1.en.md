@@ -111,3 +111,8 @@ We finally got to the "Le Gravelote" camping, which is the first stop and the fi
     <figcaption class="figure-caption">First night camp</figcaption>
 </figure>
 
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/en/alpina/day2" class="button fit">Next post ></a>
+    </span>
+</div>

@@ -117,3 +117,9 @@ Après une délicieuse polenta dans le refuge, nous avons profité de la soirée
     <figcaption class="figure-caption">Le refuge Agriturismo Lou Chirun</figcaption>
 </figure>
 
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/alpina/day3" class="button fit">< Article précédent</a>
+        <a href="/alpina/day5" class="button fit"> Article suivant ></a>
+    </span>
+</div>

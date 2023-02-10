@@ -3932,6 +3932,11 @@ input, select, textarea {
 		background-attachment: scroll;
 	}
 
+/* Alpinaraid articles */
+.alpinaraid-articles-redirect {
+	text-align: center;
+}
+
 /* Footer */
 
 	#footer {

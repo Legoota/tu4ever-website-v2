@@ -116,3 +116,10 @@ After a delicious polenta inside the Rifugio, we enjoyed our evening alongside a
     <img loading="lazy" class="image-article" src="/images/day4/IMG_0538.jpg" alt="Rifugio Agriturismo Lou Chirun">
     <figcaption class="figure-caption">Rifugio Agriturismo Lou Chirun</figcaption>
 </figure>
+
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/en/alpina/day3" class="button fit">< Previous post</a>
+        <a href="/en/alpina/day5" class="button fit">Next post ></a>
+    </span>
+</div>

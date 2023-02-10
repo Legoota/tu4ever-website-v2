@@ -131,3 +131,9 @@ Enfin, pour la journée, nous avons repris la route vers la ville de Borgo San D
 
 Petit apéritif avec un autre équipage puis tous ensemble avec un pot organisé par les organisateurs du raid pour la dernière soirée de l'aventure passée ensembles.
 
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/alpina/day4" class="button fit">< Article précédent</a>
+        <a href="/alpina/day6" class="button fit"> Article suivant ></a>
+    </span>
+</div>
