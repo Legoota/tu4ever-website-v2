@@ -35,7 +35,7 @@ So we cut a piece of our stainless steel rod, drilled it at both ends, and then 
 
 Then, we fixed it with rivets, for a good maintenance of the rear skirt.
 <figure>
-    <img loading="lazy" class="image-article" src="/images/bumper-supports/support-arriere.png" alt="Nouveau support arrière en place">
+    <img loading="lazy" class="image-article" src="/images/bumper-supports/support-arriere.jpg" alt="Nouveau support arrière en place">
     <figcaption class="figure-caption">New support installed</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ Concerning the holes, we needed to put the large screws of the long range lights
 For the manufacturing, we use the same process as in the first part on the rear supports: we cut a part of the stainless steel rod to the desired length, we drill and then we bend in a vice.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/bumper-supports/support-avant.png" alt="Nouveau support avant en place">
+    <img loading="lazy" class="image-article" src="/images/bumper-supports/support-avant.jpg" alt="Nouveau support avant en place">
     <figcaption class="figure-caption">New supports installed</figcaption>
 </figure>
 
