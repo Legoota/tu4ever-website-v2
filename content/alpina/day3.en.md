@@ -182,3 +182,10 @@ Time flies, the sun started to get lower and lower, and we finally started to go
 </figure>
 
 We finally got to the Rifugio, where we set up camp and ate. We enjoyed the last sun light, and went for a well deserved sleep.
+
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/en/alpina/day2" class="button fit">< Previous post</a>
+        <a href="/en/alpina/day4" class="button fit">Next post ></a>
+    </span>
+</div>

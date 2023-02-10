@@ -101,3 +101,9 @@ Finally, we got to Lac de Castillon, for the last picture of this beautiful adve
 As far as the rest of the itinerary is concerned, we went through Digne-les-Bains, Sisteron, and then we decided to drive a bit faster, by going on the highway, passing by Gap, Grenoble, all the way to our starting point in Jura.
 
 This marks the end of an awesome week of adventure, from which we will keep great memories. We hope to have the chance of doing another similar journey some time in the future ...
+
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/en/alpina/day6" class="button fit">< Previous post</a>
+    </span>
+</div>

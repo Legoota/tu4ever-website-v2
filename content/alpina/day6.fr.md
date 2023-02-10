@@ -111,3 +111,10 @@ Nous devons encore faire une pause à l'ombre pour bricoler la ligne d'échappem
 </figure>
 
 À Saint-Raphaël, nous reprenons une route qui remonte dans les terres en direction de Draguignan où nous passons la nuit.
+
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/alpina/day5" class="button fit">< Article précédent</a>
+        <a href="/alpina/day7" class="button fit"> Article suivant ></a>
+    </span>
+</div>

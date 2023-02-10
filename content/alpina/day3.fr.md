@@ -181,4 +181,11 @@ Finalement, le temps passe vite et le soleil commence à tomber et il faut encor
     <figcaption class="figure-caption">Redescente du colle del Sommeillier</figcaption>
 </figure>
 
-Enfin, nous avons rejoins le refuge. Le temps de monter la tente et de manger que le jour était tombé pour laisser place à une nuit bien méritée. 
+Enfin, nous avons rejoins le refuge. Le temps de monter la tente et de manger que le jour était tombé pour laisser place à une nuit bien méritée.
+
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/alpina/day2" class="button fit">< Article précédent</a>
+        <a href="/alpina/day4" class="button fit"> Article suivant ></a>
+    </span>
+</div>

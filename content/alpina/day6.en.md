@@ -112,3 +112,10 @@ After a needed break to fix once again the exhaust line, we drove through Côte 
 </figure>
 
 Once we were in Saint-Raphaël, we branch off to a road going further from the sea towards Draguignan. We parked in the countryside on a backroad, and spent the night there.
+
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/en/alpina/day5" class="button fit">< Previous post</a>
+        <a href="/en/alpina/day7" class="button fit">Next post ></a>
+    </span>
+</div>

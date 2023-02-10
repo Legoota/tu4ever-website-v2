@@ -101,3 +101,9 @@ Finalement, nous arrivons devant le lac de Castillon pour la dernière photo de 
 Pour le reste de la route, nous passons par Digne-les-Bains, Sisteron, puis nous décidons d'avancer un peu plus vite en terminant par l'autoroute pour traverser Gap et Grenoble pour rejoindre notre point de départ dans le Jura.
 
 Fin de cette très belle semaine d'aventure dont nous garderons de magnifiques souvenirs. A la prochaine fois pour la suite et pour un autre périple...
+
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/alpina/day6" class="button fit">< Article précédent</a>
+    </span>
+</div>

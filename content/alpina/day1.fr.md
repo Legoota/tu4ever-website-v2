@@ -110,3 +110,9 @@ Puis nous avons ensuite rejoint le camping "Le Gravelote" pour la première nuit
     <img loading="lazy" class="image-article" src="/images/day1/IMG_0102.jpg" alt="Le campement du premier soir">
     <figcaption class="figure-caption">Le campement du premier soir</figcaption>
 </figure>
+
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/alpina/day2" class="button fit"> Article suivant ></a>
+    </span>
+</div>

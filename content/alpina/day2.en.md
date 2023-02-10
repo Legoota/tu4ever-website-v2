@@ -85,3 +85,10 @@ On the other side of the pass, the mist lifted like a curtain. Fortunately, the 
     <img loading="lazy" class="image-article" src="/images/day2/IMG_0225.jpg" alt="Sunset over the Rifugio">
     <figcaption class="figure-caption">Sunset over the Rifugio</figcaption>
 </figure>
+
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/en/alpina/day1" class="button fit">< Previous post</a>
+        <a href="/en/alpina/day3" class="button fit">Next post ></a>
+    </span>
+</div>

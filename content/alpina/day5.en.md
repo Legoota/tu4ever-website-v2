@@ -1,6 +1,6 @@
 +++
 author = "LB & LK"
-title = "Alpinaraid Day 6"
+title = "Alpinaraid Day 5"
 date = "2022-07-07"
 description = "Fifth day of Alpinaraid"
 tags = [
@@ -130,3 +130,10 @@ Finally, we took the road again to get to Borgo San Dalmazzo where we could fill
 </figure>
 
 We had aperitif with another crew, then we joined all crews and the organizing committee for a meal and drinks for the last night together.
+
+<div class="alpinaraid-articles-redirect">
+    <span>
+        <a href="/en/alpina/day4" class="button fit">< Previous post</a>
+        <a href="/en/alpina/day6" class="button fit">Next post ></a>
+    </span>
+</div>
