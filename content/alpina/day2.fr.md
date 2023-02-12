@@ -20,14 +20,14 @@ tags = [
     <figcaption class="figure-caption">Itinéraire du jour 2</figcaption>
 </figure>
 
-Une très grosse étape pour cette deuxième journée de l'aventure qui commence par l'ascension des traditionnels cols du Lautaret et du Galibier (2642 m).
+Une très grosse étape pour cette deuxième journée de l'aventure qui commence par l'ascension des traditionnels cols du Lautaret (2057 m) et du Galibier (2642 m).
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day2/IMG_0127.jpg" alt="Le Col du Galibier">
     <figcaption class="figure-caption">Le col du Galibier</figcaption>
 </figure>
 
-On a de la chance pour cette journée, la pluie est partie et nous a laissé place à un soleil magnifique et très agréable pour se promener dans les cols. Nous avons fait une rencontre avec une jolie Peugeot Talbot Samba Sport qui ne nous a pas laissés indifférents pour des pilotes de 205.
+On a de la chance pour cette journée, la pluie est partie et nous a laissé place à un soleil magnifique et très agréable pour se promener dans les cols. Nous avons fait une rencontre avec une jolie Peugeot Talbot Samba Sport qui ne nous a pas laissés indifférents en tant que pilotes de 205.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day2/IMG_0130.jpg" alt="Rencontre avec une Talbot">
@@ -38,7 +38,7 @@ On a de la chance pour cette journée, la pluie est partie et nous a laissé pla
     <figcaption class="figure-caption">Descente du Col du télégraphe</figcaption>
 </figure>
 
-Nous avons ensuite changé de vallée en passant le col du télégraphe. Après plusieurs stations service à la recherche de ce précieux mélange qui est l'essence, nous avons pu enfin faire le plein du reservoir et du jerrycan pour attaquer les pistes de montagne juste après notre passage sur les bords du lac du Mont-Cenis.
+Nous avons ensuite changé de vallée en passant le col du télégraphe. Après plusieurs stations service à la recherche de ce précieux mélange qu'est l'essence, nous avons pu enfin faire le plein du reservoir et du jerrycan pour attaquer les pistes de montagne juste après notre passage sur les bords du lac du Mont-Cenis.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day2/J2_(2).jpg" alt="On reprend la route en direction du Lac">

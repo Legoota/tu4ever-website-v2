@@ -86,11 +86,6 @@ Nous avons donc appliqué une première couche d'apprêt, que nous avons laissé
     <figcaption class="figure-caption">Il est nécessaire de poncer !</figcaption>
 </figure>
 
-<figure>
-    <img loading="lazy" class="image-article" src="/images/wheels-repair/5.jpg" style="width: 80%;" alt="Jantes après première couche de peinture">
-    <figcaption class="figure-caption">Les quatre roues après la première couche de peinture</figcaption>
-</figure>
-
 Après avoir poncé la première couche d'apprêt, nous avons appliqué une seconde couche d'apprêt, un peu plus épaisse que la première.
 
 ### Étape 5 : peinture

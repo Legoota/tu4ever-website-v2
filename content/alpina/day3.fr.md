@@ -20,7 +20,7 @@ tags = [
     <figcaption class="figure-caption">Itinéraire du jour 3</figcaption>
 </figure>
 
-Pour être tout à fait honnête, l'itinéraire du jour annonçait 93 km, mais en réalité, nous en avons bien fait le double. La journée à commencé par la fin de la Via dell'Assietta et les photos parlent d'elles-mêmes, inutile d'en rajouter, cette piste fait partie du top 3 des plus belles que nous avons empruntées.
+Pour être tout à fait honnête, l'itinéraire du jour annonçait 93 km, mais en réalité, nous en avons bien fait le double. La journée a commencé par la fin de la Via dell'Assietta et les photos parlent d'elles-mêmes, inutile d'en rajouter, cette piste fait partie du top 3 des plus belles que nous avons empruntées.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day3/IMG_0254.jpg" alt="Via dell'Assietta">
@@ -68,7 +68,7 @@ Tout est en ordre, on reprend la route.
     <figcaption class="figure-caption">C'est bon c'est reparti</figcaption>
 </figure>
 
-Après avoir passé le col Basset, nous sommes redescendus à la ville de Sestrières avant de rattaquer la montagne de l'autre côté de la vallée. Nous empuntons ensuite une route militaire, la Strada Militare 79, qui secoue énormément...la montée est longue pour atteindre le Lago Nero.
+Après avoir passé le col Basset, nous sommes redescendus à la ville de Sestrières avant de rattaquer la montagne de l'autre côté de la vallée. Nous empuntons ensuite une route militaire, la Strada Militare 79, qui secoue énormément... la montée est longue pour atteindre le Lago Nero.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day3/IMG_20220705_115829.jpg" alt="Strada militare 79">
@@ -154,12 +154,12 @@ Comme on ne renonce pas et que rien ne nous effraie, on arrive enfin en haut. Fi
     <figcaption class="figure-caption">A 3000 m , c'est comme à la mer !</figcaption>
 </figure>
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day3/J3_(4).jpg" alt="On s'amuse au 3000 m">
-    <figcaption class="figure-caption">On s'amuse au 3000 m</figcaption>
+    <img loading="lazy" class="image-article" src="/images/day3/J3_(4).jpg" alt="On s'amuse aux 3000 m">
+    <figcaption class="figure-caption">On s'amuse aux 3000 m</figcaption>
 </figure>
 <figure>
-    <img loading="lazy" class="image-article" src="/images/day3/J3_(5).jpg" alt="On s'amuse au 3000 m">
-    <figcaption class="figure-caption">On s'amuse au 3000 m (2)</figcaption>
+    <img loading="lazy" class="image-article" src="/images/day3/J3_(5).jpg" alt="On s'amuse aux 3000 m">
+    <figcaption class="figure-caption">On s'amuse aux 3000 m (2)</figcaption>
 </figure>
 <figure>
     <img loading="lazy" class="image-article" src="/images/day3/J3_(6).jpg" alt="L'équipage 86 au Colle del Sommeillier">
@@ -170,7 +170,7 @@ Comme on ne renonce pas et que rien ne nous effraie, on arrive enfin en haut. Fi
     <figcaption class="figure-caption">L'équipage 86 au Colle del Sommeillier (2)</figcaption>
 </figure>
 
-Finalement, le temps passe vite et le soleil commence à tomber et il faut encore redescendre et planter la tante. Alors c'est reparti. Et comme tout ne se passe jamais bien, une pierre a arraché l'entièreté de notre ligne d'échappement en redescendant. Heureusement dans cette histoire, la pierre à touché juste entre notre tringle de boite de vitesse et la durite de liquide de freins. Cela aurait pu être pire, l'aventure aurait pu s'arrêter là pour nous. D'ailleurs, une autre équipe n'a pas eu cette chance car une pierre a éventré leur réservoir de gasoil. Heureusement, l'entraide est présente et la fuite a été colmatée rapidement pour la descente. 
+Finalement, le temps passe vite et le soleil commence à tomber, il faut encore redescendre et planter la tante. Alors c'est reparti. Et comme tout ne se passe jamais bien, une pierre a arraché l'entièreté de notre ligne d'échappement en redescendant. Heureusement dans cette histoire, la pierre à touché juste entre notre tringle de boite de vitesse et la durite de liquide de freins. Cela aurait pu être pire, l'aventure aurait pu s'arrêter là pour nous. D'ailleurs, une autre équipe n'a pas eu cette chance car une pierre a éventré leur réservoir de gasoil. Heureusement, l'entraide est présente et la fuite a été colmatée rapidement pour la descente. 
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day3/IMG_0380.jpg" alt="Réparation de l'extrème">
@@ -181,7 +181,7 @@ Finalement, le temps passe vite et le soleil commence à tomber et il faut encor
     <figcaption class="figure-caption">Redescente du colle del Sommeillier</figcaption>
 </figure>
 
-Enfin, nous avons rejoins le refuge. Le temps de monter la tente et de manger que le jour était tombé pour laisser place à une nuit bien méritée.
+Enfin, nous avons rejoint le refuge. Le temps de monter la tente et de manger que le jour était tombé pour laisser place à une nuit bien méritée.
 
 <div class="alpinaraid-articles-redirect">
     <span>

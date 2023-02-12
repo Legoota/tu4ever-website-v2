@@ -9,85 +9,84 @@ tags = [
 ]
 +++
 
-In order to carry more stuff easily, we quickly realized that we would need to use the roof of the car. We started by buying two roof racks on the second hand market, but we knew we would need to add a roof rack to increase the usable storage area. At first, we thought we would buy a classic roof rack that could be found on the used market, but then we started looking for a custom made <b>roofrack</b>.
+In order to carry more stuff easily, we quickly realized that we would need to use the roof of the car. We started by buying two crossbars on the second hand market, but we knew we would need to add a roof rack to increase the usable storage area. At first, we thought we would buy a classic roof rack that could be found on the used market, but then we started looking for a custom made <b>roofrack</b>.
 
-This gallery would not have been possible without our partner <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/">John-Steel</a>, the online metal and wood cutting site, who did the laser cutting of our plate. We thank them very much!
+This roof rack would not have been possible without our partner <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/en/">John-Steel</a>, the online metal and wood cutting site, who did the laser cutting of our plate. We thank them very much!
 
 ## Design phase
 ### Step 1: Designing blueprints
 
-Pour déterminer la position des trous de fixation de la future galerie, nous sommes partis par les éléments que nous avions déjà : les <b>barres de toit</b>. Nous avons donc commencé par mesurer l'entraxe entre celles-ci pour déterminer la position des trous. Nous avons aussi mesuré la taille maximale possible que notre galerie pouvait mesurer, et nous avons décidé ensuite de réaliser une galerie de 1200mm x 1000mm.
+To determine the holes positioning on our future roof rack, we started off on the things we already knew : <b>the crossbars</b>. We started by measuring the distance between these two to find out the position of the holes. We also took the measurements of the maximal possible length and width of the roof rack, and with these elements we decided that it would meausre 1200mm x 1000mm.
 
-A noter Il faut bien s'assurer de ne pas faire une galerie trop large sous peine de ne plus être dans les règles, ainsi que de ne pas la faire trop longue pour pouvoir encore ouvrir le coffre et conserver une bonne visibilité !
+To be noted : One must be careful not to make a roof rack too wide, in which case it would not be legal to use. It is also important not to make it too long, to be still able to open the trunk and keep a good visibility !
 
-Nous avons également décidé de placer des trous oblongs à intervalles réguliers dans le but de pouvoir y passer des <b>sangles</b> de différentes manières pour fixer de manière convenable nos équipements. De la même manière, afin d'améliorer la rigidité de notre galerie, nous avons prévu de mettre des cornières perforées, permettant de solidifier la plaque et d'offrir des fixations supplémentaires. Nous prévoyons des trous réguliers tout le long des bords de notre galerie pour les fixer.
+We also decided to place slotted holes at regular intervals to be able to attach straps on various ways to correctly secure our equipment. Moreover, to make the roof rack more stiff, we planned to place perforated mounting angles on all sides. We also placed holes at regular intervals at the edges of the roof rack to set those mounting angles.
 
-Vous trouverez sur les images ci-dessous la mise en plan de notre galerie : Les petits trous le long de la plaque sont prévus en M5, les 6 trous plus grands pour fixer la plaque aux barres de toit sont prévus en M8.
+On the following images are the development plans of our roof rack : the small holes along the edges are M5, the 6 larger holes to set the roof rack to the crossbars are M8.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/roofrack/mep-galerie.png" alt="Mise en plan galerie">
+    <img loading="lazy" class="image-article" src="/images/roofrack/mep-galerie.png" alt="Roof rack layout">
     <figcaption class="figure-caption">Roofrack layout</figcaption>
 </figure>
-Concerning the oblong holes for the straps, we decided to make them with the following dimensions:
+Concerning the slotted holes for the straps, we decided to make them with the following dimensions:
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/roofrack/mep-oblongs.png" alt="Mise en plan détail oblong">
-    <figcaption class="figure-caption">Detail A : oblongs</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/mep-oblongs.png" alt="Detailed layout of slotted holes">
+    <figcaption class="figure-caption">Detail A : slotted holes</figcaption>
 </figure>
 
 ### Step 2: Cutting the plate
-Une fois notre plan réalisé, nous l'avons édité sur un logiciel de CAO (dans notre cas, Fusion360) pour en sortir un fichier <b>DXF</b>, adapté à la découpe.
+Once the schema done, we created it using a CAD software (in our case it was Fusion360) to make a <b>DXF</b> file, which is suitable for laser cutting services.
 
-C'est à ce moment que notre partenaire <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/">John-Steel</a> est entré en jeu. <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/">John-Steel</a> est un site de découpe sur-mesure de métal et de bois, permettant aux particuliers de déposer leur fichier <b>DXF</b> ou d'utiliser l'éditeur en ligne pour concevoir leurs pièces et obtenir un prix en temps direct.
+It is at this moment that our partner <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/en/">John-Steel</a> come into play. <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/en/">John-Steel</a> is a made-to-measure metal and wood cutting service website, allowing individuals to drop their DXF files or using the online editor to create pieces that suit their needs, and get a quote in real time.
 
-Nous avons donc envoyé notre fichier <b>DXF</b> sur le site <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/">John-Steel</a>, puis avons sélectionné la matière souhaitée (<b>Inox 304L</b> en épaisseur 2mm), et nous avons obtenu notre prix directement. Quelques jours plus tard, la plaque était prête, conforme à notre fichier.
+We sent our <b>DXF</b> file on the <a class="anchor-link" target="_blank" class="link" href="https://john-steel.com/en/">John-Steel</a> website, we selected the wanted material (<b>stainless steel 304L</b>, thickness 2mm), and we directly got the price. A few days later, the metal sheet was ready and compliant with the file we gave.
 
-Voici une photo de la plaque, venant juste d'être déballée :
-<figure>
-    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-1.jpg" alt="Plaque découpée">
+Here is a picture of the metal sheet just unwrapped:
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-1.jpg" alt="Cutted flat sheet">
     <figcaption class="figure-caption">Cut out plate</figcaption>
 </figure>
 
-We are perfectly satisfied with this one, which is completely in line with our file and our initial idea.
+We are perfectly satisfied with this one, which is fully compliant with our file and our initial idea.
 ## Assembly phase
 ### Step 1: Attachment of the angles
 
-Given the dimensions of our plate (quite large for a thin thickness), it was likely to deform slightly if a heavy weight was placed on one of its ends.
+Given the dimensions of our steel sheet (quite large for a thin thickness), it was likely to deform slightly if a heavy weight was placed on one of its ends.
 
-We therefore decided to install angle irons all around to stiffen the overall structure of our gallery. To do this, we used 22.5mm square and 1.2mm thick perforated angle iron. Here is the result once the angles are fixed:
+Therefore, we decided to install mounting angles all around the edges to stiffen the overall structure of our roof rack. To do this, we used 22.5mm square and 1.2mm thick perforated mounting angles in galvanized steel. Here is the result once the angles were fixed:
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-2.jpg" alt="Cornières fixées">
-    <figcaption class="figure-caption">Angle iron fixed on the gallery</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-2.jpg" alt="Angles fixed">
+    <figcaption class="figure-caption">Mounting angles fixed on the roof rack</figcaption>
 </figure>
 
 ### Step 2: Attaching the roof rack to the roof bars
 
-Now that our plate is more rigid, it's time to fix it on our roof bars. To do this, we checked that the distance between the two bars corresponds to the distance between the holes in the plate, then we drilled them in the right places.
+Now that our plate is more rigid, it's time to fix it on our roof bars. To do this, we checked that the distance between the two bars corresponds to the distance between the holes in the plate, then we drilled them at the right places in the bars.
 
-Then we put the roof rack on the bars and fixed it with M8 screws and locknuts, to avoid vibrations to loosen the nuts.
+After that, we put the roof rack on the bars and fixed it with M8 screws and locknuts, to avoid vibrations to loosen the nuts.
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-3.jpg" alt="Galerie fixée">
-    <figcaption class="figure-caption">Gallery fixed on the roof bars</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-3.jpg" alt="Roof rack fixed">
+    <figcaption class="figure-caption">Roof rack fixed on the roof bars</figcaption>
 </figure>
 
 We also took advantage of the perforated angle on the front of the plate to attach four <b>long range headlights</b> (not yet wired in the photo), and we offset the antenna to the right side of the plate.
 
 ## Results
 
-Here is what we got when we attached our gear to the gallery. We attached two spare wheels, a gas can in a burlap cloth and a tool box.
+Here is what we got when we attached our gear to the roof rack. We attached two spare wheels, a gas can in a burlap cloth and a tool box.
 
-All the elements are correctly fixed thanks to the presence of many holes serving as fixing points, the gallery is solid and does not bend in spite of the loaded weight.
+All the elements are correctly fixed thanks to the presence of many holes serving as fixing points, the roof rack is solid and does not bend in spite of the loaded weight.
 
 Here are some pictures of the final result:
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-4.jpg" alt="Galerie en place">
-    <figcaption class="figure-caption">Result (loaded gallery)</figcaption>
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-4.jpg" alt="Roof rack">
+    <figcaption class="figure-caption">Result (loaded roof rack)</figcaption>
 </figure>
 
 <figure>
-    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-5.jpg" alt="Galerie en place">
+    <img loading="lazy" class="image-article" src="/images/roofrack/roofrack-5.jpg" alt="Roof rack">
     <figcaption class="figure-caption">Result (complete car)</figcaption>
 </figure>

@@ -20,7 +20,7 @@ tags = [
     <figcaption class="figure-caption">Itinéraire du premier jour</figcaption>
 </figure>
 
-La veille de l'aventure, la voiture est chargée. Les dernières vérifications ont été faite.L'excitation monte.
+La veille de l'aventure, la voiture est chargée. Les dernières vérifications ont été faites. L'excitation monte.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day1/IMG_0052.jpg" alt="Voiture chargée prête à partir">
@@ -62,7 +62,7 @@ Toutes les équipes arrivent une par une et nous nous regroupons sur le parking 
     <figcaption class="figure-caption">Briefing des équipages au départ</figcaption>
 </figure>
 
-Top départ ! Nous partons du Col de la Madeleine pour 7 jours d'aventure inoubliable.
+Top départ ! Nous partons du Col de la Madeleine pour 7 jours d'aventure inoubliables.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day1/IMG_0067.jpg" alt="Départ de l'aventure">
@@ -86,13 +86,13 @@ Nous avons ensuite pris la direction de la vallée de la Maurienne puis le Col d
     <figcaption class="figure-caption">Le résultat</figcaption>
 </figure>
 
-On est passé à côté du très beau Lac de Grand'Maison...drôle de nom; peut-être dû à cette montagne triangulaire ?
+On est passé à côté du très beau Lac de Grand'Maison... drôle de nom; peut-être dû à cette montagne triangulaire ?
 <figure>
     <img loading="lazy" class="image-article" src="/images/day1/IMG_0091.jpg" alt="Le lac de Grand'Maison">
     <figcaption class="figure-caption">La "grande maison" du lac de Grand'Maison</figcaption>
 </figure>
 
-Avec la température assez élevé de l'été et ces longues montées, la voiture chargée chauffe légèrement. Rien d'alarmant mais on lui laisse le temps de souffler en haut du col avant d'entammer une belle descente sur une petite route sinueuse et direction L'Alpe d'Huez et Mizoën.
+Avec la température assez élevée de l'été et ces longues montées, la voiture chargée chauffe légèrement. Rien d'alarmant mais on lui laisse le temps de souffler en haut du col avant d'entammer une belle descente sur une petite route sinueuse et direction L'Alpe d'Huez et Mizoën.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day1/IMG_0103.jpg" alt="Refroidissement du moteur">
@@ -104,7 +104,7 @@ Avec la température assez élevé de l'été et ces longues montées, la voitur
     <figcaption class="figure-caption">Redescente vers Mizoën</figcaption>
 </figure>
 
-Puis nous avons ensuite rejoint le camping "Le Gravelote" pour la première nuit de l'aventure. Quelques gouttes de pluie sont tombées sur le petit matin pour compliquer le pliage de notre campement. Mais l'itinéraire du lendemain nous réserve de belles surprises.
+Puis nous avons ensuite rejoint le camping "Le Gravelotte" pour la première nuit de l'aventure. Quelques gouttes de pluie sont tombées sur le petit matin pour compliquer le pliage de notre campement. Mais l'itinéraire du lendemain nous réserve de belles surprises.
 
 <figure>
     <img loading="lazy" class="image-article" src="/images/day1/IMG_0102.jpg" alt="Le campement du premier soir">
