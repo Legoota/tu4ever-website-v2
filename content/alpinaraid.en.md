@@ -17,6 +17,8 @@ Here is a comprehensive view of the itinerary from the 2022 Alpinaraid edition, 
     <figcaption class="figure-caption">Itinerary of the trip</figcaption>
 </figure>
 
+During the raid, we took a series of pictures with a film camera. You can see it completely on Léo K.'s website : <a class="anchor-link" target="_blank" href="https://leokr.fr/tags/alpinaraid/">Film photography - leokr</a>
+
 Raid timeline
 ------------
 

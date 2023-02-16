@@ -17,6 +17,8 @@ Voici un aperçu global du parcours de l'édition 2022 de l'Alpinaraid, du 3 au 
     <figcaption class="figure-caption">Itinéraire de l'aventure</figcaption>
 </figure>
 
+Nous avons réalisé une série de photos à l'appareil argentique, vous pouvez la retrouver intégralement sur la page de Léo K. : <a class="anchor-link" target="_blank" href="https://leokr.fr/tags/alpinaraid/">Argentique - leokr</a>
+
 
 La timeline du raid
 ------------
